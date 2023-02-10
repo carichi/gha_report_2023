@@ -4,8 +4,8 @@ lapply(required.packages, require, character.only=T)
 setwd(dirname(getActiveDocumentContext()$path))
 invisible(source("https://raw.githubusercontent.com/devinit/gha_automation/main/general/acapsAPI.R"))
 
-dates <- as.POSIXlt("2021-01-01")
-dates$mon <- seq(0,23)
+dates <- as.POSIXlt("2022-01-01")
+dates$mon <- seq(0,length(seq(as.Date("2022-01-01"), Sys.Date(), by = 'month'))-1)
 dates <- format.Date(dates, "%b%Y")
 
 pin.out <- data.table()

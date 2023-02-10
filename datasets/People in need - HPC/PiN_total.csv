@@ -1,682 +1,259 @@
-id,plan_name,iso3,year,sector_id,sector,metric_name,metric_id,value,category_id,category_name,description,source
-716,Mali 2019,MLI,2019,0,Total,totalPopulation,Total population,19417673,Total,Total,Mali HPC 2019 Caseload,Cluster of Mali
-716,Mali 2019,MLI,2019,0,Total,Affected,affected,,Total,Total,Mali HPC 2019 Caseload,Cluster of Mali
-716,Mali 2019,MLI,2019,0,Total,In Need,inNeed,3200000,Total,Total,Mali HPC 2019 Caseload,Cluster of Mali
-716,Mali 2019,MLI,2019,0,Total,Targeted,target,2300000,Total,Total,Mali HPC 2019 Caseload,Cluster of Mali
-727,Madagascar Flash Appeal 2019,MDG,2019,0,Total,Total Population,totalPopulation,,Total,Total,National PIN,Flash Appeal document
-727,Madagascar Flash Appeal 2019,MDG,2019,0,Total,Affected,affected,,Total,Total,National PIN,Flash Appeal document
-727,Madagascar Flash Appeal 2019,MDG,2019,0,Total,In Need,inNeed,890000,Total,Total,National PIN,Flash Appeal document
-727,Madagascar Flash Appeal 2019,MDG,2019,0,Total,Targeted,target,460000,Total,Total,National PIN,Flash Appeal document
-664,occupied Palestinian territory 2019  (part of 2018-2020 HRP),PSE,2019,0,Total,Total population,totalPopulation,4950000,Total,Total,People targeted,
-664,occupied Palestinian territory 2019  (part of 2018-2020 HRP),PSE,2019,0,Total,Affected,affected,,Total,Total,People targeted,
-664,occupied Palestinian territory 2019  (part of 2018-2020 HRP),PSE,2019,0,Total,In Need,inNeed,2500000,Total,Total,People targeted,
-664,occupied Palestinian territory 2019  (part of 2018-2020 HRP),PSE,2019,0,Total,Targeted,target,1400000,Total,Total,People targeted,
-668,Chad 2019,TCD,2019,0,Total,totalPopulation,Total population,15775428,Total,Total,Figures,OCHA Chad
-668,Chad 2019,TCD,2019,0,Total,Affected,affected,,Total,Total,Figures,OCHA Chad
-668,Chad 2019,TCD,2019,0,Total,In Need,inNeed,4269261,Total,Total,Figures,OCHA Chad
-668,Chad 2019,TCD,2019,0,Total,Targeted,target,2003044,Total,Total,Figures,OCHA Chad
-720,Pakistan 2019,PAK,2019,0,Total,Total Population,totalPopulation,,Total,Total,FATA Transition Plan,Sectors
-720,Pakistan 2019,PAK,2019,0,Total,Affected,affected,,Total,Total,FATA Transition Plan,Sectors
-720,Pakistan 2019,PAK,2019,0,Total,In Need,inNeed,2900000,Total,Total,FATA Transition Plan,Sectors
-720,Pakistan 2019,PAK,2019,0,Total,Targeted,target,1100000,Total,Total,FATA Transition Plan,Sectors
-720,Pakistan 2019,PAK,2019,0,Total,Total Population,totalPopulation,,Total,Total,Drought Response Plan,Sectors
-720,Pakistan 2019,PAK,2019,0,Total,Affected,affected,,Total,Total,Drought Response Plan,Sectors
-720,Pakistan 2019,PAK,2019,0,Total,In Need,inNeed,5e+06,Total,Total,Drought Response Plan,Sectors
-720,Pakistan 2019,PAK,2019,0,Total,Targeted,target,2e+06,Total,Total,Drought Response Plan,Sectors
-720,Pakistan 2019,PAK,2019,0,Total,Total Population,totalPopulation,,Total,Total,Overall Caseload,
-720,Pakistan 2019,PAK,2019,0,Total,Affected,affected,,Total,Total,Overall Caseload,
-720,Pakistan 2019,PAK,2019,0,Total,In Need,inNeed,7900000,Total,Total,Overall Caseload,
-720,Pakistan 2019,PAK,2019,0,Total,Targeted,target,3100000,Total,Total,Overall Caseload,
-719,Bangladesh: 2019 Joint Response Plan for Rohingya Humanitarian Crisis (January-December),BGD,2019,0,Total,Total Population,totalPopulation,,Total,Total,Humanitarian profile,GHO 2019
-719,Bangladesh: 2019 Joint Response Plan for Rohingya Humanitarian Crisis (January-December),BGD,2019,0,Total,Affected,affected,,Total,Total,Humanitarian profile,GHO 2019
-719,Bangladesh: 2019 Joint Response Plan for Rohingya Humanitarian Crisis (January-December),BGD,2019,0,Total,In Need,inNeed,1200000,Total,Total,Humanitarian profile,GHO 2019
-719,Bangladesh: 2019 Joint Response Plan for Rohingya Humanitarian Crisis (January-December),BGD,2019,0,Total,Targeted,target,1200000,Total,Total,Humanitarian profile,GHO 2019
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,Total Population,totalPopulation,,Total,Total,Drought caseload,
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,Affected,affected,,Total,Total,Drought caseload,
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,In Need,inNeed,815000,Total,Total,Drought caseload,
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,Targeted,target,7e+05,Total,Total,Drought caseload,
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,Total Population,totalPopulation,,Total,Total,Cyclone Caseload,
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,Affected,affected,,Total,Total,Cyclone Caseload,
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,In Need,inNeed,1850000,Total,Total,Cyclone Caseload,
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,Targeted,target,1720000,Total,Total,Cyclone Caseload,
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,Total Population,totalPopulation,,Total,Total,Overall Caseload,
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,Affected,affected,,Total,Total,Overall Caseload,
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,In Need,inNeed,2580000,Total,Total,Overall Caseload,
-761,Mozambique Humanitarian Response Plan 2019,MOZ,2019,0,Total,Targeted,target,2420000,Total,Total,Overall Caseload,
-794,Burkina Faso 2019,BFA,2019,0,Total,Total Population,totalPopulation,2.1e+07,Total,Total,-,https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/bfa-hwp-20190211-web_1.pdf
-794,Burkina Faso 2019,BFA,2019,0,Total,Affected,affected,,Total,Total,-,https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/bfa-hwp-20190211-web_1.pdf
-794,Burkina Faso 2019,BFA,2019,0,Total,In Need,inNeed,1200000,Total,Total,-,https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/bfa-hwp-20190211-web_1.pdf
-794,Burkina Faso 2019,BFA,2019,0,Total,Targeted,target,898000,Total,Total,-,https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/bfa-hwp-20190211-web_1.pdf
-674,Central African Republic 2019,CAF,2019,0,Total,Total Population,totalPopulation,4600000,Total,Total,2019 Planning Figures for GHO,
-674,Central African Republic 2019,CAF,2019,0,Total,Affected,affected,,Total,Total,2019 Planning Figures for GHO,
-674,Central African Republic 2019,CAF,2019,0,Total,In Need,inNeed,2900000,Total,Total,2019 Planning Figures for GHO,
-674,Central African Republic 2019,CAF,2019,0,Total,Targeted,target,1700000,Total,Total,2019 Planning Figures for GHO,
-724,Syria Refugee Response and Resilience Plan (3RP) 2019,TUR;LBN;JOR;IRQ;EGY,2019,0,Total,Total Population,totalPopulation,,Total,Total,Caseload estimate (late 2018),
-724,Syria Refugee Response and Resilience Plan (3RP) 2019,TUR;LBN;JOR;IRQ;EGY,2019,0,Total,Affected,affected,,Total,Total,Caseload estimate (late 2018),
-724,Syria Refugee Response and Resilience Plan (3RP) 2019,TUR;LBN;JOR;IRQ;EGY,2019,0,Total,In Need,inNeed,5500000,Total,Total,Caseload estimate (late 2018),
-724,Syria Refugee Response and Resilience Plan (3RP) 2019,TUR;LBN;JOR;IRQ;EGY,2019,0,Total,Targeted,target,5500000,Total,Total,Caseload estimate (late 2018),
-829,Islamic Republic of Iran: Floods Response Plan (April 2019),IRN,2019,0,Total,Total Population,totalPopulation,82300000,Total,Total,Plan caseload,Link
-829,Islamic Republic of Iran: Floods Response Plan (April 2019),IRN,2019,0,Total,Affected,affected,1e+07,Total,Total,Plan caseload,Link
-829,Islamic Republic of Iran: Floods Response Plan (April 2019),IRN,2019,0,Total,In Need,inNeed,2e+06,Total,Total,Plan caseload,Link
-829,Islamic Republic of Iran: Floods Response Plan (April 2019),IRN,2019,0,Total,Targeted,target,115000,Total,Total,Plan caseload,Link
-726,Regional Refugee and Migrant Response Plan (for Refugees and Migrants from Venezuela),PRY;URY;CHL;ARG;PAN;MEX;CRI;TTO;GUY;DOM;CUW;PER;ABW;ECU;COL;BRA,2019,0,Total,Total Population,totalPopulation,,Total,Total,Humanitarian profile,GHO 2019
-726,Regional Refugee and Migrant Response Plan (for Refugees and Migrants from Venezuela),PRY;URY;CHL;ARG;PAN;MEX;CRI;TTO;GUY;DOM;CUW;PER;ABW;ECU;COL;BRA,2019,0,Total,Affected,affected,,Total,Total,Humanitarian profile,GHO 2019
-726,Regional Refugee and Migrant Response Plan (for Refugees and Migrants from Venezuela),PRY;URY;CHL;ARG;PAN;MEX;CRI;TTO;GUY;DOM;CUW;PER;ABW;ECU;COL;BRA,2019,0,Total,In Need,inNeed,3600000,Total,Total,Humanitarian profile,GHO 2019
-726,Regional Refugee and Migrant Response Plan (for Refugees and Migrants from Venezuela),PRY;URY;CHL;ARG;PAN;MEX;CRI;TTO;GUY;DOM;CUW;PER;ABW;ECU;COL;BRA,2019,0,Total,Targeted,target,2200000,Total,Total,Humanitarian profile,GHO 2019
-717,DPR Korea Needs and Priorities 2019,PRK,2019,0,Total,Total Population,totalPopulation,2.5e+07,Total,Total,National humanitarian profile,DPRK 2019 Needs and Priorities
-717,DPR Korea Needs and Priorities 2019,PRK,2019,0,Total,Affected,affected,,Total,Total,National humanitarian profile,DPRK 2019 Needs and Priorities
-717,DPR Korea Needs and Priorities 2019,PRK,2019,0,Total,In Need,inNeed,10900000,Total,Total,National humanitarian profile,DPRK 2019 Needs and Priorities
-717,DPR Korea Needs and Priorities 2019,PRK,2019,0,Total,Targeted,target,3800000,Total,Total,National humanitarian profile,DPRK 2019 Needs and Priorities
-671,Iraq 2019,IRQ,2019,0,Total,Total Population,totalPopulation,3.7e+07,Total,Total,"",
-671,Iraq 2019,IRQ,2019,0,Total,Affected,affected,10572392,Total,Total,"",
-671,Iraq 2019,IRQ,2019,0,Total,In Need,inNeed,6650000,Total,Total,"",
-671,Iraq 2019,IRQ,2019,0,Total,Targeted,target,1750000,Total,Total,"",
-671,Iraq 2019,IRQ,2019,0,Total,Total Population,totalPopulation,3.7e+07,Total,Total,"",
-671,Iraq 2019,IRQ,2019,0,Total,Affected,affected,10600000,Total,Total,"",
-671,Iraq 2019,IRQ,2019,0,Total,In Need,inNeed,6650000,Total,Total,"",
-671,Iraq 2019,IRQ,2019,0,Total,Targeted,target,1750000,Total,Total,"",
-712,Libya 2019,LBY,2019,0,Total,Total Population,totalPopulation,6633554,Total,Total,Humanitarian profile,HNO
-712,Libya 2019,LBY,2019,0,Total,Affected,affected,1554937,Total,Total,Humanitarian profile,HNO
-712,Libya 2019,LBY,2019,0,Total,In Need,inNeed,822890,Total,Total,Humanitarian profile,HNO
-712,Libya 2019,LBY,2019,0,Total,Targeted,target,552000,Total,Total,Humanitarian profile,HNO
-670,Sudan 2019,SDN,2019,0,Total,Total Population,totalPopulation,40080000,Total,Total,SUDAN,SUDAN HRP 2019
-670,Sudan 2019,SDN,2019,0,Total,Affected,affected,,Total,Total,SUDAN,SUDAN HRP 2019
-670,Sudan 2019,SDN,2019,0,Total,In Need,inNeed,5674216.36,Total,Total,SUDAN,SUDAN HRP 2019
-670,Sudan 2019,SDN,2019,0,Total,Targeted,target,4392716,Total,Total,SUDAN,SUDAN HRP 2019
-718,Cameroon 2019,CMR,2019,0,Total,totalPopulation,Total population,2.5e+07,Total,Total,figures,OCHA Cameroon
-718,Cameroon 2019,CMR,2019,0,Total,Affected,affected,,Total,Total,figures,OCHA Cameroon
-718,Cameroon 2019,CMR,2019,0,Total,In Need,inNeed,4300000,Total,Total,figures,OCHA Cameroon
-718,Cameroon 2019,CMR,2019,0,Total,Targeted,target,2300000,Total,Total,figures,OCHA Cameroon
-673,Democratic Republic of the Congo 2019,COD,2019,0,Total,Total Population,totalPopulation,99849705,Total,Total,BFP,
-673,Democratic Republic of the Congo 2019,COD,2019,0,Total,Affected,affected,,Total,Total,BFP,
-673,Democratic Republic of the Congo 2019,COD,2019,0,Total,In Need,inNeed,12800000,Total,Total,BFP,
-673,Democratic Republic of the Congo 2019,COD,2019,0,Total,Targeted,target,9e+06,Total,Total,BFP,
-679,Haiti 2019,HTI,2019,0,Total,totalPopulation,Total population,10900000,Total,Total,"",
-679,Haiti 2019,HTI,2019,0,Total,Affected,affected,,Total,Total,"",
-679,Haiti 2019,HTI,2019,0,Total,In Need,inNeed,2600000,Total,Total,"",
-679,Haiti 2019,HTI,2019,0,Total,Targeted,target,1300000,Total,Total,"",
-678,Myanmar 2019,MMR,2019,0,Total,Total Population,totalPopulation,,Total,Total,National caseload,
-678,Myanmar 2019,MMR,2019,0,Total,Affected,affected,,Total,Total,National caseload,
-678,Myanmar 2019,MMR,2019,0,Total,In Need,inNeed,941000,Total,Total,National caseload,
-678,Myanmar 2019,MMR,2019,0,Total,Targeted,target,941000,Total,Total,National caseload,
-713,South Sudan 2019,SSD,2019,0,Total,Total Population,totalPopulation,11385139,Total,Total,HNO data,HDX
-713,South Sudan 2019,SSD,2019,0,Total,Affected,affected,,Total,Total,HNO data,HDX
-713,South Sudan 2019,SSD,2019,0,Total,In Need,inNeed,7207217,Total,Total,HNO data,HDX
-713,South Sudan 2019,SSD,2019,0,Total,Targeted,target,5690877,Total,Total,HNO data,HDX
-667,Somalia 2019,SOM,2019,0,Total,Total Population,totalPopulation,12300000,Total,Total,Somalia Figures,Somalia GHO Input
-667,Somalia 2019,SOM,2019,0,Total,Affected,affected,,Total,Total,Somalia Figures,Somalia GHO Input
-667,Somalia 2019,SOM,2019,0,Total,In Need,inNeed,4200000,Total,Total,Somalia Figures,Somalia GHO Input
-667,Somalia 2019,SOM,2019,0,Total,Targeted,target,3400000,Total,Total,Somalia Figures,Somalia GHO Input
-663,Syria Humanitarian Response Plan 2019,SYR,2019,0,Total,Total Population,totalPopulation,,Total,Total,National PIN,HRP Summary
-663,Syria Humanitarian Response Plan 2019,SYR,2019,0,Total,Affected,affected,,Total,Total,National PIN,HRP Summary
-663,Syria Humanitarian Response Plan 2019,SYR,2019,0,Total,In Need,inNeed,11708496,Total,Total,National PIN,HRP Summary
-663,Syria Humanitarian Response Plan 2019,SYR,2019,0,Total,Targeted,target,11708496,Total,Total,National PIN,HRP Summary
-663,Syria Humanitarian Response Plan 2019,SYR,2019,0,Total,Direct Assistance,Custom,9086206,Total,Total,National PIN,HRP Summary
-663,Syria Humanitarian Response Plan 2019,SYR,2019,0,Total,Service Delivery,Custom,11746309,Total,Total,National PIN,HRP Summary
-827,Venezuela 2019,VEN,2019,0,Total,Total Population,totalPopulation,,Total,Total,"",
-827,Venezuela 2019,VEN,2019,0,Total,Affected,affected,,Total,Total,"",
-827,Venezuela 2019,VEN,2019,0,Total,In Need,inNeed,7037319,Total,Total,"",
-827,Venezuela 2019,VEN,2019,0,Total,Targeted,target,2662991,Total,Total,"",
-675,Yemen 2019,YEM,2019,0,Total,Total Population,totalPopulation,30500000,Total,Total,National PIN,
-675,Yemen 2019,YEM,2019,0,Total,Affected,affected,,Total,Total,National PIN,
-675,Yemen 2019,YEM,2019,0,Total,Total In Need,inNeed,24100000,Total,Total,National PIN,
-675,Yemen 2019,YEM,2019,0,Total,Acute In Need,Custom,14300000,Total,Total,National PIN,
-675,Yemen 2019,YEM,2019,0,Total,Moderate In Need,Custom,,Total,Total,National PIN,
-675,Yemen 2019,YEM,2019,0,Total,Targeted,target,21400000,Total,Total,National PIN,
-676,Niger 2019,NER,2019,0,Total,Total Population,totalPopulation,2.2e+07,Total,Total,figures,OCHA Niger
-676,Niger 2019,NER,2019,0,Total,Affected,affected,,Total,Total,figures,OCHA Niger
-676,Niger 2019,NER,2019,0,Total,In Need,inNeed,2300000,Total,Total,figures,OCHA Niger
-676,Niger 2019,NER,2019,0,Total,Targeted,target,1600000,Total,Total,figures,OCHA Niger
-722,Zimbabwe Flash Appeal 2019 / 2020,ZWE,2019,0,Total,Total Population,totalPopulation,15100000,Total,Total,National PIN,Flash Appeal document
-722,Zimbabwe Flash Appeal 2019 / 2020,ZWE,2019,0,Total,Affected,affected,,Total,Total,National PIN,Flash Appeal document
-722,Zimbabwe Flash Appeal 2019 / 2020,ZWE,2019,0,Total,In Need,inNeed,5300000,Total,Total,National PIN,Flash Appeal document
-722,Zimbabwe Flash Appeal 2019 / 2020,ZWE,2019,0,Total,Targeted,target,2200000,Total,Total,National PIN,Flash Appeal document
-672,Afghanistan 2019,AFG,2019,0,Total,Total Population,totalPopulation,35715106,Total,Total,Plan Caseload 2019,
-672,Afghanistan 2019,AFG,2019,0,Total,Affected,affected,,Total,Total,Plan Caseload 2019,
-672,Afghanistan 2019,AFG,2019,0,Total,In Need,inNeed,6294000,Total,Total,Plan Caseload 2019,
-672,Afghanistan 2019,AFG,2019,0,Total,Targeted,target,4490000,Total,Total,Plan Caseload 2019,
-662,Ukraine Humanitarian Response Plan (HRP) 2019,UKR,2019,0,Total,Total Population,totalPopulation,4.2e+07,Total,Total,"",
-662,Ukraine Humanitarian Response Plan (HRP) 2019,UKR,2019,0,Total,Affected,affected,5200000,Total,Total,"",
-662,Ukraine Humanitarian Response Plan (HRP) 2019,UKR,2019,0,Total,In Need,inNeed,3500000,Total,Total,"",
-662,Ukraine Humanitarian Response Plan (HRP) 2019,UKR,2019,0,Total,Targeted,target,2300000,Total,Total,"",
-677,Ethiopia 2019,ETH,2019,0,Total,Total Population,totalPopulation,96527523,Total,Total,HRP 2019,CO
-677,Ethiopia 2019,ETH,2019,0,Total,Affected,affected,,Total,Total,HRP 2019,CO
-677,Ethiopia 2019,ETH,2019,0,Total,In Need,inNeed,8864257,Total,Total,HRP 2019,CO
-677,Ethiopia 2019,ETH,2019,0,Total,Targeted,target,8303796,Total,Total,HRP 2019,CO
-721,Burundi 2019,BDI,2019,0,Total,totalPopulation,Total population,11700000,Total,Total,figures,OCHA Burundi
-721,Burundi 2019,BDI,2019,0,Total,Affected,affected,,Total,Total,figures,OCHA Burundi
-721,Burundi 2019,BDI,2019,0,Total,In Need,inNeed,1769125,Total,Total,figures,OCHA Burundi
-721,Burundi 2019,BDI,2019,0,Total,Targeted,target,711528,Total,Total,figures,OCHA Burundi
-714,Nigeria 2019,NGA,2019,0,Total,Total Population,totalPopulation,13430185,Total,Total,Humanitarian Profile,Nigeria 2019 HNO and HRP
-714,Nigeria 2019,NGA,2019,0,Total,Affected,affected,13430185,Total,Total,Humanitarian Profile,Nigeria 2019 HNO and HRP
-714,Nigeria 2019,NGA,2019,0,Total,In Need,inNeed,7124606,Total,Total,Humanitarian Profile,Nigeria 2019 HNO and HRP
-714,Nigeria 2019,NGA,2019,0,Total,Targeted,target,6200411,Total,Total,Humanitarian Profile,Nigeria 2019 HNO and HRP
-869,Nigeria 2020,NGA,2020,0,Total,Population,totalPopulation,,Total,Total,Estimate,GHO 2020
-869,Nigeria 2020,NGA,2020,0,Total,Affected,affected,,Total,Total,Estimate,GHO 2020
-869,Nigeria 2020,NGA,2020,0,Total,In Need,inNeed,10600000,Total,Total,Estimate,GHO 2020
-869,Nigeria 2020,NGA,2020,0,Total,Targeted,target,7800000,Total,Total,Estimate,GHO 2020
-869,Nigeria 2020,NGA,2020,0,Total,Expected Reach,expectedReach,5700000,Total,Total,Estimate,GHO 2020
-869,Nigeria 2020,NGA,2020,0,Total,Population,totalPopulation,,Total,Total,COVID Figures,HRP
-869,Nigeria 2020,NGA,2020,0,Total,Affected,affected,,Total,Total,COVID Figures,HRP
-869,Nigeria 2020,NGA,2020,0,Total,In Need,inNeed,7700000,Total,Total,COVID Figures,HRP
-869,Nigeria 2020,NGA,2020,0,Total,Targeted,target,5600000,Total,Total,COVID Figures,HRP
-869,Nigeria 2020,NGA,2020,0,Total,Expected Reach,expectedReach,5700000,Total,Total,COVID Figures,HRP
-919,Democratic Republic of the Congo 2020,COD,2020,0,Total,Population,totalPopulation,,Total,Total,HPC 2020,
-919,Democratic Republic of the Congo 2020,COD,2020,0,Total,Affectées,affected,,Total,Total,HPC 2020,
-919,Democratic Republic of the Congo 2020,COD,2020,0,Total,Dans le besoin,inNeed,25623884,Total,Total,HPC 2020,
-919,Democratic Republic of the Congo 2020,COD,2020,0,Total,Ciblées,target,9195598,Total,Total,HPC 2020,
-919,Democratic Republic of the Congo 2020,COD,2020,0,Total,Atteintes Attendues,expectedReach,6600000,Total,Total,HPC 2020,
-908,Niger 2020,NER,2020,0,Total,Population,totalPopulation,,Total,Total,Niger Plan Caseload,GHO 2020
-908,Niger 2020,NER,2020,0,Total,Affectées,affected,,Total,Total,Niger Plan Caseload,GHO 2020
-908,Niger 2020,NER,2020,0,Total,Dans le besoin,inNeed,3680752,Total,Total,Niger Plan Caseload,GHO 2020
-908,Niger 2020,NER,2020,0,Total,Ciblées,target,2192214,Total,Total,Niger Plan Caseload,GHO 2020
-908,Niger 2020,NER,2020,0,Total,Atteintes Attendues,expectedReach,1070000,Total,Total,Niger Plan Caseload,GHO 2020
-908,Niger 2020,NER,2020,0,Total,Population,totalPopulation,,Total,Total,COVID-19,COVID-19
-908,Niger 2020,NER,2020,0,Total,Affectées,affected,,Total,Total,COVID-19,COVID-19
-908,Niger 2020,NER,2020,0,Total,Dans le besoin,inNeed,3700000,Total,Total,COVID-19,COVID-19
-908,Niger 2020,NER,2020,0,Total,Ciblées,target,3e+06,Total,Total,COVID-19,COVID-19
-908,Niger 2020,NER,2020,0,Total,Atteintes Attendues,expectedReach,1070000,Total,Total,COVID-19,COVID-19
-923,Central African Republic 2020,CAF,2020,0,Total,Population,totalPopulation,,Total,Total,HPC 2020,
-923,Central African Republic 2020,CAF,2020,0,Total,Affectées,affected,,Total,Total,HPC 2020,
-923,Central African Republic 2020,CAF,2020,0,Total,Dans le besoin,inNeed,2600000,Total,Total,HPC 2020,
-923,Central African Republic 2020,CAF,2020,0,Total,Ciblées,target,1600000,Total,Total,HPC 2020,
-923,Central African Republic 2020,CAF,2020,0,Total,Atteintes Attendues,expectedReach,1400000,Total,Total,HPC 2020,
-831,Somalia 2020,SOM,2020,0,Total,Population,totalPopulation,12327530,Total,Total,HPC 2020,
-831,Somalia 2020,SOM,2020,0,Total,Affected,affected,,Total,Total,HPC 2020,
-831,Somalia 2020,SOM,2020,0,Total,In Need,inNeed,5200000,Total,Total,HPC 2020,
-831,Somalia 2020,SOM,2020,0,Total,Targeted,target,3e+06,Total,Total,HPC 2020,
-831,Somalia 2020,SOM,2020,0,Total,Expected Reach,expectedReach,2300000,Total,Total,HPC 2020,
-936,Ethiopia 2020,ETH,2020,0,Total,Population,totalPopulation,99294448,Total,Total,Estimate,GHO 2020
-936,Ethiopia 2020,ETH,2020,0,Total,Affected,affected,,Total,Total,Estimate,GHO 2020
-936,Ethiopia 2020,ETH,2020,0,Total,In Need,inNeed,19187694,Total,Total,Estimate,GHO 2020
-936,Ethiopia 2020,ETH,2020,0,Total,Targeted,target,15139062,Total,Total,Estimate,GHO 2020
-936,Ethiopia 2020,ETH,2020,0,Total,Expected Reach,expectedReach,1.3e+07,Total,Total,Estimate,GHO 2020
-930,Burkina Faso 2020,BFA,2020,0,Total,Population,totalPopulation,,Total,Total,Estimate,Source HRP Revisé
-930,Burkina Faso 2020,BFA,2020,0,Total,Affectées,affected,,Total,Total,Estimate,Source HRP Revisé
-930,Burkina Faso 2020,BFA,2020,0,Total,Dans le besoin,inNeed,2928111,Total,Total,Estimate,Source HRP Revisé
-930,Burkina Faso 2020,BFA,2020,0,Total,Ciblées,target,2104401,Total,Total,Estimate,Source HRP Revisé
-930,Burkina Faso 2020,BFA,2020,0,Total,Atteintes Attendues,expectedReach,2300000,Total,Total,Estimate,Source HRP Revisé
-830,Ukraine 2020,UKR,2020,0,Total,Population,totalPopulation,,Total,Total,Estimate,GHO 2020
-830,Ukraine 2020,UKR,2020,0,Total,Affected,affected,,Total,Total,Estimate,GHO 2020
-830,Ukraine 2020,UKR,2020,0,Total,In Need,inNeed,3400000,Total,Total,Estimate,GHO 2020
-830,Ukraine 2020,UKR,2020,0,Total,Targeted,target,2100000,Total,Total,Estimate,GHO 2020
-830,Ukraine 2020,UKR,2020,0,Total,Expected Reach,expectedReach,1010000,Total,Total,Estimate,GHO 2020
-913,Mali 2020,MLI,2020,0,Total,Population,totalPopulation,19972000,Total,Total,Mali Plan Caseload Estimate,GHO 2020
-913,Mali 2020,MLI,2020,0,Total,Affectées,affected,13520257,Total,Total,Mali Plan Caseload Estimate,GHO 2020
-913,Mali 2020,MLI,2020,0,Total,Dans le besoin,inNeed,6807194,Total,Total,Mali Plan Caseload Estimate,GHO 2020
-913,Mali 2020,MLI,2020,0,Total,Ciblées,target,5493214,Total,Total,Mali Plan Caseload Estimate,GHO 2020
-913,Mali 2020,MLI,2020,0,Total,Atteintes Attendues,expectedReach,2600000,Total,Total,Mali Plan Caseload Estimate,GHO 2020
-929,Afghanistan 2020,AFG,2020,0,Total,Population,totalPopulation,,Total,Total,Non-COVID Caseload,
-929,Afghanistan 2020,AFG,2020,0,Total,Affected,affected,,Total,Total,Non-COVID Caseload,
-929,Afghanistan 2020,AFG,2020,0,Total,In Need,inNeed,10373398,Total,Total,Non-COVID Caseload,
-929,Afghanistan 2020,AFG,2020,0,Total,Targeted,target,6799101,Total,Total,Non-COVID Caseload,
-929,Afghanistan 2020,AFG,2020,0,Total,Expected Reach,expectedReach,1e+07,Total,Total,Non-COVID Caseload,
-929,Afghanistan 2020,AFG,2020,0,Total,Population,totalPopulation,37600000,Total,Total,National Total Caseloads,HRP
-929,Afghanistan 2020,AFG,2020,0,Total,Affected,affected,3.5e+07,Total,Total,National Total Caseloads,HRP
-929,Afghanistan 2020,AFG,2020,0,Total,In Need,inNeed,1.4e+07,Total,Total,National Total Caseloads,HRP
-929,Afghanistan 2020,AFG,2020,0,Total,Targeted,target,11054331,Total,Total,National Total Caseloads,HRP
-929,Afghanistan 2020,AFG,2020,0,Total,Expected Reach,expectedReach,1e+07,Total,Total,National Total Caseloads,HRP
-929,Afghanistan 2020,AFG,2020,0,Total,Population,totalPopulation,,Total,Total,COVID Caseload,
-929,Afghanistan 2020,AFG,2020,0,Total,Affected,affected,,Total,Total,COVID Caseload,
-929,Afghanistan 2020,AFG,2020,0,Total,In Need,inNeed,7596823,Total,Total,COVID Caseload,
-929,Afghanistan 2020,AFG,2020,0,Total,Targeted,target,5361132,Total,Total,COVID Caseload,
-929,Afghanistan 2020,AFG,2020,0,Total,Expected Reach,expectedReach,1e+07,Total,Total,COVID Caseload,
-998,Bangladesh Intersectoral COVID-19 Response Plan 2020,BGD,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-998,Bangladesh Intersectoral COVID-19 Response Plan 2020,BGD,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-998,Bangladesh Intersectoral COVID-19 Response Plan 2020,BGD,2020,0,Total,In Need,inNeed,20180000,Total,Total,Plan Caseload,
-998,Bangladesh Intersectoral COVID-19 Response Plan 2020,BGD,2020,0,Total,Targeted,target,7450000,Total,Total,Plan Caseload,
-990,Mozambique COVID-19 2020,MOZ,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-990,Mozambique COVID-19 2020,MOZ,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-990,Mozambique COVID-19 2020,MOZ,2020,0,Total,In Need,inNeed,7800000,Total,Total,Plan Caseload,
-990,Mozambique COVID-19 2020,MOZ,2020,0,Total,Targeted,target,2900000,Total,Total,Plan Caseload,
-950,Colombia 2020,COL,2020,0,Total,Población Total,totalPopulation,,Total,Total,"",
-950,Colombia 2020,COL,2020,0,Total,Personas Afectadas,affected,,Total,Total,"",
-950,Colombia 2020,COL,2020,0,Total,Personas con Necesidades,inNeed,5160176,Total,Total,"",
-950,Colombia 2020,COL,2020,0,Total,Población Meta,target,1077566,Total,Total,"",
-950,Colombia 2020,COL,2020,0,Total,Personas Atendidas,expectedReach,1200000,Total,Total,"",
-950,Colombia 2020,COL,2020,0,Total,Población Total,totalPopulation,,Total,Total,COVID-19 and Non COVID-19 caseloads,
-950,Colombia 2020,COL,2020,0,Total,Personas Afectadas,affected,,Total,Total,COVID-19 and Non COVID-19 caseloads,
-950,Colombia 2020,COL,2020,0,Total,Personas con Necesidades,inNeed,10400000,Total,Total,COVID-19 and Non COVID-19 caseloads,
-950,Colombia 2020,COL,2020,0,Total,Población Meta,target,1740000,Total,Total,COVID-19 and Non COVID-19 caseloads,
-950,Colombia 2020,COL,2020,0,Total,Personas Atendidas,expectedReach,1200000,Total,Total,COVID-19 and Non COVID-19 caseloads,
-907,Chad 2020,TCD,2020,0,Total,Population,totalPopulation,,Total,Total,Chad Plan Caseload,"HNO 2020, HRP révisé 2020"
-907,Chad 2020,TCD,2020,0,Total,Affectées,affected,,Total,Total,Chad Plan Caseload,"HNO 2020, HRP révisé 2020"
-907,Chad 2020,TCD,2020,0,Total,Dans le besoin,inNeed,6400000,Total,Total,Chad Plan Caseload,"HNO 2020, HRP révisé 2020"
-907,Chad 2020,TCD,2020,0,Total,Ciblées,target,3800000,Total,Total,Chad Plan Caseload,"HNO 2020, HRP révisé 2020"
-907,Chad 2020,TCD,2020,0,Total,Atteintes Attendues,expectedReach,2200000,Total,Total,Chad Plan Caseload,"HNO 2020, HRP révisé 2020"
-1009,Lebanon Flash Appeal 2020,LBN,2020,0,Total,Population,totalPopulation,,Total,Total,Flash Appeal Caseload,
-1009,Lebanon Flash Appeal 2020,LBN,2020,0,Total,Affected,affected,,Total,Total,Flash Appeal Caseload,
-1009,Lebanon Flash Appeal 2020,LBN,2020,0,Total,In Need,inNeed,1e+06,Total,Total,Flash Appeal Caseload,
-1009,Lebanon Flash Appeal 2020,LBN,2020,0,Total,Targeted,target,3e+05,Total,Total,Flash Appeal Caseload,
-947,South Sudan Regional Refugee Response Plan 2020,UGA;KEN;ETH,2020,0,Total,Total Population,totalPopulation,,Total,Total,"GHO Estimate - portion covering Ethiopia, Kenya and Uganda",
-947,South Sudan Regional Refugee Response Plan 2020,UGA;KEN;ETH,2020,0,Total,Affected,affected,,Total,Total,"GHO Estimate - portion covering Ethiopia, Kenya and Uganda",
-947,South Sudan Regional Refugee Response Plan 2020,UGA;KEN;ETH,2020,0,Total,In Need,inNeed,3784313,Total,Total,"GHO Estimate - portion covering Ethiopia, Kenya and Uganda",
-947,South Sudan Regional Refugee Response Plan 2020,UGA;KEN;ETH,2020,0,Total,Targeted,target,3784313,Total,Total,"GHO Estimate - portion covering Ethiopia, Kenya and Uganda",
-944,Refugee and Migrant Response Plan 2020 for Refugees and Migrants from Venezuela (RMRP,ABW;PRY;CRI;PAN;TTO;DOM;CHL;MEX;PER;ECU;COL;BRA;BOL;URY;ARG;GUY;CUW,2020,0,Total,Total Population,totalPopulation,,Total,Total,GHO Estimate,
-944,Refugee and Migrant Response Plan 2020 for Refugees and Migrants from Venezuela (RMRP,ABW;PRY;CRI;PAN;TTO;DOM;CHL;MEX;PER;ECU;COL;BRA;BOL;URY;ARG;GUY;CUW,2020,0,Total,Affected,affected,,Total,Total,GHO Estimate,
-944,Refugee and Migrant Response Plan 2020 for Refugees and Migrants from Venezuela (RMRP,ABW;PRY;CRI;PAN;TTO;DOM;CHL;MEX;PER;ECU;COL;BRA;BOL;URY;ARG;GUY;CUW,2020,0,Total,In Need,inNeed,6094678,Total,Total,GHO Estimate,
-944,Refugee and Migrant Response Plan 2020 for Refugees and Migrants from Venezuela (RMRP,ABW;PRY;CRI;PAN;TTO;DOM;CHL;MEX;PER;ECU;COL;BRA;BOL;URY;ARG;GUY;CUW,2020,0,Total,Targeted,target,4089265,Total,Total,GHO Estimate,
-1008,Regional Migrant Response Plan for the Horn of Africa and Yemen 2020,SOM;ETH;YEM;DJI,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-1008,Regional Migrant Response Plan for the Horn of Africa and Yemen 2020,SOM;ETH;YEM;DJI,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-1008,Regional Migrant Response Plan for the Horn of Africa and Yemen 2020,SOM;ETH;YEM;DJI,2020,0,Total,In Need,inNeed,2e+05,Total,Total,Plan Caseload,
-1008,Regional Migrant Response Plan for the Horn of Africa and Yemen 2020,SOM;ETH;YEM;DJI,2020,0,Total,Targeted,target,2e+05,Total,Total,Plan Caseload,
-906,Bangladesh: 2020 Joint Response Plan for Rohingya Humanitarian Crisis (January-December),BGD,2020,0,Total,Total Population,totalPopulation,,Total,Total,Bangladesh 2020 plan,GHO 2020
-906,Bangladesh: 2020 Joint Response Plan for Rohingya Humanitarian Crisis (January-December),BGD,2020,0,Total,In Need,inNeed,1809000,Total,Total,Bangladesh 2020 plan,GHO 2020
-906,Bangladesh: 2020 Joint Response Plan for Rohingya Humanitarian Crisis (January-December),BGD,2020,0,Total,Targeted,target,1809000,Total,Total,Bangladesh 2020 plan,GHO 2020
-943,Syria Refugee Response and Resilience Plan (3RP) 2020,EGY;TUR;LBN;IRQ;JOR,2020,0,Total,Total Population,totalPopulation,,Total,Total,GHO Estimate,
-943,Syria Refugee Response and Resilience Plan (3RP) 2020,EGY;TUR;LBN;IRQ;JOR,2020,0,Total,Affected,affected,,Total,Total,GHO Estimate,
-943,Syria Refugee Response and Resilience Plan (3RP) 2020,EGY;TUR;LBN;IRQ;JOR,2020,0,Total,In Need,inNeed,9543006,Total,Total,GHO Estimate,
-943,Syria Refugee Response and Resilience Plan (3RP) 2020,EGY;TUR;LBN;IRQ;JOR,2020,0,Total,Targeted,target,9543006,Total,Total,GHO Estimate,
-922,Burundi 2020,BDI,2020,0,Total,Population,totalPopulation,,Total,Total,Estimate,HRP révisé 2020
-922,Burundi 2020,BDI,2020,0,Total,Affectées,affected,,Total,Total,Estimate,HRP révisé 2020
-922,Burundi 2020,BDI,2020,0,Total,Dans le besoin,inNeed,1740000,Total,Total,Estimate,HRP révisé 2020
-922,Burundi 2020,BDI,2020,0,Total,Ciblées,target,887000,Total,Total,Estimate,HRP révisé 2020
-922,Burundi 2020,BDI,2020,0,Total,Atteintes Attendues,expectedReach,370000,Total,Total,Estimate,HRP révisé 2020
-935,DPR Korea Needs and Priorities 2020,PRK,2020,0,Total,Population,totalPopulation,,Total,Total,Overall Caseload,GHO
-935,DPR Korea Needs and Priorities 2020,PRK,2020,0,Total,Affected,affected,,Total,Total,Overall Caseload,GHO
-935,DPR Korea Needs and Priorities 2020,PRK,2020,0,Total,In Need,inNeed,10400000,Total,Total,Overall Caseload,GHO
-935,DPR Korea Needs and Priorities 2020,PRK,2020,0,Total,Targeted,target,5500000,Total,Total,Overall Caseload,GHO
-945,Burundi Regional Refugee Response Plan 2020,UGA;RWA;TZA,2020,0,Total,Total Population,totalPopulation,,Total,Total,"GHO Estimate - portion covering Rwanda, Tanzania and Uganda",
-945,Burundi Regional Refugee Response Plan 2020,UGA;RWA;TZA,2020,0,Total,Affected,affected,,Total,Total,"GHO Estimate - portion covering Rwanda, Tanzania and Uganda",
-945,Burundi Regional Refugee Response Plan 2020,UGA;RWA;TZA,2020,0,Total,In Need,inNeed,2760313,Total,Total,"GHO Estimate - portion covering Rwanda, Tanzania and Uganda",
-945,Burundi Regional Refugee Response Plan 2020,UGA;RWA;TZA,2020,0,Total,Targeted,target,2760313,Total,Total,"GHO Estimate - portion covering Rwanda, Tanzania and Uganda",
-925,Yemen 2020,YEM,2020,0,Total,Population,totalPopulation,,Total,Total,Overall plan caseload,HPC 2020
-925,Yemen 2020,YEM,2020,0,Total,Affected,affected,,Total,Total,Overall plan caseload,HPC 2020
-925,Yemen 2020,YEM,2020,0,Total,In Need,inNeed,24300000,Total,Total,Overall plan caseload,HPC 2020
-925,Yemen 2020,YEM,2020,0,Total,Targeted,target,1.9e+07,Total,Total,Overall plan caseload,HPC 2020
-925,Yemen 2020,YEM,2020,0,Total,Expected Reach,expectedReach,10700000,Total,Total,Overall plan caseload,HPC 2020
-924,Syria Humanitarian Response Plan 2020,SYR,2020,0,Total,Population,totalPopulation,,Total,Total,HPC 2020,
-924,Syria Humanitarian Response Plan 2020,SYR,2020,0,Total,Affected,affected,,Total,Total,HPC 2020,
-924,Syria Humanitarian Response Plan 2020,SYR,2020,0,Total,In Need,inNeed,11100000,Total,Total,HPC 2020,
-924,Syria Humanitarian Response Plan 2020,SYR,2020,0,Total,Targeted,target,9800000,Total,Total,HPC 2020,
-924,Syria Humanitarian Response Plan 2020,SYR,2020,0,Total,Expected Reach,expectedReach,7400000,Total,Total,HPC 2020,
-946,Democratic Republic of Congo Regional Refugee Response Plan 2020,ZMB;UGA;TZA;RWA;COG;AGO,2020,0,Total,Total Population,totalPopulation,,Total,Total,"GHO Estimate - portion covering Angola, Republic of Congo, Rwanda, Tanzania, Uganda",
-946,Democratic Republic of Congo Regional Refugee Response Plan 2020,ZMB;UGA;TZA;RWA;COG;AGO,2020,0,Total,Affected,affected,,Total,Total,"GHO Estimate - portion covering Angola, Republic of Congo, Rwanda, Tanzania, Uganda",
-946,Democratic Republic of Congo Regional Refugee Response Plan 2020,ZMB;UGA;TZA;RWA;COG;AGO,2020,0,Total,In Need,inNeed,2163502,Total,Total,"GHO Estimate - portion covering Angola, Republic of Congo, Rwanda, Tanzania, Uganda",
-946,Democratic Republic of Congo Regional Refugee Response Plan 2020,ZMB;UGA;TZA;RWA;COG;AGO,2020,0,Total,Targeted,target,2163502,Total,Total,"GHO Estimate - portion covering Angola, Republic of Congo, Rwanda, Tanzania, Uganda",
-1005,Republic of Congo Intersectoral COVID-19 Response Plan 2020,COG,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-1005,Republic of Congo Intersectoral COVID-19 Response Plan 2020,COG,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-1005,Republic of Congo Intersectoral COVID-19 Response Plan 2020,COG,2020,0,Total,In Need,inNeed,1700000,Total,Total,Plan Caseload,
-1005,Republic of Congo Intersectoral COVID-19 Response Plan 2020,COG,2020,0,Total,Targeted,target,4e+05,Total,Total,Plan Caseload,
-870,Sudan 2020,SDN,2020,0,Total,Population,totalPopulation,,Total,Total,Estimate,GHO 2020
-870,Sudan 2020,SDN,2020,0,Total,Affected,affected,,Total,Total,Estimate,GHO 2020
-870,Sudan 2020,SDN,2020,0,Total,In Need,inNeed,9328196,Total,Total,Estimate,GHO 2020
-870,Sudan 2020,SDN,2020,0,Total,Targeted,target,6064357,Total,Total,Estimate,GHO 2020
-870,Sudan 2020,SDN,2020,0,Total,Expected Reach,expectedReach,8800000,Total,Total,Estimate,GHO 2020
-870,Sudan 2020,SDN,2020,0,Total,Population,totalPopulation,,Total,Total,Total of COVID & Non-COVID,
-870,Sudan 2020,SDN,2020,0,Total,Affected,affected,,Total,Total,Total of COVID & Non-COVID,
-870,Sudan 2020,SDN,2020,0,Total,In Need,inNeed,12200000,Total,Total,Total of COVID & Non-COVID,
-870,Sudan 2020,SDN,2020,0,Total,Targeted,target,8750000,Total,Total,Total of COVID & Non-COVID,
-870,Sudan 2020,SDN,2020,0,Total,Expected Reach,expectedReach,8800000,Total,Total,Total of COVID & Non-COVID,
-870,Sudan 2020,SDN,2020,0,Total,Population,totalPopulation,,Total,Total,COVID-19,COVID-19
-870,Sudan 2020,SDN,2020,0,Total,Affected,affected,,Total,Total,COVID-19,COVID-19
-870,Sudan 2020,SDN,2020,0,Total,In Need,inNeed,9800000,Total,Total,COVID-19,COVID-19
-870,Sudan 2020,SDN,2020,0,Total,Targeted,target,6700000,Total,Total,COVID-19,COVID-19
-870,Sudan 2020,SDN,2020,0,Total,Expected Reach,expectedReach,8800000,Total,Total,COVID-19,COVID-19
-920,Haiti 2020,HTI,2020,0,Total,Total Population,totalPopulation,,Total,Total,HPC 2020,
-920,Haiti 2020,HTI,2020,0,Total,Affected,affected,,Total,Total,HPC 2020,
-920,Haiti 2020,HTI,2020,0,Total,In Need,inNeed,5100000,Total,Total,HPC 2020,
-920,Haiti 2020,HTI,2020,0,Total,Targeted,target,2300000,Total,Total,HPC 2020,
-920,Haiti 2020,HTI,2020,0,Total,Expected Reach,expectedReach,1400000,Total,Total,HPC 2020,
-920,Haiti 2020,HTI,2020,0,Total,Total Population,totalPopulation,,Total,Total,COVID-19,COVID-19
-920,Haiti 2020,HTI,2020,0,Total,Affected,affected,,Total,Total,COVID-19,COVID-19
-920,Haiti 2020,HTI,2020,0,Total,In Need,inNeed,10900000,Total,Total,COVID-19,COVID-19
-920,Haiti 2020,HTI,2020,0,Total,Targeted,target,10900000,Total,Total,COVID-19,COVID-19
-920,Haiti 2020,HTI,2020,0,Total,Expected Reach,expectedReach,1400000,Total,Total,COVID-19,COVID-19
-985,Colombia Intersectoral COVID-19 Response Plan 2020,COL,2020,,,,,,,,,
-1010,Jordan Intersectoral COVID-19 Response Plan 2020,JOR,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan caseload,
-1010,Jordan Intersectoral COVID-19 Response Plan 2020,JOR,2020,0,Total,Affected,affected,,Total,Total,Plan caseload,
-1010,Jordan Intersectoral COVID-19 Response Plan 2020,JOR,2020,0,Total,In Need,inNeed,1400000,Total,Total,Plan caseload,
-1010,Jordan Intersectoral COVID-19 Response Plan 2020,JOR,2020,0,Total,Targeted,target,980000,Total,Total,Plan caseload,
-1000,Kenya Intersectoral COVID-19 Response Plan 2020,KEN,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caselaod,
-1000,Kenya Intersectoral COVID-19 Response Plan 2020,KEN,2020,0,Total,Affected,affected,,Total,Total,Plan Caselaod,
-1000,Kenya Intersectoral COVID-19 Response Plan 2020,KEN,2020,0,Total,In Need,inNeed,13840000,Total,Total,Plan Caselaod,
-1000,Kenya Intersectoral COVID-19 Response Plan 2020,KEN,2020,0,Total,Targeted,target,9652000,Total,Total,Plan Caselaod,
-1002,Zambia Intersectoral COVID-19 Response Plan 2020,ZMB,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-1002,Zambia Intersectoral COVID-19 Response Plan 2020,ZMB,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-1002,Zambia Intersectoral COVID-19 Response Plan 2020,ZMB,2020,0,Total,In Need,inNeed,9790000,Total,Total,Plan Caseload,
-1002,Zambia Intersectoral COVID-19 Response Plan 2020,ZMB,2020,0,Total,Targeted,target,6100000,Total,Total,Plan Caseload,
-1004,Uganda Intersectoral COVID-19 Response Plan 2020,UGA,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-1004,Uganda Intersectoral COVID-19 Response Plan 2020,UGA,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-1004,Uganda Intersectoral COVID-19 Response Plan 2020,UGA,2020,0,Total,In Need,inNeed,13570000,Total,Total,Plan Caseload,
-1004,Uganda Intersectoral COVID-19 Response Plan 2020,UGA,2020,0,Total,Targeted,target,11350000,Total,Total,Plan Caseload,
-1001,Tanzania Intersectoral COVID-19 Response Plan 2020,TZA,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-1001,Tanzania Intersectoral COVID-19 Response Plan 2020,TZA,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-1001,Tanzania Intersectoral COVID-19 Response Plan 2020,TZA,2020,0,Total,In Need,inNeed,11100000,Total,Total,Plan Caseload,
-1001,Tanzania Intersectoral COVID-19 Response Plan 2020,TZA,2020,0,Total,Targeted,target,7450000,Total,Total,Plan Caseload,
-999,Ecuador Intersectoral COVID-19 Response Plan 2020,ECU,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-999,Ecuador Intersectoral COVID-19 Response Plan 2020,ECU,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-999,Ecuador Intersectoral COVID-19 Response Plan 2020,ECU,2020,0,Total,In Need,inNeed,9e+06,Total,Total,Plan Caseload,
-999,Ecuador Intersectoral COVID-19 Response Plan 2020,ECU,2020,0,Total,Targeted,target,2400000,Total,Total,Plan Caseload,
-993,Sierra Leone Intersectoral COVID Response Plan 2020,SLE,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-993,Sierra Leone Intersectoral COVID Response Plan 2020,SLE,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-993,Sierra Leone Intersectoral COVID Response Plan 2020,SLE,2020,0,Total,In Need,inNeed,,Total,Total,Plan Caseload,
-993,Sierra Leone Intersectoral COVID Response Plan 2020,SLE,2020,0,Total,Targeted,target,1800000,Total,Total,Plan Caseload,
-991,Pakistan Intersectoral COVID Response Plan 2020,PAK,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-991,Pakistan Intersectoral COVID Response Plan 2020,PAK,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-991,Pakistan Intersectoral COVID Response Plan 2020,PAK,2020,0,Total,In Need,inNeed,6710000,Total,Total,Plan Caseload,
-991,Pakistan Intersectoral COVID Response Plan 2020,PAK,2020,0,Total,Targeted,target,5660000,Total,Total,Plan Caseload,
-994,Togo Intersectoral COVID Response Plan 2020,TGO,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-994,Togo Intersectoral COVID Response Plan 2020,TGO,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-994,Togo Intersectoral COVID Response Plan 2020,TGO,2020,0,Total,In Need,inNeed,3500000,Total,Total,Plan Caseload,
-994,Togo Intersectoral COVID Response Plan 2020,TGO,2020,0,Total,Targeted,target,1500000,Total,Total,Plan Caseload,
-1003,Djibouti Intersectoral COVID-19 Response Plan 2020,DJI,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-1003,Djibouti Intersectoral COVID-19 Response Plan 2020,DJI,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-1003,Djibouti Intersectoral COVID-19 Response Plan 2020,DJI,2020,0,Total,In Need,inNeed,1150000,Total,Total,Plan Caseload,
-1003,Djibouti Intersectoral COVID-19 Response Plan 2020,DJI,2020,0,Total,Targeted,target,6e+05,Total,Total,Plan Caseload,
-992,Philippines Intersectoral COVID Response Plan 2020,PHL,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-992,Philippines Intersectoral COVID Response Plan 2020,PHL,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-992,Philippines Intersectoral COVID Response Plan 2020,PHL,2020,0,Total,In Need,inNeed,3.9e+07,Total,Total,Plan Caseload,
-992,Philippines Intersectoral COVID Response Plan 2020,PHL,2020,0,Total,Targeted,target,5400000,Total,Total,Plan Caseload,
-987,Iran Intersectoral COVID Response Plan 2020,IRN,2020,0,Total,Total Population,totalPopulation,,Total,Total,"",
-987,Iran Intersectoral COVID Response Plan 2020,IRN,2020,0,Total,Affected,affected,,Total,Total,"",
-987,Iran Intersectoral COVID Response Plan 2020,IRN,2020,0,Total,In Need,inNeed,40100000,Total,Total,"",
-987,Iran Intersectoral COVID Response Plan 2020,IRN,2020,0,Total,Targeted,target,2.5e+07,Total,Total,"",
-995,DPR Korea Intersectoral COVID Response Plan 2020,PRK,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-995,DPR Korea Intersectoral COVID Response Plan 2020,PRK,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-995,DPR Korea Intersectoral COVID Response Plan 2020,PRK,2020,0,Total,In Need,inNeed,,Total,Total,Plan Caseload,
-995,DPR Korea Intersectoral COVID Response Plan 2020,PRK,2020,0,Total,Targeted,target,,Total,Total,Plan Caseload,
-989,Liberia Intersectoral COVID Response Plan 2020,LBR,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-989,Liberia Intersectoral COVID Response Plan 2020,LBR,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-989,Liberia Intersectoral COVID Response Plan 2020,LBR,2020,0,Total,In Need,inNeed,4440000,Total,Total,Plan Caseload,
-989,Liberia Intersectoral COVID Response Plan 2020,LBR,2020,0,Total,Targeted,target,2500000,Total,Total,Plan Caseload,
-997,Cabo Delgado Province Mozambique Rapid Response Plan 2020,MOZ,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-997,Cabo Delgado Province Mozambique Rapid Response Plan 2020,MOZ,2020,0,Total,In Need,inNeed,712000,Total,Total,Plan Caseload,
-997,Cabo Delgado Province Mozambique Rapid Response Plan 2020,MOZ,2020,0,Total,Targeted,target,354000,Total,Total,Plan Caseload,
-988,Lebanon Intersectoral COVID Response Plan 2020,LBN,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-988,Lebanon Intersectoral COVID Response Plan 2020,LBN,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-988,Lebanon Intersectoral COVID Response Plan 2020,LBN,2020,0,Total,In Need,inNeed,6e+06,Total,Total,Plan Caseload,
-988,Lebanon Intersectoral COVID Response Plan 2020,LBN,2020,0,Total,Targeted,target,,Total,Total,Plan Caseload,
-986,Benin Intersectoral COVID Response Plan 2020,BEN,2020,0,Total,Total Population,totalPopulation,,Total,Total,Plan Caseload,
-986,Benin Intersectoral COVID Response Plan 2020,BEN,2020,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-986,Benin Intersectoral COVID Response Plan 2020,BEN,2020,0,Total,In Need,inNeed,3e+06,Total,Total,Plan Caseload,
-986,Benin Intersectoral COVID Response Plan 2020,BEN,2020,0,Total,Targeted,target,1e+06,Total,Total,Plan Caseload,
-832,occupied Palestinian territory 2020 (part of 2018-2020 HRP),PSE,2020,0,Total,Total population,totalPopulation,5200000,Total,Total,Estimate,GHO - actual PIN 2.239m
-832,occupied Palestinian territory 2020 (part of 2018-2020 HRP),PSE,2020,0,Total,Affected,affected,2890000,Total,Total,Estimate,GHO - actual PIN 2.239m
-832,occupied Palestinian territory 2020 (part of 2018-2020 HRP),PSE,2020,0,Total,In Need,inNeed,2400000,Total,Total,Estimate,GHO - actual PIN 2.239m
-832,occupied Palestinian territory 2020 (part of 2018-2020 HRP),PSE,2020,0,Total,Targeted,target,1500000,Total,Total,Estimate,GHO - actual PIN 2.239m
-832,occupied Palestinian territory 2020 (part of 2018-2020 HRP),PSE,2020,0,Total,Expected Reach,expectedReach,1200000,Total,Total,Estimate,GHO - actual PIN 2.239m
-996,Global Operational Support COVID-19,NA,2020,,,,,,,,,
-927,Cameroon 2020,CMR,2020,0,Total,Population,totalPopulation,,Total,Total,Cameroon Plan Caseload,GHO 2020
-927,Cameroon 2020,CMR,2020,0,Total,Affectées,affected,,Total,Total,Cameroon Plan Caseload,GHO 2020
-927,Cameroon 2020,CMR,2020,0,Total,Dans le besoin,inNeed,6252268,Total,Total,Cameroon Plan Caseload,GHO 2020
-927,Cameroon 2020,CMR,2020,0,Total,Ciblées,target,3392917,Total,Total,Cameroon Plan Caseload,GHO 2020
-927,Cameroon 2020,CMR,2020,0,Total,Atteintes Attendues,expectedReach,2200000,Total,Total,Cameroon Plan Caseload,GHO 2020
-865,South Sudan 2020,SSD,2020,0,Total,Population,totalPopulation,,Total,Total,HPC 2020,
-865,South Sudan 2020,SSD,2020,0,Total,Affected,affected,,Total,Total,HPC 2020,
-865,South Sudan 2020,SSD,2020,0,Total,In Need,inNeed,7500000,Total,Total,HPC 2020,
-865,South Sudan 2020,SSD,2020,0,Total,Targeted,target,7400000,Total,Total,HPC 2020,
-865,South Sudan 2020,SSD,2020,0,Total,Expected Reach,expectedReach,6500000,Total,Total,HPC 2020,
-937,Zambia 2019 - 2020,ZMB,2020,,,,,,,,,
-928,Venezuela 2020,VEN,2020,0,Total,Population,totalPopulation,32609376,Total,Total,Estimate,GHO 2020
-928,Venezuela 2020,VEN,2020,0,Total,Affected,affected,,Total,Total,Estimate,GHO 2020
-928,Venezuela 2020,VEN,2020,0,Total,In Need,inNeed,7e+06,Total,Total,Estimate,GHO 2020
-928,Venezuela 2020,VEN,2020,0,Total,Targeted,target,4536254,Total,Total,Estimate,GHO 2020
-928,Venezuela 2020,VEN,2020,0,Total,Expected Reach,expectedReach,4e+06,Total,Total,Estimate,GHO 2020
-931,Libya 2020,LBY,2020,0,Total,In Need,inNeed,1e+06,Total,Total,Caseload disaggregated by type of population,HRP 2020
-931,Libya 2020,LBY,2020,0,Total,Targeted,target,345331,Total,Total,Caseload disaggregated by type of population,HRP 2020
-931,Libya 2020,LBY,2020,0,Total,Expected Reach,expectedReach,390000,Total,Total,Caseload disaggregated by type of population,HRP 2020
-1007,Unallocated supplementary NGO envelope COVID-19 2020,UKR;VEN;ZWE;BGD,2020,,,,,,,,,
-866,Iraq 2020,IRQ,2020,0,Total,Population,totalPopulation,,Total,Total,HPC 2020,
-866,Iraq 2020,IRQ,2020,0,Total,Affected,affected,,Total,Total,HPC 2020,
-866,Iraq 2020,IRQ,2020,0,Total,In Need,inNeed,4100000,Total,Total,HPC 2020,
-866,Iraq 2020,IRQ,2020,0,Total,Targeted,target,1800000,Total,Total,HPC 2020,
-866,Iraq 2020,IRQ,2020,0,Total,Expected Reach,expectedReach,1400000,Total,Total,HPC 2020,
-1006,Famine Prevention COVID-19 2020,SDN;SSD;SOM;SLE;RWA;PHL;PAK;PSE;NGA;NER;MMR;MOZ;MLI;LBY;LBR;LSO;LBN;KEN;JOR;IRQ;IRN;HTI;ETH;EGY;ECU;COD;PRK;DJI;COL;TCD;CAF;CMR;BFA;BEN;BDI;BGD;AGO;AFG;NA;ZWE;ZMB;YEM;VEN;UKR;UGA;TUR;TGO;TZA;SYR,2020,,,,,,,,,
-939,Djibouti Flash Appeal 2019 - 2020,DJI,2020,0,Total,Total Population,totalPopulation,960000,Total,Total,Overall caseload,Flash Appeal document
-939,Djibouti Flash Appeal 2019 - 2020,DJI,2020,0,Total,Affected,affected,,Total,Total,Overall caseload,Flash Appeal document
-939,Djibouti Flash Appeal 2019 - 2020,DJI,2020,0,Total,In Need,inNeed,150000,Total,Total,Overall caseload,Flash Appeal document
-939,Djibouti Flash Appeal 2019 - 2020,DJI,2020,0,Total,Targeted,target,150000,Total,Total,Overall caseload,Flash Appeal document
-921,Zimbabwe 2020,ZWE,2020,0,Total,Population,totalPopulation,,Total,Total,Final caseload,HRP
-921,Zimbabwe 2020,ZWE,2020,0,Total,Affected,affected,,Total,Total,Final caseload,HRP
-921,Zimbabwe 2020,ZWE,2020,0,Total,In Need,inNeed,7021008,Total,Total,Final caseload,HRP
-921,Zimbabwe 2020,ZWE,2020,0,Total,Targeted,target,5599402,Total,Total,Final caseload,HRP
-921,Zimbabwe 2020,ZWE,2020,0,Total,Expected Reach,expectedReach,4e+06,Total,Total,Final caseload,HRP
-921,Zimbabwe 2020,ZWE,2020,0,Total,Population,totalPopulation,,Total,Total,"",HRP COVID-19 Addendum
-921,Zimbabwe 2020,ZWE,2020,0,Total,Affected,affected,,Total,Total,"",HRP COVID-19 Addendum
-921,Zimbabwe 2020,ZWE,2020,0,Total,In Need,inNeed,7481602,Total,Total,"",HRP COVID-19 Addendum
-921,Zimbabwe 2020,ZWE,2020,0,Total,Targeted,target,5964165,Total,Total,"",HRP COVID-19 Addendum
-921,Zimbabwe 2020,ZWE,2020,0,Total,Expected Reach,expectedReach,4e+06,Total,Total,"",HRP COVID-19 Addendum
-948,Lesotho Flash Appeal 2019-2020,LSO,2020,0,Total,Total Population,totalPopulation,2e+06,Total,Total,Caseload,Flash Appeal 2019-2020
-948,Lesotho Flash Appeal 2019-2020,LSO,2020,0,Total,Affected,affected,,Total,Total,Caseload,Flash Appeal 2019-2020
-948,Lesotho Flash Appeal 2019-2020,LSO,2020,0,Total,In Need,inNeed,508000,Total,Total,Caseload,Flash Appeal 2019-2020
-948,Lesotho Flash Appeal 2019-2020,LSO,2020,0,Total,Targeted,target,261000,Total,Total,Caseload,Flash Appeal 2019-2020
-934,Myanmar 2020,MMR,2020,0,Total,Population,totalPopulation,,Total,Total,"",
-934,Myanmar 2020,MMR,2020,0,Total,Affected,affected,,Total,Total,"",
-934,Myanmar 2020,MMR,2020,0,Total,In Need,inNeed,986000,Total,Total,"",
-934,Myanmar 2020,MMR,2020,0,Total,Targeted,target,848000,Total,Total,"",
-934,Myanmar 2020,MMR,2020,0,Total,Expected Reach,expectedReach,704000,Total,Total,"",
-952,COVID-19 Global Humanitarian Response Plan,BOL;BRA;CHL;COL;CRI;CUW;DOM;ECU;GUY;MEX;PAN;PER;TTO;URY;EGY;JOR;LBN;IRN;DJI;TUR;PRY;NA;AFG;BDI;BFA;CMR;COD;CAF;TCD;ETH;HTI;IRQ;LBY;MLI;MMR;NER;NGA;PSE;SOM;SSD;SDN;SYR;UKR;VEN;YEM;PRK;BGD;RWA;UGA;TZA;AGO;COG;ZMB;KEN;ARG;ABW,2020,,,,,,,,,
-1014,Sudan Humanitarian Response Plan 2021,SDN,2021,0,Total,Population,totalPopulation,47180433.2,Total,Total,Final Plan Caseload,HRP
-1014,Sudan Humanitarian Response Plan 2021,SDN,2021,0,Total,Affected,affected,,Total,Total,Final Plan Caseload,HRP
-1014,Sudan Humanitarian Response Plan 2021,SDN,2021,0,Total,In Need,inNeed,13446500.53,Total,Total,Final Plan Caseload,HRP
-1014,Sudan Humanitarian Response Plan 2021,SDN,2021,0,Total,Targeted,target,8900000,Total,Total,Final Plan Caseload,HRP
-1014,Sudan Humanitarian Response Plan 2021,SDN,2021,0,Total,Expected Reach,expectedReach,7400000,Total,Total,Final Plan Caseload,HRP
-1044,Syria Humanitarian Response Plan 2021,SYR,2021,0,Total,Population,totalPopulation,17500000,Total,Total,Plan Caseload,
-1044,Syria Humanitarian Response Plan 2021,SYR,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload,
-1044,Syria Humanitarian Response Plan 2021,SYR,2021,0,Total,In Need,inNeed,13400000,Total,Total,Plan Caseload,
-1044,Syria Humanitarian Response Plan 2021,SYR,2021,0,Total,Targeted,target,11100000,Total,Total,Plan Caseload,
-1044,Syria Humanitarian Response Plan 2021,SYR,2021,0,Total,Expected Reach,expectedReach,6700000,Total,Total,Plan Caseload,
-1029,Venezuela Plan de Respuesta Humanitario 2021,VEN,2021,0,Total,Población Total,totalPopulation,28700000,Total,Total,Plan Caseload Estimate,GHO Estimates
-1029,Venezuela Plan de Respuesta Humanitario 2021,VEN,2021,0,Total,Personas Afectadas,affected,,Total,Total,Plan Caseload Estimate,GHO Estimates
-1029,Venezuela Plan de Respuesta Humanitario 2021,VEN,2021,0,Total,Personas con Necesidades,inNeed,7e+06,Total,Total,Plan Caseload Estimate,GHO Estimates
-1029,Venezuela Plan de Respuesta Humanitario 2021,VEN,2021,0,Total,Población Meta,target,4500000,Total,Total,Plan Caseload Estimate,GHO Estimates
-1029,Venezuela Plan de Respuesta Humanitario 2021,VEN,2021,0,Total,Alcance esperado,expectedReach,4e+06,Total,Total,Plan Caseload Estimate,GHO Estimates
-1013,South Sudan Humanitarian Response Plan 2021,SSD,2021,0,Total,Population,totalPopulation,12060167,Total,Total,Plan Caseload Final,Final
-1013,South Sudan Humanitarian Response Plan 2021,SSD,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload Final,Final
-1013,South Sudan Humanitarian Response Plan 2021,SSD,2021,0,Total,In Need,inNeed,8310533,Total,Total,Plan Caseload Final,Final
-1013,South Sudan Humanitarian Response Plan 2021,SSD,2021,0,Total,Targeted,target,6645700,Total,Total,Plan Caseload Final,Final
-1013,South Sudan Humanitarian Response Plan 2021,SSD,2021,0,Total,Expected Reach,expectedReach,5700000,Total,Total,Plan Caseload Final,Final
-1025,République Centrafricaine Plan de Réponse Humanitaire 2021,CAF,2021,0,Total,Population,totalPopulation,4900000,Total,Total,Plan Caseload Final HRP,HRP
-1025,République Centrafricaine Plan de Réponse Humanitaire 2021,CAF,2021,0,Total,Affectées,affected,,Total,Total,Plan Caseload Final HRP,HRP
-1025,République Centrafricaine Plan de Réponse Humanitaire 2021,CAF,2021,0,Total,Dans le besoin,inNeed,2800000,Total,Total,Plan Caseload Final HRP,HRP
-1025,République Centrafricaine Plan de Réponse Humanitaire 2021,CAF,2021,0,Total,Ciblées,target,1840000,Total,Total,Plan Caseload Final HRP,HRP
-1025,République Centrafricaine Plan de Réponse Humanitaire 2021,CAF,2021,0,Total,Atteintes Attendues,expectedReach,1700000,Total,Total,Plan Caseload Final HRP,HRP
-1033,Niger Plan de Réponse Humanitaire 2021,NER,2021,0,Total,Population,totalPopulation,24200000,Total,Total,Plan Caseload,"NER HRP 2021, NER HNO 2021"
-1033,Niger Plan de Réponse Humanitaire 2021,NER,2021,0,Total,Affectées,affected,,Total,Total,Plan Caseload,"NER HRP 2021, NER HNO 2021"
-1033,Niger Plan de Réponse Humanitaire 2021,NER,2021,0,Total,Dans le besoin,inNeed,3821659,Total,Total,Plan Caseload,"NER HRP 2021, NER HNO 2021"
-1033,Niger Plan de Réponse Humanitaire 2021,NER,2021,0,Total,Ciblées,target,2072941,Total,Total,Plan Caseload,"NER HRP 2021, NER HNO 2021"
-1033,Niger Plan de Réponse Humanitaire 2021,NER,2021,0,Total,Atteintes Attendues,expectedReach,1700000,Total,Total,Plan Caseload,"NER HRP 2021, NER HNO 2021"
-1036,Mali Plan de Réponse Humanitaire 2021,MLI,2021,0,Total,Population,totalPopulation,20542003,Total,Total,Final HRP Caseload,HRP 2021
-1036,Mali Plan de Réponse Humanitaire 2021,MLI,2021,0,Total,Affectées,affected,,Total,Total,Final HRP Caseload,HRP 2021
-1036,Mali Plan de Réponse Humanitaire 2021,MLI,2021,0,Total,Dans le besoin,inNeed,5917269,Total,Total,Final HRP Caseload,HRP 2021
-1036,Mali Plan de Réponse Humanitaire 2021,MLI,2021,0,Total,Ciblées,target,4745063,Total,Total,Final HRP Caseload,HRP 2021
-1036,Mali Plan de Réponse Humanitaire 2021,MLI,2021,0,Total,Atteintes Attendues,expectedReach,2450000,Total,Total,Final HRP Caseload,HRP 2021
-1073,Kenya Drought Flash Appeal 2021,KEN,2021,0,Total,Population,totalPopulation,5.5e+07,Total,Total,2021 Plan Caseload,
-1073,Kenya Drought Flash Appeal 2021,KEN,2021,0,Total,Affected,affected,,Total,Total,2021 Plan Caseload,
-1073,Kenya Drought Flash Appeal 2021,KEN,2021,0,Total,In Need,inNeed,2945397,Total,Total,2021 Plan Caseload,
-1073,Kenya Drought Flash Appeal 2021,KEN,2021,0,Total,Targeted,target,1293570,Total,Total,2021 Plan Caseload,
-1073,Kenya Drought Flash Appeal 2021,KEN,2021,0,Total,Expected Reach,expectedReach,795000,Total,Total,2021 Plan Caseload,
-1028,Tchad Plan de Réponse Humanitaire 2021,TCD,2021,0,Total,Population,totalPopulation,16818393,Total,Total,Final Plan Caseload,HRP
-1028,Tchad Plan de Réponse Humanitaire 2021,TCD,2021,0,Total,Affectées,affected,,Total,Total,Final Plan Caseload,HRP
-1028,Tchad Plan de Réponse Humanitaire 2021,TCD,2021,0,Total,Dans le besoin,inNeed,5496653,Total,Total,Final Plan Caseload,HRP
-1028,Tchad Plan de Réponse Humanitaire 2021,TCD,2021,0,Total,Ciblées,target,3963577,Total,Total,Final Plan Caseload,HRP
-1028,Tchad Plan de Réponse Humanitaire 2021,TCD,2021,0,Total,Atteintes Attendues,expectedReach,2e+06,Total,Total,Final Plan Caseload,HRP
-1011,Somalia Humanitarian Response Plan 2021,SOM,2021,0,Total,Population,totalPopulation,12327530,Total,Total,Plan Caseload,"REACH, FSNAU"
-1011,Somalia Humanitarian Response Plan 2021,SOM,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload,"REACH, FSNAU"
-1011,Somalia Humanitarian Response Plan 2021,SOM,2021,0,Total,In Need,inNeed,5932722,Total,Total,Plan Caseload,"REACH, FSNAU"
-1011,Somalia Humanitarian Response Plan 2021,SOM,2021,0,Total,Targeted,target,4030085,Total,Total,Plan Caseload,"REACH, FSNAU"
-1011,Somalia Humanitarian Response Plan 2021,SOM,2021,0,Total,Expected Reach,expectedReach,3e+06,Total,Total,Plan Caseload,"REACH, FSNAU"
-1016,Colombia Plan de Respuesta Humanitario 2021,COL,2021,0,Total,Población Total,totalPopulation,51300000,Total,Total,Plan Caseload,HRP
-1016,Colombia Plan de Respuesta Humanitario 2021,COL,2021,0,Total,Personas Afectadas,affected,,Total,Total,Plan Caseload,HRP
-1016,Colombia Plan de Respuesta Humanitario 2021,COL,2021,0,Total,Personas con Necesidades,inNeed,6731041,Total,Total,Plan Caseload,HRP
-1016,Colombia Plan de Respuesta Humanitario 2021,COL,2021,0,Total,Población Meta,target,1446954,Total,Total,Plan Caseload,HRP
-1016,Colombia Plan de Respuesta Humanitario 2021,COL,2021,0,Total,Alcance esperado,expectedReach,1100000,Total,Total,Plan Caseload,HRP
-1053,Honduras Plan de Respuesta Humanitario 2021,HND,2021,0,Total,Población Total,totalPopulation,10100000,Total,Total,Caseload PIN Honduras,HNO/HRP
-1053,Honduras Plan de Respuesta Humanitario 2021,HND,2021,0,Total,Personas Afectadas,affected,4e+06,Total,Total,Caseload PIN Honduras,HNO/HRP
-1053,Honduras Plan de Respuesta Humanitario 2021,HND,2021,0,Total,Personas con Necesidades,inNeed,2800000,Total,Total,Caseload PIN Honduras,HNO/HRP
-1053,Honduras Plan de Respuesta Humanitario 2021,HND,2021,0,Total,Población Meta,target,1800000,Total,Total,Caseload PIN Honduras,HNO/HRP
-1053,Honduras Plan de Respuesta Humanitario 2021,HND,2021,0,Total,Alcance esperado,expectedReach,28000,Total,Total,Caseload PIN Honduras,HNO/HRP
-1026,République Démocratique du Congo Plan de Réponse Humanitaire 2021,COD,2021,0,Total,Population,totalPopulation,103199349,Total,Total,Plan Caseload,PRH
-1026,République Démocratique du Congo Plan de Réponse Humanitaire 2021,COD,2021,0,Total,Affectées,affected,,Total,Total,Plan Caseload,PRH
-1026,République Démocratique du Congo Plan de Réponse Humanitaire 2021,COD,2021,0,Total,Dans le besoin,inNeed,19616782,Total,Total,Plan Caseload,PRH
-1026,République Démocratique du Congo Plan de Réponse Humanitaire 2021,COD,2021,0,Total,Ciblées,target,9611247,Total,Total,Plan Caseload,PRH
-1026,République Démocratique du Congo Plan de Réponse Humanitaire 2021,COD,2021,0,Total,Atteintes Attendues,expectedReach,7060000,Total,Total,Plan Caseload,PRH
-1027,Libya Humanitarian Response Plan 2021,LBY,2021,0,Total,Population,totalPopulation,7392988,Total,Total,Plan Caseload final,Final HRP
-1027,Libya Humanitarian Response Plan 2021,LBY,2021,0,Total,Affected,affected,2475441,Total,Total,Plan Caseload final,Final HRP
-1027,Libya Humanitarian Response Plan 2021,LBY,2021,0,Total,In Need,inNeed,1250662,Total,Total,Plan Caseload final,Final HRP
-1027,Libya Humanitarian Response Plan 2021,LBY,2021,0,Total,Targeted,target,451000,Total,Total,Plan Caseload final,Final HRP
-1027,Libya Humanitarian Response Plan 2021,LBY,2021,0,Total,Expected Reach,expectedReach,5e+05,Total,Total,Plan Caseload final,Final HRP
-1032,Nigeria Humanitarian Response Plan 2021,NGA,2021,0,Total,Population,totalPopulation,211400000,Total,Total,2021 Plan Caseload,2021 HRP figures
-1032,Nigeria Humanitarian Response Plan 2021,NGA,2021,0,Total,Affected,affected,,Total,Total,2021 Plan Caseload,2021 HRP figures
-1032,Nigeria Humanitarian Response Plan 2021,NGA,2021,0,Total,In Need,inNeed,8700000,Total,Total,2021 Plan Caseload,2021 HRP figures
-1032,Nigeria Humanitarian Response Plan 2021,NGA,2021,0,Total,Targeted,target,6400000,Total,Total,2021 Plan Caseload,2021 HRP figures
-1032,Nigeria Humanitarian Response Plan 2021,NGA,2021,0,Total,Expected Reach,expectedReach,4800000,Total,Total,2021 Plan Caseload,2021 HRP figures
-1035,Iraq Humanitarian Response Plan 2021,IRQ,2021,0,Total,Population,totalPopulation,40200000,Total,Total,Plan Caseload,""
-1035,Iraq Humanitarian Response Plan 2021,IRQ,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload,""
-1035,Iraq Humanitarian Response Plan 2021,IRQ,2021,0,Total,In Need,inNeed,4100000,Total,Total,Plan Caseload,""
-1035,Iraq Humanitarian Response Plan 2021,IRQ,2021,0,Total,Targeted,target,1500000,Total,Total,Plan Caseload,""
-1035,Iraq Humanitarian Response Plan 2021,IRQ,2021,0,Total,Expected Reach,expectedReach,1200000,Total,Total,Plan Caseload,""
-1055,Northern Ethiopia Response Plan 2021,ETH,2021,0,Total,Total Population,totalPopulation,103726285,Total,Total,Plan Caseload,Plan caseload
-1055,Northern Ethiopia Response Plan 2021,ETH,2021,0,Total,In Need,inNeed,5235763,Total,Total,Plan Caseload,Plan caseload
-1055,Northern Ethiopia Response Plan 2021,ETH,2021,0,Total,Targeted,target,5235763,Total,Total,Plan Caseload,Plan caseload
-1055,Northern Ethiopia Response Plan 2021,ETH,2021,0,Total,Expected Reach,expectedReach,1719965,Total,Total,Plan Caseload,Plan caseload
-1037,Burkina Faso Plan de Réponse Humanitaire 2021,BFA,2021,0,Total,Population,totalPopulation,21500000,Total,Total,Personnes dans le besoin et ciblées pour une assistance alimentaire,HRP2021
-1037,Burkina Faso Plan de Réponse Humanitaire 2021,BFA,2021,0,Total,Affectées,affected,,Total,Total,Personnes dans le besoin et ciblées pour une assistance alimentaire,HRP2021
-1037,Burkina Faso Plan de Réponse Humanitaire 2021,BFA,2021,0,Total,Dans le besoin,inNeed,3533773,Total,Total,Personnes dans le besoin et ciblées pour une assistance alimentaire,HRP2021
-1037,Burkina Faso Plan de Réponse Humanitaire 2021,BFA,2021,0,Total,Ciblées,target,2920010,Total,Total,Personnes dans le besoin et ciblées pour une assistance alimentaire,HRP2021
-1037,Burkina Faso Plan de Réponse Humanitaire 2021,BFA,2021,0,Total,Atteintes Attendues,expectedReach,1600000,Total,Total,Personnes dans le besoin et ciblées pour une assistance alimentaire,HRP2021
-1041,Ethiopia Humanitarian Response Plan 2021,ETH,2021,0,Total,Population,totalPopulation,117900000,Total,Total,Plan Caseload,2021 HRP
-1041,Ethiopia Humanitarian Response Plan 2021,ETH,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload,2021 HRP
-1041,Ethiopia Humanitarian Response Plan 2021,ETH,2021,0,Total,In Need,inNeed,23902819,Total,Total,Plan Caseload,2021 HRP
-1041,Ethiopia Humanitarian Response Plan 2021,ETH,2021,0,Total,Targeted,target,14828160,Total,Total,Plan Caseload,2021 HRP
-1041,Ethiopia Humanitarian Response Plan 2021,ETH,2021,0,Total,Expected Reach,expectedReach,7671261,Total,Total,Plan Caseload,2021 HRP
-1031,Afghanistan Humanitarian Response Plan 2021,AFG,2021,0,Total,Population,totalPopulation,41727304,Total,Total,Plan Caseload Final,HRP
-1031,Afghanistan Humanitarian Response Plan 2021,AFG,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload Final,HRP
-1031,Afghanistan Humanitarian Response Plan 2021,AFG,2021,0,Total,In Need,inNeed,18400000,Total,Total,Plan Caseload Final,HRP
-1031,Afghanistan Humanitarian Response Plan 2021,AFG,2021,0,Total,Targeted,target,17700000,Total,Total,Plan Caseload Final,HRP
-1031,Afghanistan Humanitarian Response Plan 2021,AFG,2021,0,Total,Expected Reach,expectedReach,17500000,Total,Total,Plan Caseload Final,HRP
-1015,Ukraine Humanitarian Response Plan 2021,UKR,2021,0,Total,Population,totalPopulation,41700000,Total,Total,Plan final Caseload,HRP final
-1015,Ukraine Humanitarian Response Plan 2021,UKR,2021,0,Total,Affected,affected,,Total,Total,Plan final Caseload,HRP final
-1015,Ukraine Humanitarian Response Plan 2021,UKR,2021,0,Total,In Need,inNeed,3400000,Total,Total,Plan final Caseload,HRP final
-1015,Ukraine Humanitarian Response Plan 2021,UKR,2021,0,Total,Targeted,target,1900000,Total,Total,Plan final Caseload,HRP final
-1015,Ukraine Humanitarian Response Plan 2021,UKR,2021,0,Total,Expected Reach,expectedReach,1400000,Total,Total,Plan final Caseload,HRP final
-1024,Yemen Humanitarian Response Plan 2021,YEM,2021,0,Total,Population,totalPopulation,30800000,Total,Total,Plan Caseload Final,Final caseload
-1024,Yemen Humanitarian Response Plan 2021,YEM,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload Final,Final caseload
-1024,Yemen Humanitarian Response Plan 2021,YEM,2021,0,Total,In Need,inNeed,20700000,Total,Total,Plan Caseload Final,Final caseload
-1024,Yemen Humanitarian Response Plan 2021,YEM,2021,0,Total,Targeted,target,1.6e+07,Total,Total,Plan Caseload Final,Final caseload
-1024,Yemen Humanitarian Response Plan 2021,YEM,2021,0,Total,Expected Reach,expectedReach,10900000,Total,Total,Plan Caseload Final,Final caseload
-1054,El Salvador Plan de Respuesta Humanitario 2021,SLV,2021,0,Total,Población Total,totalPopulation,6779443,Total,Total,Plan Estimates,OCHA
-1054,El Salvador Plan de Respuesta Humanitario 2021,SLV,2021,0,Total,Personas Afectadas,affected,3223452,Total,Total,Plan Estimates,OCHA
-1054,El Salvador Plan de Respuesta Humanitario 2021,SLV,2021,0,Total,Personas con Necesidades,inNeed,1700000,Total,Total,Plan Estimates,OCHA
-1054,El Salvador Plan de Respuesta Humanitario 2021,SLV,2021,0,Total,Población Meta,target,912200,Total,Total,Plan Estimates,OCHA
-1054,El Salvador Plan de Respuesta Humanitario 2021,SLV,2021,0,Total,Alcance esperado,expectedReach,47687,Total,Total,Plan Estimates,OCHA
-1052,Guatemala Plan de Respuesta Humanitario 2021,GTM,2021,0,Total,Población Total,totalPopulation,17100000,Total,Total,Plan caseload,HRP
-1052,Guatemala Plan de Respuesta Humanitario 2021,GTM,2021,0,Total,Personas Afectadas,affected,4800000,Total,Total,Plan caseload,HRP
-1052,Guatemala Plan de Respuesta Humanitario 2021,GTM,2021,0,Total,Personas con Necesidades,inNeed,3800000,Total,Total,Plan caseload,HRP
-1052,Guatemala Plan de Respuesta Humanitario 2021,GTM,2021,0,Total,Población Meta,target,1680000,Total,Total,Plan caseload,HRP
-1052,Guatemala Plan de Respuesta Humanitario 2021,GTM,2021,0,Total,Alcance esperado,expectedReach,136051,Total,Total,Plan caseload,HRP
-1040,Mozambique Humanitarian Response Plan 2021,MOZ,2021,0,Total,Population,totalPopulation,32200000,Total,Total,Mozambique HRP 2021 Caseload,Mozambique HRP 2021
-1040,Mozambique Humanitarian Response Plan 2021,MOZ,2021,0,Total,Affected,affected,,Total,Total,Mozambique HRP 2021 Caseload,Mozambique HRP 2021
-1040,Mozambique Humanitarian Response Plan 2021,MOZ,2021,0,Total,In Need,inNeed,1326777,Total,Total,Mozambique HRP 2021 Caseload,Mozambique HRP 2021
-1040,Mozambique Humanitarian Response Plan 2021,MOZ,2021,0,Total,Targeted,target,1046911,Total,Total,Mozambique HRP 2021 Caseload,Mozambique HRP 2021
-1040,Mozambique Humanitarian Response Plan 2021,MOZ,2021,0,Total,Expected Reach,expectedReach,1230000,Total,Total,Mozambique HRP 2021 Caseload,Mozambique HRP 2021
-1047,Madagascar's Grand Sud Flash Appeal 2021,MDG,2021,0,Total,Population,totalPopulation,28400000,Total,Total,Plan caseload,Flash Appeal
-1047,Madagascar's Grand Sud Flash Appeal 2021,MDG,2021,0,Total,Affected,affected,,Total,Total,Plan caseload,Flash Appeal
-1047,Madagascar's Grand Sud Flash Appeal 2021,MDG,2021,0,Total,In Need,inNeed,1590000,Total,Total,Plan caseload,Flash Appeal
-1047,Madagascar's Grand Sud Flash Appeal 2021,MDG,2021,0,Total,Targeted,target,1310000,Total,Total,Plan caseload,Flash Appeal
-1047,Madagascar's Grand Sud Flash Appeal 2021,MDG,2021,0,Total,Expected Reach,expectedReach,908000,Total,Total,Plan caseload,Flash Appeal
-1050,Lebanon Emergency Response Plan 2021,LBN,2021,0,Total,Population,totalPopulation,,Total,Total,Plan caseload final figures,
-1050,Lebanon Emergency Response Plan 2021,LBN,2021,0,Total,Affected,affected,2400000,Total,Total,Plan caseload final figures,
-1050,Lebanon Emergency Response Plan 2021,LBN,2021,0,Total,In Need,inNeed,1863924,Total,Total,Plan caseload final figures,
-1050,Lebanon Emergency Response Plan 2021,LBN,2021,0,Total,Targeted,target,1091671,Total,Total,Plan caseload final figures,
-1050,Lebanon Emergency Response Plan 2021,LBN,2021,0,Total,Expected Reach,expectedReach,,Total,Total,Plan caseload final figures,
-1038,Regional Migrant Humanitarian Response Plan for the Horn of Africa and Yemen 2021,DJI;SOM;ETH;YEM,2021,0,Total,Population,totalPopulation,,Total,Total,Final caseload,""
-1038,Regional Migrant Humanitarian Response Plan for the Horn of Africa and Yemen 2021,DJI;SOM;ETH;YEM,2021,0,Total,Affected,affected,1700000,Total,Total,Final caseload,""
-1038,Regional Migrant Humanitarian Response Plan for the Horn of Africa and Yemen 2021,DJI;SOM;ETH;YEM,2021,0,Total,In Need,inNeed,613667,Total,Total,Final caseload,""
-1038,Regional Migrant Humanitarian Response Plan for the Horn of Africa and Yemen 2021,DJI;SOM;ETH;YEM,2021,0,Total,Targeted,target,311017,Total,Total,Final caseload,""
-1038,Regional Migrant Humanitarian Response Plan for the Horn of Africa and Yemen 2021,DJI;SOM;ETH;YEM,2021,0,Total,Expected Reach,expectedReach,,Total,Total,Final caseload,""
-1048,Nepal Covid-19 Response Plan 2021,NPL,2021,0,Total,Population,totalPopulation,,Total,Total,Plan Estimates,Government of Nepal
-1048,Nepal Covid-19 Response Plan 2021,NPL,2021,0,Total,Affected,affected,,Total,Total,Plan Estimates,Government of Nepal
-1048,Nepal Covid-19 Response Plan 2021,NPL,2021,0,Total,In Need,inNeed,4900000,Total,Total,Plan Estimates,Government of Nepal
-1048,Nepal Covid-19 Response Plan 2021,NPL,2021,0,Total,Targeted,target,750000,Total,Total,Plan Estimates,Government of Nepal
-1048,Nepal Covid-19 Response Plan 2021,NPL,2021,0,Total,Expected Reach,expectedReach,,Total,Total,Plan Estimates,Government of Nepal
-1021,Refugee and Migrant Response Plan for Venezuela 2021 (RMRP),ECU;BRA;COL;MEX;CHL;DOM;TTO;PAN;BOL;CRI;PRY;ABW;CUW;ARG;GUY;URY;PER,2021,0,Total,Population,totalPopulation,,Total,Total,Final caseload,""
-1021,Refugee and Migrant Response Plan for Venezuela 2021 (RMRP),ECU;BRA;COL;MEX;CHL;DOM;TTO;PAN;BOL;CRI;PRY;ABW;CUW;ARG;GUY;URY;PER,2021,0,Total,Affected,affected,,Total,Total,Final caseload,""
-1021,Refugee and Migrant Response Plan for Venezuela 2021 (RMRP),ECU;BRA;COL;MEX;CHL;DOM;TTO;PAN;BOL;CRI;PRY;ABW;CUW;ARG;GUY;URY;PER,2021,0,Total,In Need,inNeed,7203586,Total,Total,Final caseload,""
-1021,Refugee and Migrant Response Plan for Venezuela 2021 (RMRP),ECU;BRA;COL;MEX;CHL;DOM;TTO;PAN;BOL;CRI;PRY;ABW;CUW;ARG;GUY;URY;PER,2021,0,Total,Targeted,target,3295457,Total,Total,Final caseload,""
-1021,Refugee and Migrant Response Plan for Venezuela 2021 (RMRP),ECU;BRA;COL;MEX;CHL;DOM;TTO;PAN;BOL;CRI;PRY;ABW;CUW;ARG;GUY;URY;PER,2021,0,Total,Expected Reach,expectedReach,,Total,Total,Final caseload,""
-1051,Myanmar Interim Emergency Response Plan 2021,MMR,2021,0,Total,Total Population,totalPopulation,54400000,Total,Total,Plan Caseload,Myanmar Interim Emergency Response Plan  2021 - Overview
-1051,Myanmar Interim Emergency Response Plan 2021,MMR,2021,0,Total,In Need,inNeed,2128218,Total,Total,Plan Caseload,Myanmar Interim Emergency Response Plan  2021 - Overview
-1051,Myanmar Interim Emergency Response Plan 2021,MMR,2021,0,Total,Targeted,target,2127532,Total,Total,Plan Caseload,Myanmar Interim Emergency Response Plan  2021 - Overview
-1051,Myanmar Interim Emergency Response Plan 2021,MMR,2021,0,Total,Expected Reach,expectedReach,1533000,Total,Total,Plan Caseload,Myanmar Interim Emergency Response Plan  2021 - Overview
-1020,Syria Refugee Response and Resilience Plan (3RP) 2021,EGY;TUR;LBN;IRQ;JOR,2021,0,Total,Population,totalPopulation,,Total,Total,"",Final caseload
-1020,Syria Refugee Response and Resilience Plan (3RP) 2021,EGY;TUR;LBN;IRQ;JOR,2021,0,Total,Affected,affected,,Total,Total,"",Final caseload
-1020,Syria Refugee Response and Resilience Plan (3RP) 2021,EGY;TUR;LBN;IRQ;JOR,2021,0,Total,In Need,inNeed,10316142,Total,Total,"",Final caseload
-1020,Syria Refugee Response and Resilience Plan (3RP) 2021,EGY;TUR;LBN;IRQ;JOR,2021,0,Total,Targeted,target,10316142,Total,Total,"",Final caseload
-1020,Syria Refugee Response and Resilience Plan (3RP) 2021,EGY;TUR;LBN;IRQ;JOR,2021,0,Total,Expected Reach,expectedReach,,Total,Total,"",Final caseload
-1019,South Sudan Regional Refugee Response Plan 2021,UGA;KEN;ETH,2021,0,Total,Population,totalPopulation,,Total,Total,Final caseload,""
-1019,South Sudan Regional Refugee Response Plan 2021,UGA;KEN;ETH,2021,0,Total,Affected,affected,,Total,Total,Final caseload,""
-1019,South Sudan Regional Refugee Response Plan 2021,UGA;KEN;ETH,2021,0,Total,In Need,inNeed,3052000,Total,Total,Final caseload,""
-1019,South Sudan Regional Refugee Response Plan 2021,UGA;KEN;ETH,2021,0,Total,Targeted,target,3052000,Total,Total,Final caseload,""
-1019,South Sudan Regional Refugee Response Plan 2021,UGA;KEN;ETH,2021,0,Total,Expected Reach,expectedReach,,Total,Total,Final caseload,""
-1017,Burundi Regional Refugee Response Plan 2021,RWA;TZA;UGA,2021,0,Total,Population,totalPopulation,,Total,Total,Final caseload,""
-1017,Burundi Regional Refugee Response Plan 2021,RWA;TZA;UGA,2021,0,Total,Affected,affected,,Total,Total,Final caseload,""
-1017,Burundi Regional Refugee Response Plan 2021,RWA;TZA;UGA,2021,0,Total,In Need,inNeed,490500,Total,Total,Final caseload,""
-1017,Burundi Regional Refugee Response Plan 2021,RWA;TZA;UGA,2021,0,Total,Targeted,target,490500,Total,Total,Final caseload,""
-1017,Burundi Regional Refugee Response Plan 2021,RWA;TZA;UGA,2021,0,Total,Expected Reach,expectedReach,,Total,Total,Final caseload,""
-1023,Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2021,BGD,2021,0,Total,Population,totalPopulation,,Total,Total,"",GHO Estimates
-1023,Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2021,BGD,2021,0,Total,Affected,affected,,Total,Total,"",GHO Estimates
-1023,Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2021,BGD,2021,0,Total,In Need,inNeed,1356043,Total,Total,"",GHO Estimates
-1023,Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2021,BGD,2021,0,Total,Targeted,target,1356043,Total,Total,"",GHO Estimates
-1023,Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2021,BGD,2021,0,Total,Expected Reach,expectedReach,,Total,Total,"",GHO Estimates
-1049,Escalation of Hostilities in the oPt  Flash Appeal 2021,PSE,2021,0,Total,Population,totalPopulation,5100000,Total,Total,Plan Caseload final,
-1049,Escalation of Hostilities in the oPt  Flash Appeal 2021,PSE,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload final,
-1049,Escalation of Hostilities in the oPt  Flash Appeal 2021,PSE,2021,0,Total,In Need,inNeed,0,Total,Total,Plan Caseload final,
-1049,Escalation of Hostilities in the oPt  Flash Appeal 2021,PSE,2021,0,Total,Targeted,target,0,Total,Total,Plan Caseload final,
-1049,Escalation of Hostilities in the oPt  Flash Appeal 2021,PSE,2021,0,Total,Expected Reach,expectedReach,0,Total,Total,Plan Caseload final,
-1018,Democratic Republic of Congo Regional Refugee Response Plan 2021,BDI;ZMB;UGA;TZA;RWA;COG;AGO,2021,0,Total,Population,totalPopulation,,Total,Total,Final caseload,""
-1018,Democratic Republic of Congo Regional Refugee Response Plan 2021,BDI;ZMB;UGA;TZA;RWA;COG;AGO,2021,0,Total,Affected,affected,,Total,Total,Final caseload,""
-1018,Democratic Republic of Congo Regional Refugee Response Plan 2021,BDI;ZMB;UGA;TZA;RWA;COG;AGO,2021,0,Total,In Need,inNeed,1836385,Total,Total,Final caseload,""
-1018,Democratic Republic of Congo Regional Refugee Response Plan 2021,BDI;ZMB;UGA;TZA;RWA;COG;AGO,2021,0,Total,Targeted,target,1836385,Total,Total,Final caseload,""
-1018,Democratic Republic of Congo Regional Refugee Response Plan 2021,BDI;ZMB;UGA;TZA;RWA;COG;AGO,2021,0,Total,Expected Reach,expectedReach,,Total,Total,Final caseload,""
-1045,Honduras Flash Appeal 2020-2021,HND,2021,0,Total,Population,totalPopulation,9450000,Total,Total,Flash Appeal Caseload,
-1045,Honduras Flash Appeal 2020-2021,HND,2021,0,Total,Affected,affected,0,Total,Total,Flash Appeal Caseload,
-1045,Honduras Flash Appeal 2020-2021,HND,2021,0,Total,In Need,inNeed,0,Total,Total,Flash Appeal Caseload,
-1045,Honduras Flash Appeal 2020-2021,HND,2021,0,Total,Targeted,target,0,Total,Total,Flash Appeal Caseload,
-1045,Honduras Flash Appeal 2020-2021,HND,2021,0,Total,Expected Reached,expectedReach,7e+05,Total,Total,Flash Appeal Caseload,
-1057,Afghanistan Flash Appeal 2021,AFG,2021,0,Total,Population,totalPopulation,4e+07,Total,Total,"",
-1057,Afghanistan Flash Appeal 2021,AFG,2021,0,Total,Affected,affected,,Total,Total,"",
-1057,Afghanistan Flash Appeal 2021,AFG,2021,0,Total,In Need,inNeed,0,Total,Total,"",
-1057,Afghanistan Flash Appeal 2021,AFG,2021,0,Total,Targeted,target,0,Total,Total,"",
-1057,Afghanistan Flash Appeal 2021,AFG,2021,0,Total,Expected Reach,expectedReach,0,Total,Total,"",
-1056,Haiti Flash Appeal 2021,HTI,2021,0,Total,Population,totalPopulation,1400000,Total,Total,Flash Appeal caseload,
-1056,Haiti Flash Appeal 2021,HTI,2021,0,Total,Affected,affected,,Total,Total,Flash Appeal caseload,
-1056,Haiti Flash Appeal 2021,HTI,2021,0,Total,In Need,inNeed,39157,Total,Total,Flash Appeal caseload,
-1056,Haiti Flash Appeal 2021,HTI,2021,0,Total,Targeted,target,271156,Total,Total,Flash Appeal caseload,
-1056,Haiti Flash Appeal 2021,HTI,2021,0,Total,Expected Reach,expectedReach,166823,Total,Total,Flash Appeal caseload,
-1046,Myanmar Humanitarian Response Plan 2021,MMR,2021,0,Total,Population,totalPopulation,54400000,Total,Total,Plan Caseload HRP,HRP
-1046,Myanmar Humanitarian Response Plan 2021,MMR,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload HRP,HRP
-1046,Myanmar Humanitarian Response Plan 2021,MMR,2021,0,Total,In Need,inNeed,1035782,Total,Total,Plan Caseload HRP,HRP
-1046,Myanmar Humanitarian Response Plan 2021,MMR,2021,0,Total,Targeted,target,944468,Total,Total,Plan Caseload HRP,HRP
-1046,Myanmar Humanitarian Response Plan 2021,MMR,2021,0,Total,Expected Reach,expectedReach,667000,Total,Total,Plan Caseload HRP,HRP
-1043,Haiti Humanitarian Response Plan 2021,HTI,2021,0,Total,Population,totalPopulation,11400000,Total,Total,Plan Caseload Estimate,GHO Estimates
-1043,Haiti Humanitarian Response Plan 2021,HTI,2021,0,Total,Affectées,affected,,Total,Total,Plan Caseload Estimate,GHO Estimates
-1043,Haiti Humanitarian Response Plan 2021,HTI,2021,0,Total,Dans le besoin,inNeed,4355735,Total,Total,Plan Caseload Estimate,GHO Estimates
-1043,Haiti Humanitarian Response Plan 2021,HTI,2021,0,Total,Ciblées,target,1500000,Total,Total,Plan Caseload Estimate,GHO Estimates
-1043,Haiti Humanitarian Response Plan 2021,HTI,2021,0,Total,Atteintes Attendues,expectedReach,1622490,Total,Total,Plan Caseload Estimate,GHO Estimates
-1034,Pakistan Humanitarian Response Plan 2021,PAK,2021,0,Total,Population,totalPopulation,207770000,Total,Total,Plan Caseload Final HRP,HRP
-1034,Pakistan Humanitarian Response Plan 2021,PAK,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload Final HRP,HRP
-1034,Pakistan Humanitarian Response Plan 2021,PAK,2021,0,Total,In Need,inNeed,1.1e+07,Total,Total,Plan Caseload Final HRP,HRP
-1034,Pakistan Humanitarian Response Plan 2021,PAK,2021,0,Total,Targeted,target,4291405,Total,Total,Plan Caseload Final HRP,HRP
-1034,Pakistan Humanitarian Response Plan 2021,PAK,2021,0,Total,Expected Reach,expectedReach,2595336,Total,Total,Plan Caseload Final HRP,HRP
-1042,Zimbabwe Humanitarian Response Plan 2021,ZWE,2021,0,Total,Population,totalPopulation,16152764,Total,Total,Final Plan Caseload,HRP
-1042,Zimbabwe Humanitarian Response Plan 2021,ZWE,2021,0,Total,Affected,affected,,Total,Total,Final Plan Caseload,HRP
-1042,Zimbabwe Humanitarian Response Plan 2021,ZWE,2021,0,Total,In Need,inNeed,6800000,Total,Total,Final Plan Caseload,HRP
-1042,Zimbabwe Humanitarian Response Plan 2021,ZWE,2021,0,Total,Targeted,target,4500000,Total,Total,Final Plan Caseload,HRP
-1042,Zimbabwe Humanitarian Response Plan 2021,ZWE,2021,0,Total,Expected Reach,expectedReach,2900000,Total,Total,Final Plan Caseload,HRP
-1012,occupied Palestinian territory 2021,PSE,2021,0,Total,Population,totalPopulation,5100000,Total,Total,Plan Caseload Estimate,GHO Estimates
-1012,occupied Palestinian territory 2021,PSE,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload Estimate,GHO Estimates
-1012,occupied Palestinian territory 2021,PSE,2021,0,Total,In Need,inNeed,2400000,Total,Total,Plan Caseload Estimate,GHO Estimates
-1012,occupied Palestinian territory 2021,PSE,2021,0,Total,Targeted,target,1800000,Total,Total,Plan Caseload Estimate,GHO Estimates
-1012,occupied Palestinian territory 2021,PSE,2021,0,Total,Expected Reach,expectedReach,1154907,Total,Total,Plan Caseload Estimate,GHO Estimates
-1030,Cameroon Humanitarian Response Plan 2021,CMR,2021,0,Total,Population,totalPopulation,26500000,Total,Total,Plan Caseload Estimate,GHO Estimates
-1030,Cameroon Humanitarian Response Plan 2021,CMR,2021,0,Total,Affected,affected,,Total,Total,Plan Caseload Estimate,GHO Estimates
-1030,Cameroon Humanitarian Response Plan 2021,CMR,2021,0,Total,In Need,inNeed,4406243,Total,Total,Plan Caseload Estimate,GHO Estimates
-1030,Cameroon Humanitarian Response Plan 2021,CMR,2021,0,Total,Targeted,target,3024835,Total,Total,Plan Caseload Estimate,GHO Estimates
-1030,Cameroon Humanitarian Response Plan 2021,CMR,2021,0,Total,Expected Reach,expectedReach,1600000,Total,Total,Plan Caseload Estimate,GHO Estimates
-1039,Burundi Humanitarian Response Plan 2021,BDI,2021,0,Total,Population,totalPopulation,12574566,Total,Total,Plan Caseload,Burundi HRP 2021
-1039,Burundi Humanitarian Response Plan 2021,BDI,2021,0,Total,Affectées,affected,,Total,Total,Plan Caseload,Burundi HRP 2021
-1039,Burundi Humanitarian Response Plan 2021,BDI,2021,0,Total,Dans le besoin,inNeed,2255830,Total,Total,Plan Caseload,Burundi HRP 2021
-1039,Burundi Humanitarian Response Plan 2021,BDI,2021,0,Total,Ciblées,target,1058332,Total,Total,Plan Caseload,Burundi HRP 2021
-1039,Burundi Humanitarian Response Plan 2021,BDI,2021,0,Total,Atteintes Attendues,expectedReach,354000,Total,Total,Plan Caseload,Burundi HRP 2021
+plan_id,plan_name,location,iso,year,sector_id,sector,metric_name,metric_id,value,category_id,category_name,description,source
+1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,occupied Palestinian territory,PSE,2022,0,Total,In Need,inNeed,2075542,Total,Total,Final plan caseload 2022,
+1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,occupied Palestinian territory,PSE,2022,0,Total,Targeted,target,1600000,Total,Total,Final plan caseload 2022,
+1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,occupied Palestinian territory,PSE,2022,0,Total,Expected Reach,expectedReach,1150000,Total,Total,Final plan caseload 2022,
+1060,Libya Humanitarian Response Plan 2022,Libya,LBY,2022,0,Total,In Need,inNeed,803587,Total,Total,Final HRP caseload,
+1060,Libya Humanitarian Response Plan 2022,Libya,LBY,2022,0,Total,Targeted,target,398930,Total,Total,Final HRP caseload,
+1060,Libya Humanitarian Response Plan 2022,Libya,LBY,2022,0,Total,Expected Reach,expectedReach,241662,Total,Total,Final HRP caseload,
+1061,Afghanistan Situation Regional Refugee Response Plan 2022,"Pakistan; Turkmenistan; Uzbekistan; Tajikistan; Iran, Islamic Republic of",PAK; TKM; UZB; TJK; IRN,2022,0,Total,In Need,inNeed,5702498,Total,Total,GHO Total Estimates,
+1061,Afghanistan Situation Regional Refugee Response Plan 2022,"Pakistan; Turkmenistan; Uzbekistan; Tajikistan; Iran, Islamic Republic of",PAK; TKM; UZB; TJK; IRN,2022,0,Total,Targeted,target,5702498,Total,Total,GHO Total Estimates,
+1061,Afghanistan Situation Regional Refugee Response Plan 2022,"Pakistan; Turkmenistan; Uzbekistan; Tajikistan; Iran, Islamic Republic of",PAK; TKM; UZB; TJK; IRN,2022,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Total Estimates,
+1062,Nigeria Humanitarian Response Plan 2022,Nigeria,NGA,2022,0,Total,In Need,inNeed,8364426,Total,Total,Plan Caseload final,
+1062,Nigeria Humanitarian Response Plan 2022,Nigeria,NGA,2022,0,Total,Targeted,target,5580089,Total,Total,Plan Caseload final,
+1062,Nigeria Humanitarian Response Plan 2022,Nigeria,NGA,2022,0,Total,Expected Reach,expectedReach,4200000,Total,Total,Plan Caseload final,
+1063,Somalia Humanitarian Response Plan 2022,Somalia,SOM,2022,0,Total,In Need,inNeed,7846888,Total,Total,SOMALIA HRP 2022,"OCHA, REACH, FSNAU"
+1063,Somalia Humanitarian Response Plan 2022,Somalia,SOM,2022,0,Total,Targeted,target,7613133,Total,Total,SOMALIA HRP 2022,"OCHA, REACH, FSNAU"
+1063,Somalia Humanitarian Response Plan 2022,Somalia,SOM,2022,0,Total,Expected Reach,expectedReach,7300000,Total,Total,SOMALIA HRP 2022,"OCHA, REACH, FSNAU"
+1064,République Centrafricaine Plan de Réponse Humanitaire 2022,Central African Republic,CAF,2022,0,Total,Dans le besoin,inNeed,3053039,Total,Total,Final caseload,HRP 2022
+1064,République Centrafricaine Plan de Réponse Humanitaire 2022,Central African Republic,CAF,2022,0,Total,Ciblées,target,2040973,Total,Total,Final caseload,HRP 2022
+1064,République Centrafricaine Plan de Réponse Humanitaire 2022,Central African Republic,CAF,2022,0,Total,Atteintes attendues,expectedReach,1800000,Total,Total,Final caseload,HRP 2022
+1066,Regional Migrant Response Plan for the Horn of Africa and Yemen 2022,Somalia; Ethiopia; Djibouti; Yemen,SOM; ETH; DJI; YEM,2022,0,Total,In Need,inNeed,303804,Total,Total,Final Caseload,
+1066,Regional Migrant Response Plan for the Horn of Africa and Yemen 2022,Somalia; Ethiopia; Djibouti; Yemen,SOM; ETH; DJI; YEM,2022,0,Total,Targeted,target,163954,Total,Total,Final Caseload,
+1066,Regional Migrant Response Plan for the Horn of Africa and Yemen 2022,Somalia; Ethiopia; Djibouti; Yemen,SOM; ETH; DJI; YEM,2022,0,Total,Expected Reach,expectedReach,,Total,Total,Final Caseload,
+1067,Madagascar Flash Appeal 2022,Madagascar,MDG,2022,0,Total,In Need,inNeed,3300000,Total,Total,Final caseload,
+1067,Madagascar Flash Appeal 2022,Madagascar,MDG,2022,0,Total,Targeted,target,1930000,Total,Total,Final caseload,
+1067,Madagascar Flash Appeal 2022,Madagascar,MDG,2022,0,Total,Expected Reach,expectedReach,1750000,Total,Total,Final caseload,
+1068,Sudan Humanitarian Response Plan 2022,Sudan,SDN,2022,0,Total,In Need,inNeed,14257653,Total,Total,Final Caseload,
+1068,Sudan Humanitarian Response Plan 2022,Sudan,SDN,2022,0,Total,Targeted,target,10933315,Total,Total,Final Caseload,
+1068,Sudan Humanitarian Response Plan 2022,Sudan,SDN,2022,0,Total,Expected Reach,expectedReach,7100000,Total,Total,Final Caseload,
+1069,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,"Uruguay; Trinidad and Tobago; Paraguay; Panama; Mexico; Guyana; Ecuador; Dominican Republic; Curaçao; Costa Rica; Chile; Brazil; Bolivia, Plurinational State of; Aruba; Argentina; Colombia; Peru",URY; TTO; PRY; PAN; MEX; GUY; ECU; DOM; CUW; CRI; CHL; BRA; BOL; ABW; ARG; COL; PER,2022,0,Total,Personas con Necesidades,inNeed,8859400,Total,Total,GHO Total Estimates,
+1069,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,"Uruguay; Trinidad and Tobago; Paraguay; Panama; Mexico; Guyana; Ecuador; Dominican Republic; Curaçao; Costa Rica; Chile; Brazil; Bolivia, Plurinational State of; Aruba; Argentina; Colombia; Peru",URY; TTO; PRY; PAN; MEX; GUY; ECU; DOM; CUW; CRI; CHL; BRA; BOL; ABW; ARG; COL; PER,2022,0,Total,Población Meta,target,4168100,Total,Total,GHO Total Estimates,
+1069,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,"Uruguay; Trinidad and Tobago; Paraguay; Panama; Mexico; Guyana; Ecuador; Dominican Republic; Curaçao; Costa Rica; Chile; Brazil; Bolivia, Plurinational State of; Aruba; Argentina; Colombia; Peru",URY; TTO; PRY; PAN; MEX; GUY; ECU; DOM; CUW; CRI; CHL; BRA; BOL; ABW; ARG; COL; PER,2022,0,Total,Alcance esperado,expectedReach,,Total,Total,GHO Total Estimates,
+1071,South Sudan Regional Refugee Response Plan 2022,Ethiopia; Kenya; Uganda,ETH; KEN; UGA,2022,0,Total,In Need,inNeed,2560600,Total,Total,GHO Total Estimates,
+1071,South Sudan Regional Refugee Response Plan 2022,Ethiopia; Kenya; Uganda,ETH; KEN; UGA,2022,0,Total,Targeted,target,2560600,Total,Total,GHO Total Estimates,
+1071,South Sudan Regional Refugee Response Plan 2022,Ethiopia; Kenya; Uganda,ETH; KEN; UGA,2022,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Total Estimates,
+1072,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,Lebanon; Jordan; Iraq; Türkiye; Egypt,LBN; JOR; IRQ; TUR; EGY,2022,0,Total,In Need,inNeed,20111553,Total,Total,Final plan caseload 2022,
+1072,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,Lebanon; Jordan; Iraq; Türkiye; Egypt,LBN; JOR; IRQ; TUR; EGY,2022,0,Total,Targeted,target,11447778,Total,Total,Final plan caseload 2022,
+1072,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,Lebanon; Jordan; Iraq; Türkiye; Egypt,LBN; JOR; IRQ; TUR; EGY,2022,0,Total,Expected Reach,expectedReach,,Total,Total,Final plan caseload 2022,
+1075,Burundi Plan de Réponse Humanitaire 2022,Burundi,BDI,2022,0,Total,Dans le besoin,inNeed,1795961,Total,Total,Final HRP Plan caseload,
+1075,Burundi Plan de Réponse Humanitaire 2022,Burundi,BDI,2022,0,Total,Ciblées,target,947410,Total,Total,Final HRP Plan caseload,
+1075,Burundi Plan de Réponse Humanitaire 2022,Burundi,BDI,2022,0,Total,Atteintes attendues,expectedReach,196135,Total,Total,Final HRP Plan caseload,
+1076,Mali Plan de Réponse Humanitaire 2022,Mali,MLI,2022,0,Total,Dans le besoin,inNeed,7522833,Total,Total,Mali Plan de Réponse Humanitaire 2022,HRP 2022
+1076,Mali Plan de Réponse Humanitaire 2022,Mali,MLI,2022,0,Total,Ciblées,target,5264731,Total,Total,Mali Plan de Réponse Humanitaire 2022,HRP 2022
+1076,Mali Plan de Réponse Humanitaire 2022,Mali,MLI,2022,0,Total,Atteintes attendues,expectedReach,3200000,Total,Total,Mali Plan de Réponse Humanitaire 2022,HRP 2022
+1077,Yemen Humanitarian Response Plan 2022,Yemen,YEM,2022,0,Total,In Need,inNeed,23458603,Total,Total,Final intesector caseload,Final Yemen HRP
+1077,Yemen Humanitarian Response Plan 2022,Yemen,YEM,2022,0,Total,Targeted,target,17883668,Total,Total,Final intesector caseload,Final Yemen HRP
+1077,Yemen Humanitarian Response Plan 2022,Yemen,YEM,2022,0,Total,Expected Reach,expectedReach,1.5e+07,Total,Total,Final intesector caseload,Final Yemen HRP
+1078,Niger Plan de Réponse Humanitaire 2022,Niger,NER,2022,0,Total,Dans le besoin,inNeed,3654445,Total,Total,Final HRP,
+1078,Niger Plan de Réponse Humanitaire 2022,Niger,NER,2022,0,Total,Ciblées,target,2390726,Total,Total,Final HRP,
+1078,Niger Plan de Réponse Humanitaire 2022,Niger,NER,2022,0,Total,Atteintes attendues,expectedReach,3100000,Total,Total,Final HRP,
+1079,Ethiopia Humanitarian Response Plan 2022,Ethiopia,ETH,2022,0,Total,In Need,inNeed,2e+07,Total,Total,HRP,HRP
+1079,Ethiopia Humanitarian Response Plan 2022,Ethiopia,ETH,2022,0,Total,Targeted,target,2e+07,Total,Total,HRP,HRP
+1079,Ethiopia Humanitarian Response Plan 2022,Ethiopia,ETH,2022,0,Total,Expected Reach,expectedReach,21673446,Total,Total,HRP,HRP
+1080,Cameroon Humanitarian Response Plan 2022,Cameroon,CMR,2022,0,Total,Dans le besoin,inNeed,3934444,Total,Total,Final intersector caseload,
+1080,Cameroon Humanitarian Response Plan 2022,Cameroon,CMR,2022,0,Total,Ciblées,target,2612681,Total,Total,Final intersector caseload,
+1080,Cameroon Humanitarian Response Plan 2022,Cameroon,CMR,2022,0,Total,Atteintes attendues,expectedReach,1400000,Total,Total,Final intersector caseload,
+1081,Ukraine Humanitarian Response Plan 2022,Ukraine,UKR,2022,0,Total,In Need,inNeed,,Total,Total,Final,
+1081,Ukraine Humanitarian Response Plan 2022,Ukraine,UKR,2022,0,Total,Targeted,target,,Total,Total,Final,
+1081,Ukraine Humanitarian Response Plan 2022,Ukraine,UKR,2022,0,Total,Expected Reach,expectedReach,,Total,Total,Final,
+1082,Rohingya Humanitarian Crisis Joint Response Plan 2022,Bangladesh,BGD,2022,0,Total,In Need,inNeed,1459862,Total,Total,"",
+1082,Rohingya Humanitarian Crisis Joint Response Plan 2022,Bangladesh,BGD,2022,0,Total,Targeted,target,1459862,Total,Total,"",
+1082,Rohingya Humanitarian Crisis Joint Response Plan 2022,Bangladesh,BGD,2022,0,Total,Expected Reach,expectedReach,,Total,Total,"",
+1083,Iraq Humanitarian Response Plan 2022,Iraq,IRQ,2022,0,Total,In Need,inNeed,2454198,Total,Total,Iraq HRP Final Plan Caseload,
+1083,Iraq Humanitarian Response Plan 2022,Iraq,IRQ,2022,0,Total,Targeted,target,991037,Total,Total,Iraq HRP Final Plan Caseload,
+1083,Iraq Humanitarian Response Plan 2022,Iraq,IRQ,2022,0,Total,Expected Reach,expectedReach,1300000,Total,Total,Iraq HRP Final Plan Caseload,
+1084,El Salvador Plan de Respuesta Humanitario 2022,El Salvador,SLV,2022,0,Total,Personas con Necesidades,inNeed,1700000,Total,Total,GHO Total Estimates,
+1084,El Salvador Plan de Respuesta Humanitario 2022,El Salvador,SLV,2022,0,Total,Población Meta,target,912200,Total,Total,GHO Total Estimates,
+1084,El Salvador Plan de Respuesta Humanitario 2022,El Salvador,SLV,2022,0,Total,Alcance esperado,expectedReach,273169,Total,Total,GHO Total Estimates,
+1085,Guatemala Plan de Respuesta Humanitario 2022,Guatemala,GTM,2022,0,Total,Personas con Necesidades,inNeed,3800000,Total,Total,Final plan caseload,HRP
+1085,Guatemala Plan de Respuesta Humanitario 2022,Guatemala,GTM,2022,0,Total,Población Meta,target,1680000,Total,Total,Final plan caseload,HRP
+1085,Guatemala Plan de Respuesta Humanitario 2022,Guatemala,GTM,2022,0,Total,Alcance esperado,expectedReach,508700,Total,Total,Final plan caseload,HRP
+1086,Honduras Plan de Respuesta Humanitario 2022,Honduras,HND,2022,0,Total,Personas con Necesidades,inNeed,2800000,Total,Total,HRP Total Final caseload,
+1086,Honduras Plan de Respuesta Humanitario 2022,Honduras,HND,2022,0,Total,Población Meta,target,1800000,Total,Total,HRP Total Final caseload,
+1086,Honduras Plan de Respuesta Humanitario 2022,Honduras,HND,2022,0,Total,Alcance esperado,expectedReach,750000,Total,Total,HRP Total Final caseload,
+1087,Burkina Faso Plan de Réponse Humanitaire 2022,Burkina Faso,BFA,2022,0,Total,Dans le besoin,inNeed,4889324,Total,Total,HRP 2022,
+1087,Burkina Faso Plan de Réponse Humanitaire 2022,Burkina Faso,BFA,2022,0,Total,Ciblées,target,3792333,Total,Total,HRP 2022,
+1087,Burkina Faso Plan de Réponse Humanitaire 2022,Burkina Faso,BFA,2022,0,Total,Atteintes attendues,expectedReach,1860000,Total,Total,HRP 2022,
+1088,Syrian Arab Republic Humanitarian Response Plan 2022 - 2023,Syrian Arab Republic,SYR,2022,0,Total,In Need,inNeed,14560823,Total,Total,Final plan caseload,
+1088,Syrian Arab Republic Humanitarian Response Plan 2022 - 2023,Syrian Arab Republic,SYR,2022,0,Total,Targeted,target,11840486,Total,Total,Final plan caseload,
+1088,Syrian Arab Republic Humanitarian Response Plan 2022 - 2023,Syrian Arab Republic,SYR,2022,0,Total,Expected Reach,expectedReach,7800000,Total,Total,Final plan caseload,
+1090,Colombia Plan de Respuesta Humanitario 2022,Colombia,COL,2022,0,Total,Personas con Necesidades,inNeed,7693945,Total,Total,Final HRP Caseload,
+1090,Colombia Plan de Respuesta Humanitario 2022,Colombia,COL,2022,0,Total,Población Meta,target,1598015,Total,Total,Final HRP Caseload,
+1090,Colombia Plan de Respuesta Humanitario 2022,Colombia,COL,2022,0,Total,Alcance esperado,expectedReach,1100000,Total,Total,Final HRP Caseload,
+1092,Democratic Republic of the Congo Regional Refugee Response Plan 2022,"Angola; Congo; Rwanda; Zambia; Tanzania, United Republic of; Uganda",AGO; COG; RWA; ZMB; TZA; UGA,2022,0,Total,Dans le besoin,inNeed,1217000,Total,Total,GHO Total Estimates,
+1092,Democratic Republic of the Congo Regional Refugee Response Plan 2022,"Angola; Congo; Rwanda; Zambia; Tanzania, United Republic of; Uganda",AGO; COG; RWA; ZMB; TZA; UGA,2022,0,Total,Ciblées,target,1217000,Total,Total,GHO Total Estimates,
+1092,Democratic Republic of the Congo Regional Refugee Response Plan 2022,"Angola; Congo; Rwanda; Zambia; Tanzania, United Republic of; Uganda",AGO; COG; RWA; ZMB; TZA; UGA,2022,0,Total,Atteintes attendues,expectedReach,,Total,Total,GHO Total Estimates,
+1093,République Démocratique du Congo Plan de Réponse Humanitaire 2022,"Congo, The Democratic Republic of the",COD,2022,0,Total,Dans le besoin,inNeed,27026244,Total,Total,Final HRP caseload,
+1093,République Démocratique du Congo Plan de Réponse Humanitaire 2022,"Congo, The Democratic Republic of the",COD,2022,0,Total,Ciblées,target,8811320,Total,Total,Final HRP caseload,
+1093,République Démocratique du Congo Plan de Réponse Humanitaire 2022,"Congo, The Democratic Republic of the",COD,2022,0,Total,Atteintes attendues,expectedReach,6240000,Total,Total,Final HRP caseload,
+1094,Mozambique Humanitarian Response Plan 2022,Mozambique,MOZ,2022,0,Total,In Need,inNeed,1533924,Total,Total,Final HRP caseload,
+1094,Mozambique Humanitarian Response Plan 2022,Mozambique,MOZ,2022,0,Total,Targeted,target,1200000,Total,Total,Final HRP caseload,
+1094,Mozambique Humanitarian Response Plan 2022,Mozambique,MOZ,2022,0,Total,Expected Reach,expectedReach,1143403,Total,Total,Final HRP caseload,
+1095,Myanmar Humanitarian Response Plan 2022,Myanmar,MMR,2022,0,Total,In Need,inNeed,14369336,Total,Total,Final HRP Caseload,HRP
+1095,Myanmar Humanitarian Response Plan 2022,Myanmar,MMR,2022,0,Total,Targeted,target,6187244,Total,Total,Final HRP Caseload,HRP
+1095,Myanmar Humanitarian Response Plan 2022,Myanmar,MMR,2022,0,Total,Expected Reach,expectedReach,4300000,Total,Total,Final HRP Caseload,HRP
+1096,Haiti Plan de Réponse Humanitaire 2022,Haiti,HTI,2022,0,Total,Dans le besoin,inNeed,4896979,Total,Total,HPC 2022,Sectors
+1096,Haiti Plan de Réponse Humanitaire 2022,Haiti,HTI,2022,0,Total,Ciblées,target,2500000,Total,Total,HPC 2022,Sectors
+1096,Haiti Plan de Réponse Humanitaire 2022,Haiti,HTI,2022,0,Total,Atteintes attendues,expectedReach,2e+06,Total,Total,HPC 2022,Sectors
+1097,Venezuela Plan de Respuesta Humanitario 2022,"Venezuela, Bolivarian Republic of",VEN,2022,0,Total,Personas con Necesidades,inNeed,7e+06,Total,Total,Final HRP caseload,
+1097,Venezuela Plan de Respuesta Humanitario 2022,"Venezuela, Bolivarian Republic of",VEN,2022,0,Total,Población Meta,target,5217883,Total,Total,Final HRP caseload,
+1097,Venezuela Plan de Respuesta Humanitario 2022,"Venezuela, Bolivarian Republic of",VEN,2022,0,Total,Alcance esperado,expectedReach,2600000,Total,Total,Final HRP caseload,
+1098,South Sudan Humanitarian Response Plan 2022,South Sudan,SSD,2022,0,Total,In Need,inNeed,8872746,Total,Total,"",
+1098,South Sudan Humanitarian Response Plan 2022,South Sudan,SSD,2022,0,Total,Targeted,target,6776284,Total,Total,"",
+1098,South Sudan Humanitarian Response Plan 2022,South Sudan,SSD,2022,0,Total,Expected Reach,expectedReach,6800000,Total,Total,"",
+1099,Lebanon Emergency Response Plan 2022,Lebanon,LBN,2022,0,Total,In Need,inNeed,2500000,Total,Total,Final ERP caseload,
+1099,Lebanon Emergency Response Plan 2022,Lebanon,LBN,2022,0,Total,Targeted,target,1e+06,Total,Total,Final ERP caseload,
+1099,Lebanon Emergency Response Plan 2022,Lebanon,LBN,2022,0,Total,Expected Reach,expectedReach,816663,Total,Total,Final ERP caseload,
+1100,Afghanistan Humanitarian Response Plan 2022,Afghanistan,AFG,2022,0,Total,In Need,inNeed,24380455,Total,Total,Final plan caseload,
+1100,Afghanistan Humanitarian Response Plan 2022,Afghanistan,AFG,2022,0,Total,Targeted,target,22072409,Total,Total,Final plan caseload,
+1100,Afghanistan Humanitarian Response Plan 2022,Afghanistan,AFG,2022,0,Total,Expected Reach,expectedReach,27200000,Total,Total,Final plan caseload,
+1101,Philippines: Super Typhoon Rai (Odette) - Humanitarian Needs and Priorities 2022,Philippines,PHL,2022,0,Total,In Need,inNeed,2400000,Total,Total,Plan Caseload,
+1101,Philippines: Super Typhoon Rai (Odette) - Humanitarian Needs and Priorities 2022,Philippines,PHL,2022,0,Total,Targeted,target,530000,Total,Total,Plan Caseload,
+1101,Philippines: Super Typhoon Rai (Odette) - Humanitarian Needs and Priorities 2022,Philippines,PHL,2022,0,Total,Expected Reach,expectedReach,,Total,Total,Plan Caseload,
+1102,Ukraine Flash Appeal 2022,Ukraine,UKR,2022,0,Total,In Need,inNeed,17700000,Total,Total,Flash Appeal Caseload,Ukraine FA August Revision
+1102,Ukraine Flash Appeal 2022,Ukraine,UKR,2022,0,Total,Targeted,target,11500000,Total,Total,Flash Appeal Caseload,Ukraine FA August Revision
+1102,Ukraine Flash Appeal 2022,Ukraine,UKR,2022,0,Total,Expected Reach,expectedReach,15400000,Total,Total,Flash Appeal Caseload,Ukraine FA August Revision
+1103,Ukraine Situation Regional Refugee Response Plan 2022,"Hungary; Poland; Romania; Moldova, Republic of; Slovakia",HUN; POL; ROU; MDA; SVK,2022,0,Total,In Need,inNeed,5186744,Total,Total,RRP estimated caseload,
+1103,Ukraine Situation Regional Refugee Response Plan 2022,"Hungary; Poland; Romania; Moldova, Republic of; Slovakia",HUN; POL; ROU; MDA; SVK,2022,0,Total,Targeted,target,5186744,Total,Total,RRP estimated caseload,
+1103,Ukraine Situation Regional Refugee Response Plan 2022,"Hungary; Poland; Romania; Moldova, Republic of; Slovakia",HUN; POL; ROU; MDA; SVK,2022,0,Total,Expected Reach,expectedReach,,Total,Total,RRP estimated caseload,
+1104,Malawi Flash Appeal 2022,Malawi,MWI,2022,0,Total,In Need,inNeed,679919,Total,Total,Plan caseload,Malawi FA
+1104,Malawi Flash Appeal 2022,Malawi,MWI,2022,0,Total,Targeted,target,542398,Total,Total,Plan caseload,Malawi FA
+1104,Malawi Flash Appeal 2022,Malawi,MWI,2022,0,Total,Expected Reach,expectedReach,366151,Total,Total,Plan caseload,Malawi FA
+1105,Kenya Drought Flash Appeal 2022,Kenya,KEN,2022,0,Total,In Need,inNeed,4460065,Total,Total,2022 Plan Caseload,
+1105,Kenya Drought Flash Appeal 2022,Kenya,KEN,2022,0,Total,Targeted,target,2625232,Total,Total,2022 Plan Caseload,
+1105,Kenya Drought Flash Appeal 2022,Kenya,KEN,2022,0,Total,Expected Reach,expectedReach,1200000,Total,Total,2022 Plan Caseload,
+1106,Mozambique Gombe Emergency Response Plan 2022,Mozambique,MOZ,2022,0,Total,In Need,inNeed,599386,Total,Total,Overall FA caseload,Moz IMWG_ICCG
+1106,Mozambique Gombe Emergency Response Plan 2022,Mozambique,MOZ,2022,0,Total,Targeted,target,248407,Total,Total,Overall FA caseload,Moz IMWG_ICCG
+1106,Mozambique Gombe Emergency Response Plan 2022,Mozambique,MOZ,2022,0,Total,Expected Reach,expectedReach,305349,Total,Total,Overall FA caseload,Moz IMWG_ICCG
+1107,Sri Lanka Multi-Dimensional Crisis - Humanitarian Needs and Priorities 2022,Sri Lanka,LKA,2022,0,Total,In Need,inNeed,6992137,Total,Total,Flash Appeal revised Caseload,
+1107,Sri Lanka Multi-Dimensional Crisis - Humanitarian Needs and Priorities 2022,Sri Lanka,LKA,2022,0,Total,Targeted,target,3401119,Total,Total,Flash Appeal revised Caseload,
+1107,Sri Lanka Multi-Dimensional Crisis - Humanitarian Needs and Priorities 2022,Sri Lanka,LKA,2022,0,Total,Expected Reach,expectedReach,,Total,Total,Flash Appeal revised Caseload,
+1108,Pakistan Floods Response Plan 2022,Pakistan,PAK,2022,0,Total,In Need,inNeed,20605258,Total,Total,Pakistan Flood Response Plan caseload,Revised Pakistan 2022 Floods Response Plan
+1108,Pakistan Floods Response Plan 2022,Pakistan,PAK,2022,0,Total,Targeted,target,9513907,Total,Total,Pakistan Flood Response Plan caseload,Revised Pakistan 2022 Floods Response Plan
+1108,Pakistan Floods Response Plan 2022,Pakistan,PAK,2022,0,Total,Expected Reach,expectedReach,4500000,Total,Total,Pakistan Flood Response Plan caseload,Revised Pakistan 2022 Floods Response Plan
+1110,Nigeria Humanitarian Response Plan 2023,Nigeria,NGA,2023,0,Total,In Need,inNeed,8300000,Total,Total,GHO Estimates,
+1110,Nigeria Humanitarian Response Plan 2023,Nigeria,NGA,2023,0,Total,Targeted,target,5400000,Total,Total,GHO Estimates,
+1110,Nigeria Humanitarian Response Plan 2023,Nigeria,NGA,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1111,South Sudan Humanitarian Response Plan 2023,South Sudan,SSD,2023,0,Total,In Need,inNeed,9397517,Total,Total,Final 2023 HRP Caseload,Clusters
+1111,South Sudan Humanitarian Response Plan 2023,South Sudan,SSD,2023,0,Total,Targeted,target,6805628,Total,Total,Final 2023 HRP Caseload,Clusters
+1111,South Sudan Humanitarian Response Plan 2023,South Sudan,SSD,2023,0,Total,Expected Reach,expectedReach,,Total,Total,Final 2023 HRP Caseload,Clusters
+1111,South Sudan Humanitarian Response Plan 2023,South Sudan,SSD,2023,0,Total,In Need,inNeed,9400000,Total,Total,Final HRP Caseload,
+1111,South Sudan Humanitarian Response Plan 2023,South Sudan,SSD,2023,0,Total,Targeted,target,6800000,Total,Total,Final HRP Caseload,
+1111,South Sudan Humanitarian Response Plan 2023,South Sudan,SSD,2023,0,Total,Expected Reach,expectedReach,,Total,Total,Final HRP Caseload,
+1112,Burkina Faso Plan de Réponse Humanitaire 2023,Burkina Faso,BFA,2023,0,Total,Dans le besoin,inNeed,4650000,Total,Total,HPC 2023,HPC 2023
+1112,Burkina Faso Plan de Réponse Humanitaire 2023,Burkina Faso,BFA,2023,0,Total,Ciblés,target,3140000,Total,Total,HPC 2023,HPC 2023
+1112,Burkina Faso Plan de Réponse Humanitaire 2023,Burkina Faso,BFA,2023,0,Total,Atteints attendus,expectedReach,,Total,Total,HPC 2023,HPC 2023
+1113,République Démocratique du Congo Plan de Réponse Humanitaire 2023,"Congo, The Democratic Republic of the",COD,2023,0,Total,Dans le besoin,inNeed,26430000,Total,Total,GHO Estimates,
+1113,République Démocratique du Congo Plan de Réponse Humanitaire 2023,"Congo, The Democratic Republic of the",COD,2023,0,Total,Ciblés,target,10030000,Total,Total,GHO Estimates,
+1113,République Démocratique du Congo Plan de Réponse Humanitaire 2023,"Congo, The Democratic Republic of the",COD,2023,0,Total,Atteints attendus,expectedReach,,Total,Total,GHO Estimates,
+1114,Syrian Arab Republic Humanitarian Response Plan 2023,Syrian Arab Republic,SYR,2023,0,Total,In Need,inNeed,15300000,Total,Total,GHO Estimates,
+1114,Syrian Arab Republic Humanitarian Response Plan 2023,Syrian Arab Republic,SYR,2023,0,Total,Targeted,target,12700000,Total,Total,GHO Estimates,
+1114,Syrian Arab Republic Humanitarian Response Plan 2023,Syrian Arab Republic,SYR,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1115,Cameroon Humanitarian Response Plan 2023,Cameroon,CMR,2023,0,Total,Dans le besoin,inNeed,4700000,Total,Total,"",
+1115,Cameroon Humanitarian Response Plan 2023,Cameroon,CMR,2023,0,Total,Ciblées,target,2800000,Total,Total,"",
+1115,Cameroon Humanitarian Response Plan 2023,Cameroon,CMR,2023,0,Total,Atteintes attendues,expectedReach,,Total,Total,"",
+1116,Yemen Humanitarian Response Plan 2023,Yemen,YEM,2023,0,Total,In Need,inNeed,21640000,Total,Total,Final 2023 HRP Caseload,
+1116,Yemen Humanitarian Response Plan 2023,Yemen,YEM,2023,0,Total,Targeted,target,17370435,Total,Total,Final 2023 HRP Caseload,
+1116,Yemen Humanitarian Response Plan 2023,Yemen,YEM,2023,0,Total,Expected Reach,expectedReach,,Total,Total,Final 2023 HRP Caseload,
+1117,Afghanistan Humanitarian Response Plan 2023,Afghanistan,AFG,2023,0,Total,In Need,inNeed,28300000,Total,Total,GHO Estimates,
+1117,Afghanistan Humanitarian Response Plan 2023,Afghanistan,AFG,2023,0,Total,Targeted,target,23700000,Total,Total,GHO Estimates,
+1117,Afghanistan Humanitarian Response Plan 2023,Afghanistan,AFG,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1118,Afghanistan Situation Regional Refugee Response Plan 2023,"Iran, Islamic Republic of; Tajikistan; Turkmenistan; Uzbekistan; Pakistan",IRN; TJK; TKM; UZB; PAK,2023,0,Total,In Need,inNeed,7900000,Total,Total,GHO Estimates,
+1118,Afghanistan Situation Regional Refugee Response Plan 2023,"Iran, Islamic Republic of; Tajikistan; Turkmenistan; Uzbekistan; Pakistan",IRN; TJK; TKM; UZB; PAK,2023,0,Total,Targeted,target,7900000,Total,Total,GHO Estimates,
+1118,Afghanistan Situation Regional Refugee Response Plan 2023,"Iran, Islamic Republic of; Tajikistan; Turkmenistan; Uzbekistan; Pakistan",IRN; TJK; TKM; UZB; PAK,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1119,Democratic Republic of the Congo Regional Refugee Response Plan 2023,"Zambia; Tanzania, United Republic of; Rwanda; Congo; Uganda; Angola",ZMB; TZA; RWA; COG; UGA; AGO,2023,0,Total,In Need,inNeed,1363922,Total,Total,GHO Estimates,
+1119,Democratic Republic of the Congo Regional Refugee Response Plan 2023,"Zambia; Tanzania, United Republic of; Rwanda; Congo; Uganda; Angola",ZMB; TZA; RWA; COG; UGA; AGO,2023,0,Total,Targeted,target,1363922,Total,Total,GHO Estimates,
+1119,Democratic Republic of the Congo Regional Refugee Response Plan 2023,"Zambia; Tanzania, United Republic of; Rwanda; Congo; Uganda; Angola",ZMB; TZA; RWA; COG; UGA; AGO,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1120,Regional Migrant Response Plan for the Horn of Africa and Yemen 2023,Djibouti; Somalia; Ethiopia; Yemen,DJI; SOM; ETH; YEM,2023,0,Total,In Need,inNeed,438715,Total,Total,GHO Estimates,
+1120,Regional Migrant Response Plan for the Horn of Africa and Yemen 2023,Djibouti; Somalia; Ethiopia; Yemen,DJI; SOM; ETH; YEM,2023,0,Total,Targeted,target,229018,Total,Total,GHO Estimates,
+1120,Regional Migrant Response Plan for the Horn of Africa and Yemen 2023,Djibouti; Somalia; Ethiopia; Yemen,DJI; SOM; ETH; YEM,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1121,Haiti Plan de Réponse Humanitaire 2023,Haiti,HTI,2023,0,Total,Dans le besoin,inNeed,5200000,Total,Total,GHO Estimates,
+1121,Haiti Plan de Réponse Humanitaire 2023,Haiti,HTI,2023,0,Total,Ciblés,target,3e+06,Total,Total,GHO Estimates,
+1121,Haiti Plan de Réponse Humanitaire 2023,Haiti,HTI,2023,0,Total,Atteints attendus,expectedReach,,Total,Total,GHO Estimates,
+1122,Mali Plan de Réponse Humanitaire 2023,Mali,MLI,2023,0,Total,Dans le besoin,inNeed,9e+06,Total,Total,GHO Estimates,
+1122,Mali Plan de Réponse Humanitaire 2023,Mali,MLI,2023,0,Total,Ciblés,target,6200000,Total,Total,GHO Estimates,
+1122,Mali Plan de Réponse Humanitaire 2023,Mali,MLI,2023,0,Total,Atteints attendus,expectedReach,,Total,Total,GHO Estimates,
+1123,Sudan Humanitarian Response Plan 2023,Sudan,SDN,2023,0,Total,In Need,inNeed,15763070,Total,Total,Final HRP Caseload,HRP 2023
+1123,Sudan Humanitarian Response Plan 2023,Sudan,SDN,2023,0,Total,Targeted,target,12544646,Total,Total,Final HRP Caseload,HRP 2023
+1123,Sudan Humanitarian Response Plan 2023,Sudan,SDN,2023,0,Total,Expected Reach,expectedReach,,Total,Total,Final HRP Caseload,HRP 2023
+1124,Ukraine Humanitarian Response Plan 2023,Ukraine,UKR,2023,0,Total,In Need,inNeed,17600000,Total,Total,GHO Estimates,
+1124,Ukraine Humanitarian Response Plan 2023,Ukraine,UKR,2023,0,Total,Targeted,target,9400000,Total,Total,GHO Estimates,
+1124,Ukraine Humanitarian Response Plan 2023,Ukraine,UKR,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1126,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,Jordan; Türkiye; Egypt; Lebanon; Iraq,JOR; TUR; EGY; LBN; IRQ,2023,0,Total,In Need,inNeed,15900000,Total,Total,GHO Estimates,
+1126,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,Jordan; Türkiye; Egypt; Lebanon; Iraq,JOR; TUR; EGY; LBN; IRQ,2023,0,Total,Targeted,target,13500000,Total,Total,GHO Estimates,
+1126,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023,Jordan; Türkiye; Egypt; Lebanon; Iraq,JOR; TUR; EGY; LBN; IRQ,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1127,Ukraine Situation Regional Refugee Response Plan 2023,"Hungary; Poland; Romania; Moldova, Republic of; Slovakia",HUN; POL; ROU; MDA; SVK,2023,0,Total,In Need,inNeed,4239000,Total,Total,GHO Estimates,
+1127,Ukraine Situation Regional Refugee Response Plan 2023,"Hungary; Poland; Romania; Moldova, Republic of; Slovakia",HUN; POL; ROU; MDA; SVK,2023,0,Total,Targeted,target,4179000,Total,Total,GHO Estimates,
+1127,Ukraine Situation Regional Refugee Response Plan 2023,"Hungary; Poland; Romania; Moldova, Republic of; Slovakia",HUN; POL; ROU; MDA; SVK,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1128,Ethiopia Humanitarian Response Plan 2023,Ethiopia,ETH,2023,0,Total,In Need,inNeed,28600000,Total,Total,GHO Estimates,
+1128,Ethiopia Humanitarian Response Plan 2023,Ethiopia,ETH,2023,0,Total,Targeted,target,26600000,Total,Total,GHO Estimates,
+1128,Ethiopia Humanitarian Response Plan 2023,Ethiopia,ETH,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1129,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,"Uruguay; Trinidad and Tobago; Paraguay; Panama; Mexico; Guyana; Ecuador; Dominican Republic; Curaçao; Costa Rica; Chile; Brazil; Bolivia, Plurinational State of; Aruba; Argentina; Colombia; Peru",URY; TTO; PRY; PAN; MEX; GUY; ECU; DOM; CUW; CRI; CHL; BRA; BOL; ABW; ARG; COL; PER,2023,0,Total,In Need,inNeed,9250000,Total,Total,GHO Estimates,
+1129,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,"Uruguay; Trinidad and Tobago; Paraguay; Panama; Mexico; Guyana; Ecuador; Dominican Republic; Curaçao; Costa Rica; Chile; Brazil; Bolivia, Plurinational State of; Aruba; Argentina; Colombia; Peru",URY; TTO; PRY; PAN; MEX; GUY; ECU; DOM; CUW; CRI; CHL; BRA; BOL; ABW; ARG; COL; PER,2023,0,Total,Targeted,target,3410000,Total,Total,GHO Estimates,
+1129,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,"Uruguay; Trinidad and Tobago; Paraguay; Panama; Mexico; Guyana; Ecuador; Dominican Republic; Curaçao; Costa Rica; Chile; Brazil; Bolivia, Plurinational State of; Aruba; Argentina; Colombia; Peru",URY; TTO; PRY; PAN; MEX; GUY; ECU; DOM; CUW; CRI; CHL; BRA; BOL; ABW; ARG; COL; PER,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1130,République Centrafricaine Plan de Réponse Humanitaire 2023,Central African Republic,CAF,2023,0,Total,Dans le besoin,inNeed,3426462,Total,Total,Final HRP caseload,Humanitarian organizations
+1130,République Centrafricaine Plan de Réponse Humanitaire 2023,Central African Republic,CAF,2023,0,Total,Ciblés,target,2435685,Total,Total,Final HRP caseload,Humanitarian organizations
+1130,République Centrafricaine Plan de Réponse Humanitaire 2023,Central African Republic,CAF,2023,0,Total,Atteints attendus,expectedReach,,Total,Total,Final HRP caseload,Humanitarian organizations
+1131,Mozambique Humanitarian Response Plan 2023,Mozambique,MOZ,2023,0,Total,In Need,inNeed,2011466,Total,Total,GHO Estimates,
+1131,Mozambique Humanitarian Response Plan 2023,Mozambique,MOZ,2023,0,Total,Targeted,target,1565389,Total,Total,GHO Estimates,
+1131,Mozambique Humanitarian Response Plan 2023,Mozambique,MOZ,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1133,Somalia Humanitarian Response Plan 2023,Somalia,SOM,2023,0,Total,In Need,inNeed,7800000,Total,Total,GHO Estimates,
+1133,Somalia Humanitarian Response Plan 2023,Somalia,SOM,2023,0,Total,Targeted,target,7600000,Total,Total,GHO Estimates,
+1133,Somalia Humanitarian Response Plan 2023,Somalia,SOM,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1134,Lebanon Emergency Response Plan 2023,Lebanon,LBN,2023,0,Total,In Need,inNeed,2300000,Total,Total,GHO Estimates,
+1134,Lebanon Emergency Response Plan 2023,Lebanon,LBN,2023,0,Total,Targeted,target,1300000,Total,Total,GHO Estimates,
+1134,Lebanon Emergency Response Plan 2023,Lebanon,LBN,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1135,Venezuela Plan de Respuesta Humanitario 2023,"Venezuela, Bolivarian Republic of",VEN,2023,0,Total,con Necesidades,inNeed,7e+06,Total,Total,GHO Estimates,
+1135,Venezuela Plan de Respuesta Humanitario 2023,"Venezuela, Bolivarian Republic of",VEN,2023,0,Total,Meta,target,5200000,Total,Total,GHO Estimates,
+1135,Venezuela Plan de Respuesta Humanitario 2023,"Venezuela, Bolivarian Republic of",VEN,2023,0,Total,Alcance esperado,expectedReach,,Total,Total,GHO Estimates,
+1136,Madagascar Flash Appeal 2023,Madagascar,MDG,2023,0,Total,In Need,inNeed,1600000,Total,Total,GHO Estimates,
+1136,Madagascar Flash Appeal 2023,Madagascar,MDG,2023,0,Total,Targeted,target,1150000,Total,Total,GHO Estimates,
+1136,Madagascar Flash Appeal 2023,Madagascar,MDG,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1137,Kenya Drought Response Plan 2023,Kenya,KEN,2023,0,Total,In Need,inNeed,6400000,Total,Total,GHO Estimates,
+1137,Kenya Drought Response Plan 2023,Kenya,KEN,2023,0,Total,Targeted,target,4300000,Total,Total,GHO Estimates,
+1137,Kenya Drought Response Plan 2023,Kenya,KEN,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1138,El Salvador Plan de Respuesta Humanitario 2023,El Salvador,SLV,2023,0,Total,con Necesidades,inNeed,1100000,Total,Total,"",
+1138,El Salvador Plan de Respuesta Humanitario 2023,El Salvador,SLV,2023,0,Total,Meta,target,496600,Total,Total,"",
+1138,El Salvador Plan de Respuesta Humanitario 2023,El Salvador,SLV,2023,0,Total,Alcance esperado,expectedReach,,Total,Total,"",
+1139,Guatemala Plan de Respuesta Humanitario 2023,Guatemala,GTM,2023,0,Total,con Necesidades,inNeed,5e+06,Total,Total,"",
+1139,Guatemala Plan de Respuesta Humanitario 2023,Guatemala,GTM,2023,0,Total,Meta,target,2300000,Total,Total,"",
+1139,Guatemala Plan de Respuesta Humanitario 2023,Guatemala,GTM,2023,0,Total,Alcance esperado,expectedReach,,Total,Total,"",
+1141,Tchad Plan de Réponse Humanitaire 2023,Chad,TCD,2023,0,Total,Dans le besoin,inNeed,6900000,Total,Total,"",
+1141,Tchad Plan de Réponse Humanitaire 2023,Chad,TCD,2023,0,Total,Ciblées,target,4500000,Total,Total,"",
+1141,Tchad Plan de Réponse Humanitaire 2023,Chad,TCD,2023,0,Total,Atteintes attendues,expectedReach,,Total,Total,"",
+1142,Colombia Plan de Respuesta Humanitario 2023,Colombia,COL,2023,0,Total,con Necesidades,inNeed,7700000,Total,Total,HRP Caseload,"HNO, HRP (TBC)"
+1142,Colombia Plan de Respuesta Humanitario 2023,Colombia,COL,2023,0,Total,Meta,target,1600000,Total,Total,HRP Caseload,"HNO, HRP (TBC)"
+1142,Colombia Plan de Respuesta Humanitario 2023,Colombia,COL,2023,0,Total,Alcance esperado,expectedReach,,Total,Total,HRP Caseload,"HNO, HRP (TBC)"
+1143,Rohingya Humanitarian Crisis Joint Response Plan 2023,Bangladesh,BGD,2023,0,Total,In Need,inNeed,1516000,Total,Total,GHO Estimates,
+1143,Rohingya Humanitarian Crisis Joint Response Plan 2023,Bangladesh,BGD,2023,0,Total,Targeted,target,1473000,Total,Total,GHO Estimates,
+1143,Rohingya Humanitarian Crisis Joint Response Plan 2023,Bangladesh,BGD,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1144,Honduras Plan de Respuesta Humanitario 2023,Honduras,HND,2023,0,Total,con Necesidades,inNeed,3200000,Total,Total,GHO Estimates,
+1144,Honduras Plan de Respuesta Humanitario 2023,Honduras,HND,2023,0,Total,Meta,target,2100000,Total,Total,GHO Estimates,
+1144,Honduras Plan de Respuesta Humanitario 2023,Honduras,HND,2023,0,Total,Alcance esperado,expectedReach,,Total,Total,GHO Estimates,
+1146,Cuba - Plan of Action: United Nations System 2022,Cuba,CUB,2022,0,Total,In Need,inNeed,1090000,Total,Total,Final Plan of Action Caseload,Plan of Action United Nations System in Cuba
+1146,Cuba - Plan of Action: United Nations System 2022,Cuba,CUB,2022,0,Total,Targeted,target,798000,Total,Total,Final Plan of Action Caseload,Plan of Action United Nations System in Cuba
+1146,Cuba - Plan of Action: United Nations System 2022,Cuba,CUB,2022,0,Total,Expected Reach,expectedReach,,Total,Total,Final Plan of Action Caseload,Plan of Action United Nations System in Cuba
+1147,Haiti Cholera+ Flash Appeal 2022,Haiti,HTI,2022,0,Total,In Need,inNeed,160000,Total,Total,Overall Plan Caseload,
+1147,Haiti Cholera+ Flash Appeal 2022,Haiti,HTI,2022,0,Total,Targeted,target,280000,Total,Total,Overall Plan Caseload,
+1147,Haiti Cholera+ Flash Appeal 2022,Haiti,HTI,2022,0,Total,Expected Reach,expectedReach,392000,Total,Total,Overall Plan Caseload,
+1148,Burundi Plan de Réponse Humanitaire 2023,Burundi,BDI,2023,0,Total,Dans le besoin,inNeed,1500000,Total,Total,GHO Estimates,
+1148,Burundi Plan de Réponse Humanitaire 2023,Burundi,BDI,2023,0,Total,Ciblés,target,1100000,Total,Total,GHO Estimates,
+1148,Burundi Plan de Réponse Humanitaire 2023,Burundi,BDI,2023,0,Total,Atteints attendus,expectedReach,,Total,Total,GHO Estimates,
+1091,Tchad Plan de Réponse Humanitaire 2022,Chad,TCD,2022,0,Total,Dans le besoin,inNeed,6149509,Total,Total,HRP 2022,
+1091,Tchad Plan de Réponse Humanitaire 2022,Chad,TCD,2022,0,Total,Ciblées,target,3943266,Total,Total,HRP 2022,
+1091,Tchad Plan de Réponse Humanitaire 2022,Chad,TCD,2022,0,Total,Atteintes attendues,expectedReach,2e+06,Total,Total,HRP 2022,
+1132,Myanmar Humanitarian Response Plan 2023,Myanmar,MMR,2023,0,Total,In Need,inNeed,17619805,Total,Total,Final HRP caseload,
+1132,Myanmar Humanitarian Response Plan 2023,Myanmar,MMR,2023,0,Total,Targeted,target,4454466,Total,Total,Final HRP caseload,
+1132,Myanmar Humanitarian Response Plan 2023,Myanmar,MMR,2023,0,Total,Expected Reach,expectedReach,,Total,Total,Final HRP caseload,
+1140,Pakistan Floods Response Plan 2023,Pakistan,PAK,2023,0,Total,In Need,inNeed,20605258,Total,Total,Pakistan Floods Response Plan caseload,Revised Pakistan 2022 Floods Response Plan
+1140,Pakistan Floods Response Plan 2023,Pakistan,PAK,2023,0,Total,Targeted,target,9513907,Total,Total,Pakistan Floods Response Plan caseload,Revised Pakistan 2022 Floods Response Plan
+1140,Pakistan Floods Response Plan 2023,Pakistan,PAK,2023,0,Total,Expected Reach,expectedReach,,Total,Total,Pakistan Floods Response Plan caseload,Revised Pakistan 2022 Floods Response Plan
+1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,occupied Palestinian territory,PSE,2023,0,Total,In Need,inNeed,2100000,Total,Total,Final HRP Caseload,HRP 2023
+1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,occupied Palestinian territory,PSE,2023,0,Total,Targeted,target,1600000,Total,Total,Final HRP Caseload,HRP 2023
+1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,occupied Palestinian territory,PSE,2023,0,Total,Expected Reach,expectedReach,,Total,Total,Final HRP Caseload,HRP 2023
+1125,South Sudan Regional Refugee Response Plan 2023,Ethiopia; Kenya; Uganda,ETH; KEN; UGA,2023,0,Total,In Need,inNeed,3259100,Total,Total,GHO Estimates,
+1125,South Sudan Regional Refugee Response Plan 2023,Ethiopia; Kenya; Uganda,ETH; KEN; UGA,2023,0,Total,Targeted,target,3259100,Total,Total,GHO Estimates,
+1125,South Sudan Regional Refugee Response Plan 2023,Ethiopia; Kenya; Uganda,ETH; KEN; UGA,2023,0,Total,Expected Reach,expectedReach,,Total,Total,GHO Estimates,
+1145,Niger Plan de Réponse Humanitaire 2023,Niger,NER,2023,0,Total,Dans le besoin,inNeed,4200000,Total,Total,GHO Estimates,
+1145,Niger Plan de Réponse Humanitaire 2023,Niger,NER,2023,0,Total,Ciblés,target,2300000,Total,Total,GHO Estimates,
+1145,Niger Plan de Réponse Humanitaire 2023,Niger,NER,2023,0,Total,Atteints attendus,expectedReach,,Total,Total,GHO Estimates,

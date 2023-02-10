@@ -1,0 +1,778 @@
+plan_id,category_id,category_name
+1013,Children - male-0-5,Children - Male - 0-5
+1013,Children - female-0-5,Children - Female - 0-5
+1013,Children - male-6-17,Children - Male - 6-17
+1013,Children - female-6-17,Children - Female - 6-17
+1013,Adult - male-18-60,Adult - Male - 18-60
+1013,Adult - female-18-60,Adult - Female - 18-60
+1013,Elderly - male-over 60,Elderly - Male - Over 60
+1013,Elderly - female-over 60,Elderly - Female - Over 60
+1013,Refugees,Refugees
+1013,Total,Total
+1013,Combination-Children-Male,Children - Male
+1013,Combination-Children-Female,Children - Female
+1013,Combination-Adult-Male,Adult - Male
+1013,Combination-Adult-Female,Adult - Female
+1013,Men,Children - Male
+1013,Women,Children - Female
+1013,Boys,Elderly - Male
+1013,Girls,Elderly - Female
+1015,Children (0--17),Children (0--17)
+1015,Adult (18--59),Adult (18--59)
+1015,Elderly (60+),Elderly (60+)
+1015,Female,Female
+1015,Male,Male
+1015,People with disabilities,People with disabilities
+1015,Residents,Residents
+1015,Idps,IDPs
+1015,Total,Total
+1031,Total,Total
+1031,Male,Adult - Male
+1031,Female,Adult - Female
+1031,Boys,Children - Male
+1031,Girls,Children - Female
+1031,People displaced in 2021 - Male,Adult - Male - IDP
+1031,People displaced in 2021 - Female,Adult - Female - IDP
+1031,People displaced in 2021 - Boys,Children - Male - IDP
+1031,People displaced in 2021 - Girls,Children - Female - IDP
+1031,Returnees at place of return - Male,Adult - Male - Returnees at place of return
+1031,Returnees at place of return - Female,Adult - Female - Returnees at place of return
+1031,Returnees at place of return - Boys,Children - Male - Returnees at place of return
+1031,Returnees at place of return - Girls,Children - Female - Returnees at place of return
+1031,Returnees at the border or encashment centres - Male,Adult - Male - Returnees at the border or encashment centres
+1031,Returnees at the border or encashment centres - Female,Adult - Female - Returnees at the border or encashment centres
+1031,Returnees at the border or encashment centres - Boys,Children - Male - Returnees at the border or encashment centres
+1031,Returnees at the border or encashment centres - Girls,Children - Female - Returnees at the border or encashment centres
+1031,Natural disaster-affected non-displaced people - Male,Adult - Male - Natural disaster-affected non-displaced people
+1031,Natural disaster-affected non-displaced people - Female,Adult - Female - Natural disaster-affected non-displaced people
+1031,Natural disaster-affected non-displaced people - Boys,Children - Male - Natural disaster-affected non-displaced people
+1031,Natural disaster-affected non-displaced people - Girls,Children - Female - Natural disaster-affected non-displaced people
+1031,COVID-19 Hospitalisations - Male,Adult - Male - COVID-19 Hospitalisations
+1031,COVID-19 Hospitalisations - Female,Adult - Female - COVID-19 Hospitalisations
+1031,COVID-19 Hospitalisations - Boys,Children - Male - COVID-19 Hospitalisations
+1031,COVID-19 Hospitalisations - Girls,Children - Female - COVID-19 Hospitalisations
+1031,Conflict-affected non-displaced people - Male,Adult - Male - Conflict-affected non-displaced people
+1031,Conflict-affected non-displaced people - Female,Adult - Female - Conflict-affected non-displaced people
+1031,Conflict-affected non-displaced people - Boys,Children - Male - Conflict-affected non-displaced people
+1031,Conflict-affected non-displaced people - Girls,Children - Female - Conflict-affected non-displaced people
+1031,Refugees living in Afghanistan - Male,Adult - Male - Refugees
+1031,Refugees living in Afghanistan - Female,Adult - Female - Refugees
+1031,Refugees living in Afghanistan - Boys,Children - Male - Refugees
+1031,Refugees living in Afghanistan - Girls,Children - Female - Refugees
+1031,Acutely vulnerable people with humanitarian needs - Male,Adult - Male - Acutely vulnerable people with humanitarian needs
+1031,Acutely vulnerable people with humanitarian needs - Female,Adult - Female - Acutely vulnerable people with humanitarian needs
+1031,Acutely vulnerable people with humanitarian needs - Boys,Children - Male - Acutely vulnerable people with humanitarian needs
+1031,Acutely vulnerable people with humanitarian needs - Girls,Children - Female - Acutely vulnerable people with humanitarian needs
+1031,Severely Disabled - Male,Adult - Male - Severely Disabled
+1031,Severely Disabled - Female,Adult - Female - Severely Disabled
+1031,Severely Disabled - Boys,Children - Male - Severely Disabled
+1031,Severely Disabled - Girls,Children - Female - Severely Disabled
+1032,Combination-idp-<1-Girls,IDP - <1 - Girls
+1032,Combination-idp-<1-Boys,IDP - <1 - Boys
+1032,Combination-idp-1-5-Girls,IDP - 1-5 - Girls
+1032,Combination-idp-1-5-Boys,IDP - 1-5 - Boys
+1032,Combination-idp-6-17-Girls,IDP - 6-17 - Girls
+1032,Combination-idp-6-17-Boys,IDP - 6-17 - Boys
+1032,Combination-idp-18-59-Men,IDP - 18-59 - Men
+1032,Combination-idp-18-59-Women,IDP - 18-59 - Women
+1032,Combination-idp-+60-Men,IDP - +60 - Men
+1032,Combination-idp-+60-Women,IDP - +60 - Women
+1032,Combination-returnees-<1-Girls,Returnees - <1 - Girls
+1032,Combination-returnees-<1-Boys,Returnees - <1 - Boys
+1032,Combination-returnees-1-5-Girls,Returnees - 1-5 - Girls
+1032,Combination-returnees-1-5-Boys,Returnees - 1-5 - Boys
+1032,Combination-returnees-6-17-Girls,Returnees - 6-17 - Girls
+1032,Combination-returnees-6-17-Boys,Returnees - 6-17 - Boys
+1032,Combination-returnees-18-59-Men,Returnees - 18-59 - Men
+1032,Combination-returnees-18-59-Women,Returnees - 18-59 - Women
+1032,Combination-returnees-+60-Men,Returnees - +60 - Men
+1032,Combination-returnees-+60-Women,Returnees - +60 - Women
+1032,Combination-hostCommunities-<1-Girls,Host Communities - <1 - Girls
+1032,Combination-hostCommunities-<1-Boys,Host Communities - <1 - Boys
+1032,Combination-hostCommunities-1-5-Girls,Host Communities - 1-5 - Girls
+1032,Combination-hostCommunities-1-5-Boys,Host Communities - 1-5 - Boys
+1032,Combination-hostCommunities-6-17-Girls,Host Communities - 6-17 - Girls
+1032,Combination-hostCommunities-6-17-Boys,Host Communities - 6-17 - Boys
+1032,Combination-hostCommunities-18-59-Men,Host Communities - 18-59 - Men
+1032,Combination-hostCommunities-18-59-Women,Host Communities - 18-59 - Women
+1032,Combination-hostCommunities-+60-Men,Host Communities - +60 - Men
+1032,Combination-hostCommunities-+60-Women,Host Communities - +60 - Women
+1032,Inaccessable_pop,inaccessable_pop
+1032,Total,Total
+1034,Total,Total
+1034,Boys <5,Children - Male
+1034,Girls <5,Children - Female
+1034,Men,Adult - Male
+1034,Women PLWs,Adult - Female
+1034,Boys,Children - Male
+1034,Girls,Children - Female
+1034,Male,Adult - Male
+1034,Female,Adult - Female
+1036,Total,Total
+1036,PDI_Garçon(0 _17),Male - PDI - 0-17
+1036,PDI_Fille(0_17),Female - PDI - 0-17
+1036,PDI_Homme(18_59),Male - PDI - 18-59
+1036,PDI_Femme(18_59),Female - PDI - 18-59
+1036,PDI_Homme_Age(60+),Male - PDI - 60+
+1036,PDI_Femme_Agee(60+),Female - PDI - 60+
+1036,Retournés_Garçon(0_17),Male - Retournés - 0-17
+1036,Retournés_Fille(0_17),Female - Retournés - 0-17
+1036,Retournés_Homme(18_59),Male - Retournés - 18-59
+1036,Retournés_Femme(18_59),Female - Retournés - 18-59
+1036,Retournés_Homme_Age(60+),Male - Retournés - 60+
+1036,Retournés_Femme_Agee(60+),Female - Retournés - 60+
+1036,Rapatriés_Garçon(0_17),Male - Rapatriés - 0-17
+1036,Rapatriés_Fille(0_17),Female - Rapatriés - 0-17
+1036,Rapatriés_Homme(18_59),Male - Rapatriés - 18-59
+1036,Rapatriés_Femme(18_59),Female - Rapatriés - 18-59
+1036,Rapatriés_Homme_Age(60+),Male - Rapatriés - 60+
+1036,Rapatriés_Femme_Agee(60+),Female - Rapatriés - 60+
+1036,Autre population_Garçon(0_17),Male - Autre population - 0-17
+1036,Autre population_Fille(0_17),Female - Autre population - 0-17
+1036,Autre population_Homme(18_59),Male - Autre population - 18-59
+1036,Autre population_Femme(18_59),Female - Autre population - 18-59
+1036,Autre population_Homme_Age(60+),Male - Autre population - 60+
+1036,Autre population_Femme_Agee(60+),Female - Autre population - 60+
+1039,Combination-PDI/IDPs-Filles/Girls,PDI/IDPs - Filles/Girls
+1039,Combination-PDI/IDPs-Garçons/Boys,PDI/IDPs - Garçons/Boys
+1039,Combination-PDI/IDPs-Femme/Women,PDI/IDPs - Femme/Women
+1039,Combination-PDI/IDPs-Hommes/Men,PDI/IDPs - Hommes/Men
+1039,Combination-PDI/IDPs-Personnes Agées Femmes/Elderly Women,PDI/IDPs - Personnes Agées Femmes/Elderly Women
+1039,Combination-PDI/IDPs-Personnes Agées Hommes/ Elderly Men,PDI/IDPs - Personnes Agées Hommes/ Elderly Men
+1039,Total pdi/ipds,Total PDI/IPDs
+1039,Combination-Rapatriés/Returnees-Filles/Girls,Rapatriés/Returnees - Filles/Girls
+1039,Combination-Rapatriés/Returnees-Garçons/Boys,Rapatriés/Returnees - Garçons/Boys
+1039,Combination-Rapatriés/Returnees-Femme/Women,Rapatriés/Returnees - Femme/Women
+1039,Combination-Rapatriés/Returnees-Hommes/Men,Rapatriés/Returnees - Hommes/Men
+1039,Combination-Rapatriés/Returnees-Personnes Agées Femmes/Elderly Women,Rapatriés/Returnees - Personnes Agées Femmes/Elderly Women
+1039,Combination-Rapatriés/Returnees-Personnes Agées Hommes/ Elderly Men,Rapatriés/Returnees - Personnes Agées Hommes/ Elderly Men
+1039,Total rapatriés/returnees,Total Rapatriés/Returnees
+1039,Combination-Autres personnes vulnérables/Other Vulnerable people-Filles/Girls,Autres personnes vulnérables/Other Vulnerable people - Filles/Girls
+1039,Combination-Autres personnes vulnérables/Other Vulnerable people-Garçons/Boys,Autres personnes vulnérables/Other Vulnerable people - Garçons/Boys
+1039,Combination-Autres personnes vulnérables/Other Vulnerable people-Femme/Women,Autres personnes vulnérables/Other Vulnerable people - Femme/Women
+1039,Combination-Autres personnes vulnérables/Other Vulnerable people-Hommes/Men,Autres personnes vulnérables/Other Vulnerable people - Hommes/Men
+1039,Combination-Autres personnes vulnérables/Other Vulnerable people-Personnes Agées Femmes/Elderly Women,Autres personnes vulnérables/Other Vulnerable people - Personnes Agées Femmes/Elderly Women
+1039,Combination-Autres personnes vulnérables/Other Vulnerable people-Personnes Agées Hommes/ Elderly Men,Autres personnes vulnérables/Other Vulnerable people - Personnes Agées Hommes/ Elderly Men
+1039,Total autres personnes vulnérables/other vulnerable people,Total Autres personnes vulnérables/Other Vulnerable people
+1039,Combination-Refugiés/Refugees-Filles/Girls,Refugiés/Refugees - Filles/Girls
+1039,Combination-Refugiés/Refugees-Garçons/Boys,Refugiés/Refugees - Garçons/Boys
+1039,Combination-Refugiés/Refugees-Femme/Women,Refugiés/Refugees - Femme/Women
+1039,Combination-Refugiés/Refugees-Hommes/Men,Refugiés/Refugees - Hommes/Men
+1039,Combination-Refugiés/Refugees-Personnes Agées Femmes/Elderly Women,Refugiés/Refugees - Personnes Agées Femmes/Elderly Women
+1039,Combination-Refugiés/Refugees-Personnes Agées Hommes/ Elderly Men,Refugiés/Refugees - Personnes Agées Hommes/ Elderly Men
+1039,Total refugiés/refugees,Total Refugiés/Refugees
+1039,Total,Total
+1041,Idp,IDP
+1041,Returnees,Returnees
+1041,General non displaced,Host Communities
+1041,Combination-children-male,Children - Male
+1041,Combination-children-female,Children - Female
+1041,Combination-adult-male,Adult - Male
+1041,Combination-adult-female,Adult - Female
+1041,Combination-elderly-male,Elderly - Male
+1041,Combination-elderly-female,Elderly - Female
+1041,Disablity,Disablity
+1041,Total,Total
+1042,Total,Total
+1042,Male,Male
+1042,Female,Female
+1042,Children,Children
+1042,Idp,IDP
+1042,Refugees,Refugees
+1042,Hostcommunities,Host Communities
+1042,Returnees,Returnees
+1046,Children,Children
+1046,Elderly,Elderly
+1046,Adult,Adult
+1046,Male,Male
+1046,Female,Female
+1046,Internally displaced people (IDP),IDP
+1046,IDPs: returnees/resettled/ locally integrated,Returnees
+1046,Non-displaced stateless people in rakhine,Non-displaced stateless people in Rakhine
+1046,Other vulnerable crisisaffected people,Other vulnerable crisisaffected people
+1046,Total,Total
+1062,Idp-|-girls,Idp-|-girls
+1062,Idp-|-boys,Idp-|-boys
+1062,Idp-|-women,Idp-|-women
+1062,Idp-|-men,Idp-|-men
+1062,Returnees-|-girls,Returnees-|-girls
+1062,Returnees-|-boys,Returnees-|-boys
+1062,Returnees-|-women,Returnees-|-women
+1062,Returnees-|-men,Returnees-|-men
+1062,Hostcommunity-|-girls,HostCommunity-|-girls
+1062,Hostcommunity-|-boys,HostCommunity-|-boys
+1062,Hostcommunity-|-women,HostCommunity-|-women
+1062,Hostcommunity-|-men,HostCommunity-|-men
+1062,Total,Total
+1062,Idp-|-hh,Idp-|-HH
+1062,Returnees-|-hh,Returnees-|-HH
+1062,Hostcommunities-|-hh,Hostcommunities-|-HH
+1064,Fille,Children - Female
+1064,Garçon,Children - Male
+1064,Femme,Adult - Female
+1064,Homme,Adult - Male
+1064,Fem. Agées,Elderly - Female
+1064,Hom. Agés,Elderly - Male
+1064,Total,Total
+1068,Children,Children
+1068,Elderly,Elderly
+1068,Adult,Adult
+1068,Male,Male
+1068,Female,Female
+1068,Total,Total
+1075,Combination-PDI/IPDs-Filles/Girls,PDI/IPDs - Filles/Girls
+1075,Combination-PDI/IPDs-Garçons/Boys,PDI/IPDs - Garçons/Boys
+1075,Combination-PDI/IPDs-Femmes/Women,PDI/IPDs - Femmes/Women
+1075,Combination-PDI/IPDs-Hommes/Men,PDI/IPDs - Hommes/Men
+1075,Combination-PDI/IPDs-Personnes âgées femmes/Elderly women,PDI/IPDs - Personnes âgées femmes/Elderly women
+1075,Combination-PDI/IPDs-Personnes âgées hommes/Elderly men,PDI/IPDs - Personnes âgées hommes/Elderly men
+1075,Total pdi/ipds,Total PDI/IPDs
+1075,Combination-Rapatriés/Returnees-Filles/Girls,Rapatriés/Returnees - Filles/Girls
+1075,Combination-Rapatriés/Returnees-Garçons/Boys,Rapatriés/Returnees - Garçons/Boys
+1075,Combination-Rapatriés/Returnees-Femmes/Women,Rapatriés/Returnees - Femmes/Women
+1075,Combination-Rapatriés/Returnees-Hommes/Men,Rapatriés/Returnees - Hommes/Men
+1075,Combination-Rapatriés/Returnees-Personnes âgées femmes/Elderly women,Rapatriés/Returnees - Personnes âgées femmes/Elderly women
+1075,Combination-Rapatriés/Returnees-Personnes âgées hommes/Elderly men,Rapatriés/Returnees - Personnes âgées hommes/Elderly men
+1075,Total rapatriés/returnees,Total Rapatriés/Returnees
+1075,Combination-Autres personnes affectées/Other affected people-Filles/Girls,Autres personnes affectées/Other affected people - Filles/Girls
+1075,Combination-Autres personnes affectées/Other affected people-Garçons/Boys,Autres personnes affectées/Other affected people - Garçons/Boys
+1075,Combination-Autres personnes affectées/Other affected people-Femmes/Women,Autres personnes affectées/Other affected people - Femmes/Women
+1075,Combination-Autres personnes affectées/Other affected people-Hommes/Men,Autres personnes affectées/Other affected people - Hommes/Men
+1075,Combination-Autres personnes affectées/Other affected people-Personnes âgées femmes/Elderly women,Autres personnes affectées/Other affected people - Personnes âgées femmes/Elderly women
+1075,Combination-Autres personnes affectées/Other affected people-Personnes âgées hommes/Elderly men,Autres personnes affectées/Other affected people - Personnes âgées hommes/Elderly men
+1075,Total autres personnes affectées/other affected people,Total Autres personnes affectées/Other affected people
+1075,Combination-Réfugiés/Refugees-Filles/Girls,Réfugiés/Refugees - Filles/Girls
+1075,Combination-Réfugiés/Refugees-Garçons/Boys,Réfugiés/Refugees - Garçons/Boys
+1075,Combination-Réfugiés/Refugees-Femmes/Women,Réfugiés/Refugees - Femmes/Women
+1075,Combination-Réfugiés/Refugees-Hommes/Men,Réfugiés/Refugees - Hommes/Men
+1075,Combination-Réfugiés/Refugees-Personnes âgées femmes/Elderly women,Réfugiés/Refugees - Personnes âgées femmes/Elderly women
+1075,Combination-Réfugiés/Refugees-Personnes âgées hommes/Elderly men,Réfugiés/Refugees - Personnes âgées hommes/Elderly men
+1075,Total réfugiés/refugees,Total Réfugiés/Refugees
+1075,Total,Total
+1076,Combination-PDI-Garçons (0_17),PDI - Garçons (0_17)
+1076,Combination-PDI-Filles (0_17),PDI - Filles (0_17)
+1076,Combination-PDI-Hommes (18_59),PDI - Hommes (18_59)
+1076,Combination-PDI-Femmes (18_59),PDI - Femmes (18_59)
+1076,Combination-PDI-Hommes (60+),PDI - Hommes (60+)
+1076,Combination-PDI-Femmes (60+),PDI - Femmes (60+)
+1076,Combination-Retournes-Garçons (0_17),Retournes - Garçons (0_17)
+1076,Combination-Retournes-Filles (0_17),Retournes - Filles (0_17)
+1076,Combination-Retournes-Hommes (18_59),Retournes - Hommes (18_59)
+1076,Combination-Retournes-Femmes (18_59),Retournes - Femmes (18_59)
+1076,Combination-Retournes-Hommes (60+),Retournes - Hommes (60+)
+1076,Combination-Retournes-Femmes (60+),Retournes - Femmes (60+)
+1076,Combination-Rapatries-Garçons (0_17),Rapatries - Garçons (0_17)
+1076,Combination-Rapatries-Filles (0_17),Rapatries - Filles (0_17)
+1076,Combination-Rapatries-Hommes (18_59),Rapatries - Hommes (18_59)
+1076,Combination-Rapatries-Femmes (18_59),Rapatries - Femmes (18_59)
+1076,Combination-Rapatries-Hommes (60+),Rapatries - Hommes (60+)
+1076,Combination-Rapatries-Femmes (60+),Rapatries - Femmes (60+)
+1076,Combination-Refugies-Garçons (0_17),Refugies - Garçons (0_17)
+1076,Combination-Refugies-Filles (0_17),Refugies - Filles (0_17)
+1076,Combination-Refugies-Hommes (18_59),Refugies - Hommes (18_59)
+1076,Combination-Refugies-Femmes (18_59),Refugies - Femmes (18_59)
+1076,Combination-Refugies-Hommes (60+),Refugies - Hommes (60+)
+1076,Combination-Refugies-Femmes (60+),Refugies - Femmes (60+)
+1076,Combination-Communautes Hotes-Garçons (0_17),Communautes Hotes - Garçons (0_17)
+1076,Combination-Communautes Hotes-Filles (0_17),Communautes Hotes - Filles (0_17)
+1076,Combination-Communautes Hotes-Hommes (18_59),Communautes Hotes - Hommes (18_59)
+1076,Combination-Communautes Hotes-Femmes (18_59),Communautes Hotes - Femmes (18_59)
+1076,Combination-Communautes Hotes-Hommes (60+),Communautes Hotes - Hommes (60+)
+1076,Combination-Communautes Hotes-Femmes (60+),Communautes Hotes - Femmes (60+)
+1076,Total,Total
+1077,Boys,Boys
+1077,Girls,Girls
+1077,Men,Men
+1077,Women,Women
+1077,Total,Total
+1079,Total,Total
+1079,Idp,IDP
+1079,Non-displaced,Host Communities
+1079,Returned migrants,Returnees
+1079,Girls,Girls
+1079,Boys,Boys
+1079,Women,women
+1079,Men,Men
+1079,Elderly men,Elderly men
+1079,Elderly woman,Elderly woman
+1079,Disability,Disability
+1081,Children (0 --17),Children
+1081,Adult (18--59),Adult
+1081,Elderly (60+),Elderly
+1081,Female,Female
+1081,Male,Male
+1081,People with disabilities,People with disabilities
+1081,Residents,Residents
+1081,IDPs,IDP
+1081,Total,Total
+1088,Male,Male
+1088,Female,Female
+1088,Children(0_17),Children
+1088,Adults(18_59),Elderly
+1088,Elderly> 59,Adult
+1088,Women +18,Female (0_4)
+1088,Men +18,Male (0_4)
+1088,Girls (0_17),Female(18_59)
+1088,Boys (0_17),Male(18_59)
+1088,Residents,Residents
+1088,Returnees,Returnees
+1088,People with disabilities,People with disabilities
+1088,Idps out camps,IDP
+1088,Idps in camps,IDPs
+1088,Total,Total
+1088,Idps,IDPs
+1088,Host communities,Host communities
+1088,Palestinian refugees,Palestinian refugees
+1088,Young children (<5),YOUNG CHILDREN (<5)
+1088,Children (5-17),CHILDREN (5-17)
+1088,Adults (18-59),ADULTS (18-59)
+1088,Older people (>59),OLDER PEOPLE (>59)
+1088,IDPs,IDPs
+1088,Palestinian & other refugees,Palestinian/Other
+1088,Female (3_4),Female (3-4)
+1088,Male  (3_4),Male  (3-4)
+1088,Female (5_14),Female (5-14)
+1088,Male  (5_14),Male  (5-14)
+1088,Female (15_17),Female (15-17)
+1088,Male  (15_17),Male  (15-17)
+1088,Female (18_24),Female (18-24)
+1088,Male (18_24),Male (18-24)
+1088,Female (25_59),Female (25-59)
+1088,Male  (25_59),Male  (25-59)
+1088,Palestinian/other,Palestinian/Other
+1088,Children (5_17),CHILDREN (5-17)
+1088,Adults (18_59),ADULTS (18-59)
+1088,Female (0_4),Female (0_4)
+1088,Male (0_4),Male (0_4)
+1088,Female (5_17),Female (5_17)
+1088,Male (5_17),Male (5_17)
+1088,Female(18_59),Female(18_59)
+1088,Male(18_59),Male(18_59)
+1088,Female(59+),Female(59+)
+1088,children (<5),YOUNG CHILDREN (<5)
+1088,Female (0_17),Female (0_17)
+1088,Male (0_17),Male (0_17)
+1088,Female (18_59),Female (18_59)
+1088,Male (18_59),Male (18_59)
+1088,Female (> 59),Female (> 59)
+1088,Male (> 59),Male (> 59)
+1093,Male,Male
+1093,Female,Female
+1093,Children,Children
+1093,Adult,Adult
+1093,Elderly,Elderly
+1093,Total,Total
+1097,Menores (0_17 años) mujeres,Menores (0_17 años) Mujeres
+1097,Menores (0_17 años) hombres,Menores (0_17 años) Hombres
+1097,Adultos (18_59 años) mujeres,Adultos (18_59 años) Mujeres
+1097,Adultos (18_59 años) hombres,Adultos (18_59 años) Hombres
+1097,Adultos mayores (>60años) mujeres,Adultos Mayores (>60años) Mujeres
+1097,Adultos mayores (>60 años) hombres,Adultos Mayores (>60 años) Hombres
+1097,Total,Total
+1098,Total,Total
+1098,Combination-Children-Male,Children - Male
+1098,Combination-Children-female,Children - Female
+1098,Combination-adult-Male,Adult - Male
+1098,Combination-adult-female,Adult - Female
+1098,Combination-elderly-Male,Elderly - Male
+1098,Combination-elderly-female,Elderly - Female
+1100,Combination-Internally displaced people (new in 2022)-Boys,Internally displaced people (new in 2022) - Boys
+1100,Combination-Internally displaced people (new in 2022)-Girls,Internally displaced people (new in 2022) - Girls
+1100,Combination-Internally displaced people (new in 2022)-Men,Internally displaced people (new in 2022) - Men
+1100,Combination-Internally displaced people (new in 2022)-Women,Internally displaced people (new in 2022) - Women
+1100,"Combination-Cross-border returnees (at province of return, 2022)-Boys","Cross-border returnees (at province of return, 2022) - Boys"
+1100,"Combination-Cross-border returnees (at province of return, 2022)-Girls","Cross-border returnees (at province of return, 2022) - Girls"
+1100,"Combination-Cross-border returnees (at province of return, 2022)-Men","Cross-border returnees (at province of return, 2022) - Men"
+1100,"Combination-Cross-border returnees (at province of return, 2022)-Women","Cross-border returnees (at province of return, 2022) - Women"
+1100,"Combination-Cross-border returnees (at border/EC, 2022)-Boys","Cross-border returnees (at border/EC, 2022) - Boys"
+1100,"Combination-Cross-border returnees (at border/EC, 2022)-Girls","Cross-border returnees (at border/EC, 2022) - Girls"
+1100,"Combination-Cross-border returnees (at border/EC, 2022)-Men","Cross-border returnees (at border/EC, 2022) - Men"
+1100,"Combination-Cross-border returnees (at border/EC, 2022)-Women","Cross-border returnees (at border/EC, 2022) - Women"
+1100,"Combination-Natural disaster-affected (sudden-onset, 2022)-Boys","Natural disaster-affected (sudden-onset, 2022) - Boys"
+1100,"Combination-Natural disaster-affected (sudden-onset, 2022)-Girls","Natural disaster-affected (sudden-onset, 2022) - Girls"
+1100,"Combination-Natural disaster-affected (sudden-onset, 2022)-Men","Natural disaster-affected (sudden-onset, 2022) - Men"
+1100,"Combination-Natural disaster-affected (sudden-onset, 2022)-Women","Natural disaster-affected (sudden-onset, 2022) - Women"
+1100,Combination-Vulnerable people with humanitarian needs-Boys,Vulnerable people with humanitarian needs - Boys
+1100,Combination-Vulnerable people with humanitarian needs-Girls,Vulnerable people with humanitarian needs - Girls
+1100,Combination-Vulnerable people with humanitarian needs-Men,Vulnerable people with humanitarian needs - Men
+1100,Combination-Vulnerable people with humanitarian needs-Women,Vulnerable people with humanitarian needs - Women
+1100,Combination-Refugees and asylum seekers-Boys,Refugees and asylum seekers - Boys
+1100,Combination-Refugees and asylum seekers-Girls,Refugees and asylum seekers - Girls
+1100,Combination-Refugees and asylum seekers-Men,Refugees and asylum seekers - Men
+1100,Combination-Refugees and asylum seekers-Women,Refugees and asylum seekers - Women
+1100,Children,Children
+1100,Adults,Adults
+1100,Elderly,Elderly
+1100,With severe disabilities,With severe disabilities
+1100,Total,Total
+1105,Adult male,Adult Male
+1105,Adult female,Adult Female
+1105,Boys,Boys
+1105,Girls,Girls
+1105,Total,Total
+1110,Total,Total
+1110,Idps-ic-girls,IDPs-IC-Girls
+1110,Idps-ic-boys,IDPs-IC-Boys
+1110,Idps-ic-women,IDPs-IC-Women
+1110,Idps-ic-men,IDPs-IC-Men
+1110,Idps-ic-elderly-women,IDPs-IC-Elderly-Women
+1110,Idps-ic-elderly-men,IDPs-IC-Elderly-Men
+1110,Idps-ihc-girls,IDPs-IHC-Girls
+1110,Idps-ihc-boys,IDPs-IHC-Boys
+1110,Idps-ihc-women,IDPs-IHC-Women
+1110,Idps-ihc-men,IDPs-IHC-Men
+1110,Idps-ihc-elderly-women,IDPs-IHC-Elderly-Women
+1110,Idps-ihc-elderly-men,IDPs-IHC-Elderly-Men
+1110,Returnee-girls,Returnee-Girls
+1110,Returnee-boys,Returnee-Boys
+1110,Returnee-women,Returnee-Women
+1110,Returnee-men,Returnee-Men
+1110,Returnee-elderly-women,Returnee-Elderly-Women
+1110,Returnee-elderly-men,Returnee-Elderly-Men
+1110,Host-community-girls,Host-Community-Girls
+1110,Host-community-boys,Host-Community-Boys
+1110,Host-community-women,Host-Community-Women
+1110,Host-community-men,Host-Community-Men
+1110,Host-community-elderly-women,Host-Community-Elderly-Women
+1110,Host-community-elderly-men,Host-Community-Elderly-Men
+1110,Total-idps-ic,Total-IDPs-IC
+1110,Total-idps-ihc,Total-IDPs-IHC
+1110,Total-returnee,Total-Returnee
+1110,Total-host-community,Total-Host-Community
+1111,Male_0_4,Children - Male - IDP
+1111,Female_0_4,Children - Male - Refugees
+1111,Male_5_17,Children - Male - Host Communities
+1111,Female_5_17,Children - Male - Returnees
+1111,Male_18_59,Children - Female - IDP
+1111,Female_18_59,Children - Female - Refugees
+1111,Male_60+,Children - Female - Host Communities
+1111,Female_60+,Children - Female - Returnees
+1111,Total,Total
+1111,HC_Male_0_4_Target,Children - Male - IDP
+1111,HC_Female_0_4_Target,Children - Male - Refugees
+1111,HC_Male_5_17_Target,Children - Male - Host Communities
+1111,HC_Female_5_17_Target,Children - Male - Returnees
+1111,HC_Male_18_59_Target,Children - Female - IDP
+1111,HC_Female_18_59_Target,Children - Female - Refugees
+1111,HC_Male_60+_Target,Children - Female - Host Communities
+1111,HC_Female_60+_Target,Children - Female - Returnees
+1111,IDPs_Male_0_4_Target,Elderly - Male - IDP
+1111,IDPs_Female_0_4_Target,Elderly - Male - Refugees
+1111,IDPs_Male_5_17_Target,Elderly - Male - Host Communities
+1111,IDPs_Female_5_17_Target,Elderly - Male - Returnees
+1111,IDPs_Male_18_59_Target,Elderly - Female - IDP
+1111,IDPs_Female_18_59_Target,Elderly - Female - Refugees
+1111,IDPs_Male_60+_Target,Elderly - Female - Host Communities
+1111,IDPs_Female_60+_Target,Elderly - Female - Returnees
+1111,Returnees_Male_0_4_Target,Adult - Male - IDP
+1111,Returnees_Female_0_4_Target,Adult - Male - Refugees
+1111,Returnees_Male_5_17_Target,Adult - Male - Host Communities
+1111,Returnees_Female_5_17_Target,Adult - Male - Returnees
+1111,Returnees_Male_18_59_Target,Adult - Female - IDP
+1111,Returnees_Female_18_59_Target,Adult - Female - Refugees
+1111,Returnees_Male_60+_Target,Adult - Female - Host Communities
+1111,Returnees_Female_60+_Target,Adult - Female - Returnees
+1111,Children_Male,Children - Male
+1111,Children_Female,Children - Female
+1111,Adult_Male,Elderly - Male
+1111,Adult_Female,Elderly - Female
+1111,Elderly_Male,Adult - Male
+1111,Elderly_Female,Adult - Female
+1111,Male_0_4_Target,Children - Male - IDP
+1111,Female_0_4_Target,Children - Male - Refugees
+1111,Male_5_11_Target,Children - Male - Host Communities
+1111,Female_5_11_Target,Children - Male - Returnees
+1111,Male_12_17_Target,Children - Female - IDP
+1111,Female_12_17_Target,Children - Female - Refugees
+1111,Male_18_24_Target,Children - Female - Host Communities
+1111,Female_18_24_Target,Children - Female - Returnees
+1111,Male_25_59_Target,Elderly - Male - IDP
+1111,Female_25_59_Target,Elderly - Male - Refugees
+1111,Male_60+_Target,Elderly - Male - Host Communities
+1111,Female_60+_Target,Elderly - Male - Returnees
+1111,Hc m 0_4,HC M 0_4
+1111,Hc f 0_4,HC F 0_4
+1111,Hc m 5_17,HC M 5_17
+1111,Hc f 5_17,HC F 5_17
+1111,Hc m 18_59,HC M 18_59
+1111,Hc f 18_59,HC F 18_59
+1111,Hc m _ 60+,HC M _ 60+
+1111,Hc f _ 60+,HC F _ 60+
+1111,Idp m 0_4,IDP M 0_4
+1111,Idp f 0_4,IDP F 0_4
+1111,Idp m 5_17,IDP M 5_17
+1111,Idp f 5_17,IDP F 5_17
+1111,Idp m 18_59,IDP M 18_59
+1111,Idp f 18_59,IDP F 18_59
+1111,Idp m_60+,IDP M_60+
+1111,Idp f_60+,IDP F_60+
+1111,Returnee m 0_4,Returnee M 0_4
+1111,Returnee f 0_4,Returnee F 0_4
+1111,Returnee m 5_17,Returnee M 5_17
+1111,Returnee f 5_17,Returnee F 5_17
+1111,Returnee m 18_59,Returnee M 18_59
+1111,Returnee f 18_59,Returnee F 18_59
+1111,Returnee  m_60+,Returnee  M_60+
+1111,Returnee  f_60+,Returnee  F_60+
+1111,HC_Boys,Children - Male - IDP
+1111,HC_Girls,Children - Male - Refugees
+1111,HC_Men,Children - Male - Host Communities
+1111,HC_Women,Children - Male - Returnees
+1111,IDP_Boys,Children - Female - IDP
+1111,IDP_Girls,Children - Female - Refugees
+1111,IDP_Men,Children - Female - Host Communities
+1111,IDP_Women,Children - Female - Returnees
+1111,Returnee_Boys,Elderly - Male - IDP
+1111,Returnee_Girls,Elderly - Male - Refugees
+1111,Returnee_Men,Elderly - Male - Host Communities
+1111,Returnee_Women,Elderly - Male - Returnees
+1112,PDI,IDP
+1112,Non-PDI,Host Communities
+1112,Refugies,Refugees
+1112,children-male,Children - Male
+1112,children-female,Children - Female
+1112,adult-male,Adult - Male
+1112,adult-female,Adult - Female
+1112,elderly-male,Elderly - Male
+1112,elderly-female,Elderly - Female
+1112,Handicap,Disability
+1112,Total,Total
+1114,Total,Total
+1114,Combination-children-male,Children - Male
+1114,Combination-children-female,Children - Female
+1114,Combination-elderly-male,Elderly - Male
+1114,Combination-elderly-female,Elderly - Female
+1114,Combination-adult-male,Adult - Male
+1114,Combination-adult-female,Adult - Female
+1114,Idp,IDP
+1114,Refugees,Refugees
+1114,Hostcommunities,Host Communities
+1114,Returnees,Returnees
+1114,Palestinian/ other refugees,Refugees
+1114,Male,Male
+1114,Female,Female
+1114,Young Children  < 5,Children
+1114,Children 5_17,Elderly
+1114,Adult 18_59,Adult
+1114,Older People > 59,Children - Male
+1114,People with disabilities,Children - IDP
+1114,0_17_male,Children - Male
+1114,0_17_female,Children - Female
+1114,above_59_male,Elderly - Male
+1114,above_59_female,Elderly - Female
+1114,18_59_male,Adult - Male
+1114,18_59_female,Adult - Female
+1114,3_4_male,Children - Male
+1114,3_4_female,Children - Female
+1114,5_17_male,Elderly - Male
+1114,5_17_female,Elderly - Female
+1114,18_59_male (Education Per),Adult - Male
+1114,18_59_female (Education Per),Adult - Female
+1114,Total_IDPs,IDP
+1114,Total_Hostcommunities,Host Communities
+1114,Total_Returnees,Returnees
+1114,Total_Refugees,Refugees
+1114,"Total_Male (Sum of All categories, IDPs, Refugee, HC, Returnees)",Male
+1114,"Total_Female((Sum of All categories, IDPs, Refugee, HC, Returnees))",Female
+1114,Male 0-17,Children - Male
+1114,Female 0-17,Children - Female
+1114,Male 18-59,Elderly - Male
+1114,Female 18-59,Elderly - Female
+1114,Male 60+,Adult - Male
+1114,Female 60+,Adult - Female
+1114,IDPs,IDP
+1114,Residents,Host Communities
+1114,CU5,Adult - Male
+1114,Adults 18 - 59 years old,Adult - Female
+1114,Disability,Refugees
+1114,CU5 - Male,Children - Male
+1114,CU5 - Female,Children - Female
+1114,Adolescent Girls 15 - 19 years old,Elderly - Male
+1114,PLWs,Elderly - Female
+1114,Boys(0-17),Children - Male
+1114,Girls(0-17),Children - Female
+1114,Men Elderly(59+),Elderly - Male
+1114,Women Elderly(59+),Elderly - Female
+1114,Men Adult(18-59),Adult - Male
+1114,Women Adult(18-59),Adult - Female
+1114,Persons with Disability,Adult
+1116,Men,Men
+1116,Women,Women
+1116,Boys,Boys
+1116,Girls,Girls
+1116,Idps,IDPs
+1116,Residents,Residents
+1116,Total,Total
+1131,Male,Male
+1131,Female,Female
+1131,Combination-children-male,Children - Male
+1131,Combination-children-female,Children - Female
+1131,Combination-adult-male,Adult - Male
+1131,Combination-adult-female,Adult - Female
+1131,Combination-elderly-male,Elderly - Male
+1131,Combination-elderly-female,Elderly - Female
+1131,Plwd,PLWD
+1131,Idp,IDP
+1131,Refugees,Refugees
+1131,Hostcommunities,Host Communities
+1131,Returnees,Returnees
+1131,Total,Total
+1132,Children,Children
+1132,Adult,Adult
+1132,Elderly,Elderly
+1132,Male,Male
+1132,Female,Female
+1132,Persons with disabilities,Persons with disabilities
+1132,IDPs,IDP
+1132,"Returned, resettled and locally integrated idps","Returned, resettled and locally integrated IDPs"
+1132,Non-displaced stateless people,Non-displaced stateless people
+1132,Other crisis-affected people with humanitarian needs,Other crisis-affected people with humanitarian needs
+1132,Total,Total
+1135,Total,Total
+1135,Niñas(0_17años),Children - Female
+1135,Niños(0_17años),Children - Male
+1135,Mujeres(18_59años),Adult - Female
+1135,Hombres(18_59años),Adult - Male
+1135,Hombres Mayores (>60años),Elderly - Female
+1135,Mujeres Mayores (>60años),Elderly - Male
+1140,Total,Total
+1140,Men,Men
+1140,Women,Women
+1140,Boys,Boys
+1140,Girls,Girls
+1145,Total,Total
+1145,Garçons,Children - Male
+1145,Filles,Children - Female
+1145,Adulte Homme,Elderly - Male
+1145,Adulte Femme,Elderly - Female
+1145,Pers. âgée Homme,Adult - Male
+1145,Pers. âgée Femme,Adult - Female
+1145,PDI,IDP
+1145,Réfugiés,Refugees
+1145,Retournés,Returnees
+1145,Migrants,Migrants
+1145,Communauté Hôte,Host Communities
+1023,Girls (<18yrs),Children - Female
+1023,Boys (<18yrs),Children - Male
+1023,Women (>18yrs),Adult - Female
+1023,Men (>18yrs),Adult - Male
+1023,Total,Total
+1023,Girls (<18yrs),Children - Male
+1023,Boys (<18yrs),Children - Female
+1023,Women (>18yrs),Adult - Male
+1023,Men (>18yrs),Adult - Female
+1023,Girls (3yrs),Female - 3yrs
+1023,Boys (3yrs),Male - 3yrs
+1023,Girls (4_5yrs),Female - 4_5yrs
+1023,Boys (4_5yrs),Male - 4_5yrs
+1023,Girls (6_14yrs),Female - 6_14yrs
+1023,Boys (6_14yrs),Male - 6_14yrs
+1023,Girls (15_17yrs),Female - 15_17yrs
+1023,Boys (15_17yrs),Male - 15_17yrs
+1023,Girls (18_24yrs),Female - 18_24yrs
+1023,Boys (18_24yrs),Male - 18_24yrs
+1023,Women (>24yrs),Male - >24yrs
+1023,Men (>24yrs),Female - >24yrs
+1023,Girls (<5yrs),Children - Male
+1023,Boys (<5yrs),Children - Female
+1023,Girls (13_19yrs),Elderly - Male
+1023,Boys (13_19yrs),Elderly - Female
+1023,Women (=>19yrs),Adult - Male
+1023,Men (=>19yrs),Adult - Female
+1011,IDPs,IDP
+1011,Non IDPs,Host Communities
+1011,Total,Total
+1011,Men,Male
+1011,Women,Female
+1011,Boys,Boys
+1011,Girls,Girls
+1011,Elderly,Elderly
+1011,Displaced,IDP
+1011,Non Displaced,Host Communities
+1011,Disability,Returnees
+1011,Girls,Male
+1011,Boys,Female
+1011,Non Displaced,Refugees
+1011,Disability,Host Communities
+1011,Non Displaced,Returnees
+1011,Disability,Refugees
+1011,Disabled,Refugees
+1011,Male,Male
+1011,Female,Female
+1011,IDP,IDP
+1011,Non IDP,Host Communities
+1082,Girls (<18yrs),Girls (<18yrs)
+1082,Boys (<18yrs),Boys (<18yrs)
+1082,Women (18_59yrs),Women (18_59yrs)
+1082,Men (18_59yrs),Men (18_59yrs)
+1082,Women (>59yrs),Women (>59yrs)
+1082,Men (>59yrs),Men (>59yrs)
+1082,Total,Total
+1082,Girls (<18yrs),Children - Male
+1082,Boys (<18yrs),Children - Female
+1082,Women (18_59 yrs),Elderly - Male
+1082,Men (18_59 yrs),Elderly - Female
+1082,Women (>59 yrs),Adult - Male
+1082,Men (>59yrs),Adult - Female
+1082,Girls (<5 mnt),Female - (<5 mnt)
+1082,Boys (<5 mnt),Male - (<5 mnt)
+1082,Girls (6_23 mnt),Female - (6_23 mnt)
+1082,Boys (6_23 mnt),Male - (6_23 mnt)
+1082,Girls (24_59 mnt),Female - (24_59 mnt)
+1082,Boys (24_59 mnt),Male - (24_59 mnt)
+1082,Adolescent girls (10_19 yrs),Female - (10_19 yrs)
+1082,women (20_49 yrs),Female - (20_49 yrs)
+1082,Girls (3 yrs),Female - (3 yrs)
+1082,Boys (3 yrs),Male - (3 yrs)
+1082,Girls (4_5 yrs),Female - (4_5 yrs)
+1082,Boys (4_5 yrs),Male - (4_5 yrs)
+1082,Girls (6_14 yrs),Female - (6_14 yrs)
+1082,Boys (6_14 yrs),Male - (6_14 yrs)
+1082,Girls (15_18 yrs),Female - (15_18 yrs)
+1082,Boys (15_18 yrs),Male - (15_18 yrs)
+1082,Girls (19_24 yrs),Female - (19_24 yrs)
+1082,Boys (19_24 yrs),Male - (19_24 yrs)
+1108,Total,Total
+1108,Men,Men
+1108,Women,Women
+1108,Boys,Boys
+1108,Girls,Girls
+1099,Total,Total
+1099,Male,Male
+1099,Female,Female
+1099,Lebanese,Lebanese
+1099,Palestine refugees in lebanon,Palestine refugees in Lebanon
+1099,Migrants,Migrants
+1099,Boys,Children - Male
+1099,Girls,Children - Female
+1099,Men,Adult - Male
+1099,Women,Adult - Female
+1122,Pdi,PDI
+1122,Retournes,Retournes
+1122,Rapatries,Rapatries
+1122,Autres,Autres
+1122,Total,Total
+1122,Combination-children-male-PDI,Children - Male - PDI
+1122,Combination-children-female-PDI,Children - Female - PDI
+1122,Combination-children-male-Retournes,Children - Male - Retournes
+1122,Combination-children-female-Retournes,Children - Female - Retournes
+1122,Combination-children-male-Rapatries,Children - Male - Rapatries
+1122,Combination-children-female-Rapatries,Children - Female - Rapatries
+1122,Combination-children-male-Autres,Children - Male - Autres
+1122,Combination-children-female-Autres,Children - Female - Autres
+1122,Combination-adult-male-PDI,Adult - Male - PDI
+1122,Combination-adult-female-PDI,Adult - Female - PDI
+1122,Combination-adult-male-Retournes,Adult - Male - Retournes
+1122,Combination-adult-female-Retournes,Adult - Female - Retournes
+1122,Combination-adult-male-Rapatries,Adult - Male - Rapatries
+1122,Combination-adult-female-Rapatries,Adult - Female - Rapatries
+1122,Combination-adult-male-Autres,Adult - Male - Autres
+1122,Combination-adult-female-Autres,Adult - Female - Autres
+1122,Combination-elderly-male-PDI,Elderly - Male - PDI
+1122,Combination-elderly-female-PDI,Elderly - Female - PDI
+1122,Combination-elderly-male-Retournes,Elderly - Male - Retournes
+1122,Combination-elderly-female-Retournes,Elderly - Female - Retournes
+1122,Combination-elderly-male-Rapatries,Elderly - Male - Rapatries
+1122,Combination-elderly-female-Rapatries,Elderly - Female - Rapatries
+1122,Combination-elderly-male-Autres,Elderly - Male - Autres
+1122,Combination-elderly-female-Autres,Elderly - Female - Autres
