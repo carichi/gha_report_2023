@@ -58,14 +58,15 @@ pccs <- fread("datasets/Protracted Crisis/protracted_crisis_classifications.csv"
 pccs <- pccs[year == 2022, .(iso3, consecutive_crisis, crisis_class)]
 
 ##HRPs##
-hrps <- fts_get_appeals(2022)
+hrps <- fts_get_appeals(2017:2022)
 hrps[, `:=` (iso3 = unlist(lapply(locations, function(x) paste0(x$iso3[x$adminLevel == 0], collapse = ";"))), type = unlist(lapply(categories, function(x) x$name)))]
 hrps <- hrps[type != "Regional response plan"]
 
 hrps_list <- list()
 for(i in 1:nrow(hrps)){
   id <- hrps[i]$id
-  hrps_list[[i]] <- fts_get_appeal_totals(id, 2022)
+  year <- hrps[i]$years[[1]]$year
+  hrps_list[[i]] <- fts_get_appeal_totals(id, year)
 }
 hrps_dt <- rbindlist(hrps_list[unlist(lapply(hrps_list, function(x) is.data.frame(x)))], fill = T)
 
